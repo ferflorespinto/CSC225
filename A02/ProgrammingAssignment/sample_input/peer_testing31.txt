@@ -1,0 +1,12 @@
+10
+0 add 1 4
+0 add 2 4
+0 add 3 4
+0 add 4 4
+1 renice 2 -1
+2 renice 3 -2
+3 renice 4 -3
+4 kill 4
+8 add 3 4
+8 renice 3 -10
+13 kill 2

@@ -1,0 +1,38 @@
+2000
+0 add 1999 5000
+0 add 14 5
+0 renice 1999 100001
+1 kill 14
+2 add 14 10
+2 renice 14 100000
+2 kill 14
+2 add 14 5
+2 kill 14
+2 add 14 5
+2 renice 1999 -1000000
+3 kill 14
+4000 add 1 10
+4000 add 2 10
+4000 add 3 10
+4000 add 4 10
+4000 add 5 10
+4000 add 6 10
+4000 add 7 10
+4000 add 8 10
+4001 kill 1999
+4002 kill 5
+4003 renice 8 -100
+4003 renice 8 0
+4004 renice 8 -100
+4004 renice 8 -100
+4005 kill 7
+4006 kill 8
+4007 renice 4 1000
+4007 renice 6 -1000
+4008 add 1000 100
+4008 add 1001 100
+4100 renice 1000 -1000
+4101 renice 1001 -1001
+4102 renice 1000 -1002
+4103 renice 1001 -1003
+10000 add 100 1

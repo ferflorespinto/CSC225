@@ -1,0 +1,35 @@
+5
+0 add 4 101
+4 add 0 2
+5 kill 0
+5 add 0 2
+6 kill 0
+6 add 0 2
+7 kill 0
+7 add 0 2
+8 kill 0
+8 add 0 2
+9 kill 0
+10 add 1 2
+10 add 2 2
+10 add 0 2
+10 add 3 2
+18 add 3 2
+18 add 2 2
+18 add 0 2
+18 add 1 2
+19 renice 1 -2147483648
+19 renice 0 2147483647
+19 kill 2
+120 add 4 2
+121 kill 4
+121 add 3 1
+122 add 3 1
+123 add 3 1
+123 add 2 257
+381 add 3 1
+381 add 2 1
+381 add 1 2
+381 add 0 1
+382 renice 1 -1
+382 renice 2 1

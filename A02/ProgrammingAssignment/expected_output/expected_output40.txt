@@ -1,0 +1,61 @@
+Time 0: Adding task 0 (time remaining 4)
+Time 0: Adding task 1 (time remaining 4)
+Time 0: Adding task 2 (time remaining 4)
+Time 0: Adding task 3 (time remaining 4)
+Time 0: Adding task 4 (time remaining 4)
+Time 0: Adding task 5 (time remaining 4)
+Time 0: Adding task 6 (time remaining 4)
+Time 0: Adding task 7 (time remaining 4)
+Time 0: Adding task 8 (time remaining 4)
+Time 0: Adding task 9 (time remaining 4)
+Time 0: Adding task 10 (time remaining 4)
+Time 0: Adding task 11 (time remaining 4)
+Time 0: Adding task 12 (time remaining 4)
+Time 0: Adding task 13 (time remaining 4)
+Time 0: Adding task 14 (time remaining 4)
+Time 0: Adding task 15 (time remaining 4)
+Time 0: Adding task 16 (time remaining 4)
+Time 0: Adding task 17 (time remaining 4)
+Time 0: Adding task 18 (time remaining 4)
+Time 0: Adding task 19 (time remaining 4)
+Time 0: Renicing task 0 (old priority 0, new priority 20, time remaining 4)
+Time 0: Renicing task 1 (old priority 0, new priority 19, time remaining 4)
+Time 0: Renicing task 2 (old priority 0, new priority 18, time remaining 4)
+Time 0: Renicing task 3 (old priority 0, new priority 17, time remaining 4)
+Time 0: Renicing task 4 (old priority 0, new priority 16, time remaining 4)
+Time 0: Renicing task 5 (old priority 0, new priority 15, time remaining 4)
+Time 0: Renicing task 6 (old priority 0, new priority 14, time remaining 4)
+Time 0: Renicing task 7 (old priority 0, new priority 13, time remaining 4)
+Time 0: Renicing task 8 (old priority 0, new priority 12, time remaining 4)
+Time 0: Renicing task 9 (old priority 0, new priority 11, time remaining 4)
+Time 0: Renicing task 10 (old priority 0, new priority 10, time remaining 4)
+Time 0: Renicing task 11 (old priority 0, new priority 9, time remaining 4)
+Time 0: Renicing task 12 (old priority 0, new priority 8, time remaining 4)
+Time 0: Renicing task 13 (old priority 0, new priority 7, time remaining 4)
+Time 0: Renicing task 14 (old priority 0, new priority 6, time remaining 4)
+Time 0: Renicing task 15 (old priority 0, new priority 5, time remaining 4)
+Time 0: Renicing task 16 (old priority 0, new priority 4, time remaining 4)
+Time 0: Renicing task 17 (old priority 0, new priority 3, time remaining 4)
+Time 0: Renicing task 18 (old priority 0, new priority 2, time remaining 4)
+Time 0: Renicing task 19 (old priority 0, new priority 1, time remaining 4)
+Time 3: Job 19 finished
+Time 7: Job 18 finished
+Time 11: Job 17 finished
+Time 15: Job 16 finished
+Time 19: Job 15 finished
+Time 23: Job 14 finished
+Time 27: Job 13 finished
+Time 31: Job 12 finished
+Time 35: Job 11 finished
+Time 39: Job 10 finished
+Time 43: Job 9 finished
+Time 47: Job 8 finished
+Time 51: Job 7 finished
+Time 55: Job 6 finished
+Time 59: Job 5 finished
+Time 63: Job 4 finished
+Time 67: Job 3 finished
+Time 71: Job 2 finished
+Time 75: Job 1 finished
+Time 79: Job 0 finished
+Time 80: CPU Idle (ending simulation)

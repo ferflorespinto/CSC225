@@ -1,0 +1,10 @@
+32768
+0 add 4 5
+0 add 7 1
+0 add 32767 3
+0 renice 7 0
+0 renice 4 -1
+0 renice 32767 -2
+7 kill 4
+7 add 4 3
+9 renice 4 123

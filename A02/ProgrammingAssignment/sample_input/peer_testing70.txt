@@ -1,0 +1,10 @@
+30000
+0 add 8 3
+0 add 10 4
+0 add 18 5
+0 renice 8 -1
+0 renice 10 100
+0 renice 18 1
+4 add 226 6
+7 kill 226
+9 renice 10 -3

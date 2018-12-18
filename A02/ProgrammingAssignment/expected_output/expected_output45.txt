@@ -1,0 +1,3001 @@
+Time 0: Adding task 21403 (time remaining 979)
+Time 0: Renicing task 21403 (old priority 0, new priority -7, time remaining 979)
+Time 2: Adding task 19638 (time remaining 738)
+Time 2: Renicing task 19638 (old priority 0, new priority 10, time remaining 738)
+Time 4: Adding task 19691 (time remaining 746)
+Time 4: Renicing task 19638 (old priority 10, new priority 1, time remaining 738)
+Time 5: Adding task 4526 (time remaining 494)
+Time 5: Renicing task 4526 (old priority 0, new priority 7, time remaining 494)
+Time 6: Adding task 2388 (time remaining 987)
+Time 6: Renicing task 21403 (old priority -7, new priority -10, time remaining 973)
+Time 7: Adding task 49583 (time remaining 452)
+Time 7: Renicing task 4526 (old priority 7, new priority 9, time remaining 494)
+Time 11: Adding task 23136 (time remaining 532)
+Time 11: Renicing task 4526 (old priority 9, new priority -3, time remaining 494)
+Time 15: Adding task 62325 (time remaining 862)
+Time 15: Renicing task 62325 (old priority 0, new priority -4, time remaining 862)
+Time 19: Adding task 22950 (time remaining 866)
+Time 19: Renicing task 2388 (old priority 0, new priority -2, time remaining 987)
+Time 20: Adding task 31345 (time remaining 411)
+Time 20: Renicing task 19638 (old priority 1, new priority 7, time remaining 738)
+Time 21: Adding task 12196 (time remaining 434)
+Time 21: Renicing task 19691 (old priority 0, new priority 2, time remaining 746)
+Time 25: Adding task 54616 (time remaining 869)
+Time 25: Renicing task 19638 (old priority 7, new priority 1, time remaining 738)
+Time 25: Adding task 35428 (time remaining 685)
+Time 25: Renicing task 4526 (old priority -3, new priority -5, time remaining 494)
+Time 25: Adding task 62569 (time remaining 769)
+Time 25: Renicing task 54616 (old priority 0, new priority 3, time remaining 869)
+Time 28: Adding task 7115 (time remaining 919)
+Time 28: Renicing task 49583 (old priority 0, new priority 7, time remaining 452)
+Time 31: Adding task 36176 (time remaining 818)
+Time 31: Renicing task 62569 (old priority 0, new priority 0, time remaining 769)
+Time 31: Adding task 25522 (time remaining 508)
+Time 31: Renicing task 4526 (old priority -5, new priority -6, time remaining 494)
+Time 34: Adding task 41955 (time remaining 865)
+Time 34: Renicing task 7115 (old priority 0, new priority -9, time remaining 919)
+Time 38: Adding task 9057 (time remaining 816)
+Time 38: Renicing task 49583 (old priority 7, new priority -7, time remaining 452)
+Time 39: Adding task 45522 (time remaining 878)
+Time 39: Renicing task 9057 (old priority 0, new priority 2, time remaining 816)
+Time 42: Adding task 34939 (time remaining 265)
+Time 42: Renicing task 23136 (old priority 0, new priority -8, time remaining 532)
+Time 42: Adding task 0 (time remaining 860)
+Time 42: Renicing task 35428 (old priority 0, new priority -4, time remaining 685)
+Time 46: Adding task 13104 (time remaining 412)
+Time 46: Renicing task 22950 (old priority 0, new priority -4, time remaining 866)
+Time 46: Adding task 27384 (time remaining 404)
+Time 46: Renicing task 35428 (old priority -4, new priority -3, time remaining 685)
+Time 47: Adding task 10541 (time remaining 728)
+Time 47: Renicing task 2388 (old priority -2, new priority -6, time remaining 987)
+Time 49: Adding task 19664 (time remaining 160)
+Time 49: Renicing task 19664 (old priority 0, new priority 7, time remaining 160)
+Time 52: Adding task 57879 (time remaining 611)
+Time 52: Renicing task 34939 (old priority 0, new priority 10, time remaining 265)
+Time 55: Adding task 33329 (time remaining 161)
+Time 55: Renicing task 13104 (old priority 0, new priority -8, time remaining 412)
+Time 59: Adding task 24027 (time remaining 943)
+Time 59: Renicing task 4526 (old priority -6, new priority -7, time remaining 494)
+Time 61: Adding task 6799 (time remaining 720)
+Time 61: Renicing task 2388 (old priority -6, new priority -8, time remaining 987)
+Time 64: Adding task 32564 (time remaining 816)
+Time 64: Renicing task 4526 (old priority -7, new priority -7, time remaining 494)
+Time 67: Adding task 58540 (time remaining 854)
+Time 67: Renicing task 6799 (old priority 0, new priority 9, time remaining 720)
+Time 68: Adding task 14119 (time remaining 156)
+Time 68: Renicing task 19638 (old priority 1, new priority -2, time remaining 738)
+Time 68: Adding task 40230 (time remaining 993)
+Time 68: Renicing task 35428 (old priority -3, new priority 3, time remaining 685)
+Time 68: Adding task 53208 (time remaining 56)
+Time 68: Renicing task 6799 (old priority 9, new priority 5, time remaining 720)
+Time 71: Adding task 31922 (time remaining 299)
+Time 71: Renicing task 14119 (old priority 0, new priority -5, time remaining 156)
+Time 72: Adding task 24474 (time remaining 339)
+Time 72: Renicing task 19691 (old priority 2, new priority 0, time remaining 746)
+Time 75: Adding task 29551 (time remaining 232)
+Time 75: Renicing task 12196 (old priority 0, new priority 3, time remaining 434)
+Time 76: Adding task 3868 (time remaining 34)
+Time 76: Renicing task 9057 (old priority 2, new priority 6, time remaining 816)
+Time 80: Adding task 48796 (time remaining 596)
+Time 80: Renicing task 62325 (old priority -4, new priority -9, time remaining 862)
+Time 81: Adding task 63821 (time remaining 8)
+Time 81: Renicing task 54616 (old priority 3, new priority 1, time remaining 869)
+Time 85: Adding task 12772 (time remaining 654)
+Time 85: Renicing task 40230 (old priority 0, new priority -10, time remaining 993)
+Time 88: Adding task 30461 (time remaining 862)
+Time 88: Renicing task 33329 (old priority 0, new priority 8, time remaining 161)
+Time 91: Adding task 34337 (time remaining 989)
+Time 91: Renicing task 24474 (old priority 0, new priority 8, time remaining 339)
+Time 92: Adding task 15863 (time remaining 670)
+Time 92: Renicing task 7115 (old priority -9, new priority 5, time remaining 919)
+Time 92: Adding task 2232 (time remaining 374)
+Time 92: Renicing task 22950 (old priority -4, new priority -6, time remaining 866)
+Time 92: Adding task 55649 (time remaining 312)
+Time 92: Renicing task 57879 (old priority 0, new priority 10, time remaining 611)
+Time 93: Adding task 59674 (time remaining 743)
+Time 93: Renicing task 12196 (old priority 3, new priority 0, time remaining 434)
+Time 97: Adding task 18905 (time remaining 144)
+Time 97: Renicing task 59674 (old priority 0, new priority 5, time remaining 743)
+Time 100: Adding task 10619 (time remaining 115)
+Time 100: Renicing task 10541 (old priority 0, new priority 9, time remaining 728)
+Time 100: Adding task 38248 (time remaining 525)
+Time 100: Renicing task 18905 (old priority 0, new priority 3, time remaining 144)
+Time 101: Adding task 29963 (time remaining 234)
+Time 101: Renicing task 19691 (old priority 0, new priority 3, time remaining 746)
+Time 102: Adding task 25618 (time remaining 422)
+Time 102: Renicing task 25618 (old priority 0, new priority -10, time remaining 422)
+Time 105: Adding task 9418 (time remaining 324)
+Time 105: Renicing task 29551 (old priority 0, new priority 0, time remaining 232)
+Time 108: Adding task 33767 (time remaining 330)
+Time 108: Renicing task 62325 (old priority -9, new priority -6, time remaining 862)
+Time 108: Adding task 58629 (time remaining 387)
+Time 108: Renicing task 9057 (old priority 6, new priority -8, time remaining 816)
+Time 110: Adding task 39 (time remaining 300)
+Time 110: Renicing task 39 (old priority 0, new priority 8, time remaining 300)
+Time 110: Adding task 21688 (time remaining 810)
+Time 110: Renicing task 7115 (old priority 5, new priority -8, time remaining 919)
+Time 111: Adding task 19445 (time remaining 874)
+Time 111: Renicing task 57879 (old priority 10, new priority 7, time remaining 611)
+Time 115: Adding task 48559 (time remaining 317)
+Time 115: Renicing task 21403 (old priority -10, new priority -2, time remaining 864)
+Time 116: Adding task 63496 (time remaining 17)
+Time 116: Renicing task 24027 (old priority 0, new priority -1, time remaining 943)
+Time 117: Adding task 36057 (time remaining 726)
+Time 117: Renicing task 10619 (old priority 0, new priority -1, time remaining 115)
+Time 117: Adding task 61151 (time remaining 766)
+Time 117: Renicing task 0 (old priority 0, new priority -10, time remaining 860)
+Time 120: Adding task 25990 (time remaining 505)
+Time 120: Renicing task 24027 (old priority -1, new priority 2, time remaining 943)
+Time 123: Adding task 32590 (time remaining 51)
+Time 123: Renicing task 30461 (old priority 0, new priority 8, time remaining 862)
+Time 127: Adding task 46388 (time remaining 45)
+Time 127: Renicing task 58629 (old priority 0, new priority 0, time remaining 387)
+Time 128: Adding task 16644 (time remaining 60)
+Time 128: Renicing task 2388 (old priority -8, new priority -3, time remaining 987)
+Time 132: Adding task 16308 (time remaining 304)
+Time 132: Renicing task 21403 (old priority -2, new priority 6, time remaining 864)
+Time 133: Adding task 23672 (time remaining 677)
+Time 133: Renicing task 63821 (old priority 0, new priority -1, time remaining 8)
+Time 133: Adding task 43386 (time remaining 581)
+Time 133: Renicing task 23136 (old priority -8, new priority -4, time remaining 532)
+Time 135: Adding task 29512 (time remaining 762)
+Time 135: Renicing task 58629 (old priority 0, new priority 0, time remaining 387)
+Time 135: Adding task 2045 (time remaining 461)
+Time 135: Renicing task 54616 (old priority 1, new priority -8, time remaining 869)
+Time 138: Adding task 34024 (time remaining 146)
+Time 138: Renicing task 6799 (old priority 5, new priority -9, time remaining 720)
+Time 139: Adding task 45636 (time remaining 807)
+Time 139: Renicing task 55649 (old priority 0, new priority 4, time remaining 312)
+Time 142: Adding task 50999 (time remaining 113)
+Time 142: Renicing task 24027 (old priority 2, new priority 8, time remaining 943)
+Time 143: Adding task 11940 (time remaining 749)
+Time 143: Renicing task 15863 (old priority 0, new priority -5, time remaining 670)
+Time 144: Adding task 21604 (time remaining 185)
+Time 144: Renicing task 23672 (old priority 0, new priority 2, time remaining 677)
+Time 145: Adding task 12860 (time remaining 405)
+Time 145: Renicing task 36057 (old priority 0, new priority 9, time remaining 726)
+Time 146: Adding task 1553 (time remaining 228)
+Time 146: Renicing task 23672 (old priority 2, new priority -4, time remaining 677)
+Time 146: Adding task 15178 (time remaining 608)
+Time 146: Renicing task 39 (old priority 8, new priority 8, time remaining 300)
+Time 146: Adding task 47699 (time remaining 825)
+Time 146: Renicing task 3868 (old priority 0, new priority 8, time remaining 34)
+Time 149: Adding task 44399 (time remaining 371)
+Time 149: Renicing task 34939 (old priority 10, new priority -2, time remaining 265)
+Time 150: Adding task 22846 (time remaining 784)
+Time 150: Renicing task 27384 (old priority 0, new priority -7, time remaining 404)
+Time 153: Adding task 20013 (time remaining 439)
+Time 153: Renicing task 62569 (old priority 0, new priority 9, time remaining 769)
+Time 153: Adding task 10876 (time remaining 27)
+Time 153: Renicing task 34024 (old priority 0, new priority 7, time remaining 146)
+Time 153: Adding task 9528 (time remaining 927)
+Time 153: Renicing task 34939 (old priority -2, new priority -8, time remaining 265)
+Time 156: Adding task 45291 (time remaining 916)
+Time 156: Renicing task 44399 (old priority 0, new priority 0, time remaining 371)
+Time 159: Adding task 44868 (time remaining 93)
+Time 159: Renicing task 1553 (old priority 0, new priority 3, time remaining 228)
+Time 161: Adding task 18470 (time remaining 237)
+Time 161: Renicing task 31922 (old priority 0, new priority -6, time remaining 299)
+Time 164: Adding task 57192 (time remaining 506)
+Time 164: Renicing task 15863 (old priority -5, new priority 1, time remaining 670)
+Time 166: Adding task 64476 (time remaining 984)
+Time 166: Renicing task 11940 (old priority 0, new priority -3, time remaining 749)
+Time 169: Adding task 64286 (time remaining 745)
+Time 169: Renicing task 61151 (old priority 0, new priority 2, time remaining 766)
+Time 172: Adding task 31946 (time remaining 443)
+Time 172: Renicing task 32590 (old priority 0, new priority -7, time remaining 51)
+Time 172: Adding task 5043 (time remaining 262)
+Time 172: Renicing task 32564 (old priority 0, new priority 7, time remaining 816)
+Time 174: Adding task 4527 (time remaining 743)
+Time 174: Renicing task 1553 (old priority 3, new priority -8, time remaining 228)
+Time 177: Adding task 58754 (time remaining 976)
+Time 177: Renicing task 44868 (old priority 0, new priority 6, time remaining 93)
+Time 180: Adding task 60832 (time remaining 414)
+Time 180: Renicing task 45291 (old priority 0, new priority 4, time remaining 916)
+Time 182: Adding task 42632 (time remaining 423)
+Time 182: Renicing task 31345 (old priority 0, new priority 3, time remaining 411)
+Time 182: Adding task 22278 (time remaining 774)
+Time 182: Renicing task 18905 (old priority 3, new priority 5, time remaining 144)
+Time 184: Adding task 47668 (time remaining 596)
+Time 184: Renicing task 23136 (old priority -4, new priority 9, time remaining 532)
+Time 187: Adding task 36293 (time remaining 646)
+Time 187: Renicing task 19638 (old priority -2, new priority 5, time remaining 738)
+Time 191: Adding task 3260 (time remaining 85)
+Time 191: Renicing task 31922 (old priority -6, new priority 5, time remaining 299)
+Time 195: Adding task 53621 (time remaining 892)
+Time 195: Renicing task 9418 (old priority 0, new priority 9, time remaining 324)
+Time 197: Adding task 48227 (time remaining 481)
+Time 197: Renicing task 19445 (old priority 0, new priority 5, time remaining 874)
+Time 200: Adding task 23751 (time remaining 105)
+Time 200: Renicing task 27384 (old priority -7, new priority 7, time remaining 404)
+Time 201: Adding task 45013 (time remaining 854)
+Time 201: Renicing task 32564 (old priority 7, new priority 9, time remaining 816)
+Time 204: Adding task 38688 (time remaining 42)
+Time 204: Renicing task 38688 (old priority 0, new priority -7, time remaining 42)
+Time 207: Adding task 17823 (time remaining 404)
+Time 207: Renicing task 33767 (old priority 0, new priority 6, time remaining 330)
+Time 207: Adding task 15300 (time remaining 132)
+Time 207: Renicing task 17823 (old priority 0, new priority -6, time remaining 404)
+Time 210: Adding task 44748 (time remaining 885)
+Time 210: Renicing task 64286 (old priority 0, new priority 9, time remaining 745)
+Time 214: Adding task 17483 (time remaining 802)
+Time 214: Renicing task 33329 (old priority 8, new priority 4, time remaining 161)
+Time 218: Adding task 3418 (time remaining 676)
+Time 218: Renicing task 55649 (old priority 4, new priority 0, time remaining 312)
+Time 221: Adding task 9589 (time remaining 142)
+Time 221: Renicing task 32564 (old priority 9, new priority -10, time remaining 816)
+Time 223: Adding task 41861 (time remaining 168)
+Time 223: Renicing task 12196 (old priority 0, new priority -4, time remaining 434)
+Time 226: Adding task 26479 (time remaining 106)
+Time 226: Renicing task 5043 (old priority 0, new priority -10, time remaining 262)
+Time 226: Adding task 21077 (time remaining 131)
+Time 226: Renicing task 9528 (old priority 0, new priority 10, time remaining 927)
+Time 227: Adding task 65496 (time remaining 410)
+Time 227: Renicing task 64286 (old priority 9, new priority -4, time remaining 745)
+Time 227: Adding task 10610 (time remaining 211)
+Time 227: Renicing task 34939 (old priority -8, new priority 4, time remaining 265)
+Time 227: Adding task 41608 (time remaining 112)
+Time 227: Renicing task 16308 (old priority 0, new priority 4, time remaining 304)
+Time 231: Adding task 46975 (time remaining 588)
+Time 231: Renicing task 35428 (old priority 3, new priority -3, time remaining 685)
+Time 235: Adding task 45120 (time remaining 2)
+Time 235: Renicing task 12860 (old priority 0, new priority 5, time remaining 405)
+Time 238: Adding task 15879 (time remaining 223)
+Time 238: Renicing task 32564 (old priority -10, new priority -6, time remaining 816)
+Time 240: Adding task 38558 (time remaining 860)
+Time 240: Renicing task 61151 (old priority 2, new priority 2, time remaining 766)
+Time 240: Adding task 31 (time remaining 828)
+Time 240: Renicing task 38248 (old priority 0, new priority -9, time remaining 525)
+Time 241: Adding task 38154 (time remaining 14)
+Time 241: Renicing task 46975 (old priority 0, new priority 3, time remaining 588)
+Time 245: Adding task 14333 (time remaining 559)
+Time 245: Renicing task 50999 (old priority 0, new priority -8, time remaining 113)
+Time 246: Adding task 36051 (time remaining 83)
+Time 246: Renicing task 14119 (old priority -5, new priority 9, time remaining 156)
+Time 248: Adding task 44899 (time remaining 282)
+Time 248: Renicing task 2388 (old priority -3, new priority -2, time remaining 987)
+Time 250: Adding task 2629 (time remaining 541)
+Time 250: Renicing task 34024 (old priority 7, new priority -9, time remaining 146)
+Time 254: Adding task 65168 (time remaining 503)
+Time 254: Renicing task 61151 (old priority 2, new priority 9, time remaining 766)
+Time 258: Adding task 13937 (time remaining 111)
+Time 258: Renicing task 18905 (old priority 5, new priority 1, time remaining 144)
+Time 260: Adding task 22396 (time remaining 72)
+Time 260: Renicing task 12196 (old priority -4, new priority 0, time remaining 434)
+Time 264: Adding task 10488 (time remaining 721)
+Time 264: Renicing task 15879 (old priority 0, new priority 4, time remaining 223)
+Time 266: Adding task 24106 (time remaining 757)
+Time 266: Renicing task 9528 (old priority 10, new priority 4, time remaining 927)
+Time 270: Adding task 52159 (time remaining 90)
+Time 270: Renicing task 1553 (old priority -8, new priority 0, time remaining 228)
+Time 271: Adding task 60712 (time remaining 889)
+Time 271: Renicing task 57192 (old priority 0, new priority 7, time remaining 506)
+Time 273: Adding task 33508 (time remaining 725)
+Time 273: Renicing task 12860 (old priority 5, new priority 4, time remaining 405)
+Time 273: Adding task 54320 (time remaining 330)
+Time 273: Renicing task 24027 (old priority 8, new priority 9, time remaining 943)
+Time 277: Adding task 18328 (time remaining 898)
+Time 277: Renicing task 29512 (old priority 0, new priority 10, time remaining 762)
+Time 278: Adding task 53287 (time remaining 931)
+Time 278: Renicing task 15300 (old priority 0, new priority -9, time remaining 132)
+Time 282: Adding task 14050 (time remaining 279)
+Time 282: Renicing task 3260 (old priority 0, new priority 9, time remaining 85)
+Time 283: Adding task 61404 (time remaining 439)
+Time 283: Renicing task 24474 (old priority 8, new priority -9, time remaining 339)
+Time 287: Adding task 31763 (time remaining 355)
+Time 287: Renicing task 12772 (old priority 0, new priority 6, time remaining 654)
+Time 291: Adding task 20962 (time remaining 316)
+Time 291: Renicing task 49583 (old priority -7, new priority 5, time remaining 452)
+Time 293: Adding task 23630 (time remaining 280)
+Time 293: Renicing task 4526 (old priority -7, new priority 7, time remaining 494)
+Time 296: Adding task 29283 (time remaining 82)
+Time 296: Renicing task 38248 (old priority -9, new priority -4, time remaining 525)
+Time 296: Adding task 17065 (time remaining 906)
+Time 296: Renicing task 44748 (old priority 0, new priority 10, time remaining 885)
+Time 297: Adding task 27529 (time remaining 167)
+Time 297: Renicing task 63821 (old priority -1, new priority -4, time remaining 8)
+Time 300: Adding task 28169 (time remaining 728)
+Time 300: Renicing task 27384 (old priority 7, new priority 5, time remaining 404)
+Time 302: Adding task 44237 (time remaining 464)
+Time 302: Renicing task 11940 (old priority -3, new priority -4, time remaining 749)
+Time 302: Adding task 6324 (time remaining 46)
+Time 302: Renicing task 17065 (old priority 0, new priority -9, time remaining 906)
+Time 306: Adding task 56624 (time remaining 102)
+Time 306: Renicing task 58629 (old priority 0, new priority 2, time remaining 387)
+Time 306: Adding task 4103 (time remaining 276)
+Time 306: Renicing task 32564 (old priority -6, new priority -9, time remaining 816)
+Time 310: Adding task 13872 (time remaining 618)
+Time 310: Renicing task 3868 (old priority 8, new priority -9, time remaining 34)
+Time 313: Adding task 3895 (time remaining 727)
+Time 313: Renicing task 44237 (old priority 0, new priority -4, time remaining 464)
+Time 315: Adding task 35281 (time remaining 894)
+Time 315: Renicing task 44399 (old priority 0, new priority -9, time remaining 371)
+Time 315: Adding task 17540 (time remaining 474)
+Time 315: Renicing task 15863 (old priority 1, new priority 8, time remaining 670)
+Time 317: Adding task 63823 (time remaining 698)
+Time 317: Renicing task 22278 (old priority 0, new priority -10, time remaining 774)
+Time 320: Adding task 4917 (time remaining 905)
+Time 320: Renicing task 18328 (old priority 0, new priority 3, time remaining 898)
+Time 324: Adding task 52264 (time remaining 560)
+Time 324: Renicing task 26479 (old priority 0, new priority -5, time remaining 106)
+Time 325: Adding task 59458 (time remaining 601)
+Time 325: Renicing task 20013 (old priority 0, new priority -2, time remaining 439)
+Time 326: Adding task 50367 (time remaining 301)
+Time 326: Renicing task 39 (old priority 8, new priority -6, time remaining 300)
+Time 329: Adding task 14874 (time remaining 239)
+Time 329: Renicing task 58629 (old priority 2, new priority -1, time remaining 387)
+Time 330: Adding task 12510 (time remaining 420)
+Time 330: Renicing task 35428 (old priority -3, new priority 7, time remaining 685)
+Time 334: Adding task 5999 (time remaining 260)
+Time 334: Renicing task 34024 (old priority -9, new priority 6, time remaining 146)
+Time 337: Adding task 64777 (time remaining 656)
+Time 337: Renicing task 33508 (old priority 0, new priority -1, time remaining 725)
+Time 340: Adding task 60419 (time remaining 538)
+Time 340: Renicing task 31 (old priority 0, new priority -9, time remaining 828)
+Time 340: Adding task 31352 (time remaining 805)
+Time 340: Renicing task 27529 (old priority 0, new priority 10, time remaining 167)
+Time 342: Adding task 61218 (time remaining 421)
+Time 342: Renicing task 31345 (old priority 3, new priority 8, time remaining 411)
+Time 345: Adding task 52354 (time remaining 44)
+Time 345: Renicing task 12860 (old priority 4, new priority -8, time remaining 405)
+Time 348: Adding task 31692 (time remaining 320)
+Time 348: Renicing task 22278 (old priority -10, new priority -6, time remaining 774)
+Time 352: Adding task 5098 (time remaining 529)
+Time 352: Renicing task 2388 (old priority -2, new priority -8, time remaining 987)
+Time 356: Adding task 63868 (time remaining 259)
+Time 356: Renicing task 3260 (old priority 9, new priority -6, time remaining 85)
+Time 359: Adding task 12477 (time remaining 307)
+Time 359: Renicing task 9418 (old priority 9, new priority -3, time remaining 324)
+Time 361: Adding task 64324 (time remaining 415)
+Time 361: Renicing task 24474 (old priority -9, new priority 2, time remaining 339)
+Time 363: Adding task 7899 (time remaining 848)
+Time 363: Renicing task 35281 (old priority 0, new priority 0, time remaining 894)
+Time 366: Adding task 29925 (time remaining 510)
+Time 366: Renicing task 15178 (old priority 0, new priority -3, time remaining 608)
+Time 368: Adding task 37335 (time remaining 802)
+Time 368: Renicing task 24027 (old priority 9, new priority 7, time remaining 943)
+Time 369: Adding task 57333 (time remaining 554)
+Time 369: Renicing task 50999 (old priority -8, new priority 5, time remaining 113)
+Time 372: Adding task 6902 (time remaining 994)
+Time 372: Renicing task 9589 (old priority 0, new priority -4, time remaining 142)
+Time 376: Adding task 37107 (time remaining 24)
+Time 376: Renicing task 5999 (old priority 0, new priority -8, time remaining 260)
+Time 377: Adding task 9226 (time remaining 423)
+Time 377: Renicing task 45636 (old priority 0, new priority 3, time remaining 807)
+Time 378: Adding task 23369 (time remaining 695)
+Time 378: Renicing task 39 (old priority -6, new priority 3, time remaining 300)
+Time 379: Adding task 48068 (time remaining 939)
+Time 379: Renicing task 64286 (old priority -4, new priority 7, time remaining 745)
+Time 382: Adding task 44526 (time remaining 667)
+Time 382: Renicing task 10876 (old priority 0, new priority -5, time remaining 27)
+Time 384: Adding task 12338 (time remaining 267)
+Time 384: Renicing task 58754 (old priority 0, new priority -4, time remaining 976)
+Time 385: Adding task 7956 (time remaining 633)
+Time 385: Renicing task 40230 (old priority -10, new priority 10, time remaining 993)
+Time 387: Adding task 58111 (time remaining 705)
+Time 387: Renicing task 10876 (old priority -5, new priority 10, time remaining 27)
+Time 389: Adding task 42505 (time remaining 39)
+Time 389: Renicing task 36057 (old priority 9, new priority 1, time remaining 726)
+Time 392: Adding task 33856 (time remaining 311)
+Time 392: Renicing task 27384 (old priority 5, new priority -2, time remaining 404)
+Time 396: Adding task 42417 (time remaining 658)
+Time 396: Renicing task 22846 (old priority 0, new priority 8, time remaining 784)
+Time 399: Adding task 56658 (time remaining 841)
+Time 399: Renicing task 10541 (old priority 9, new priority -1, time remaining 728)
+Time 403: Adding task 10675 (time remaining 818)
+Time 403: Renicing task 5098 (old priority 0, new priority 9, time remaining 529)
+Time 404: Adding task 47307 (time remaining 288)
+Time 404: Renicing task 3868 (old priority -9, new priority 3, time remaining 34)
+Time 406: Adding task 64339 (time remaining 614)
+Time 406: Renicing task 27529 (old priority 10, new priority 4, time remaining 167)
+Time 407: Adding task 61427 (time remaining 127)
+Time 407: Renicing task 21604 (old priority 0, new priority -4, time remaining 185)
+Time 411: Adding task 17061 (time remaining 191)
+Time 411: Renicing task 17061 (old priority 0, new priority -6, time remaining 191)
+Time 415: Adding task 44328 (time remaining 636)
+Time 415: Renicing task 7899 (old priority 0, new priority -8, time remaining 848)
+Time 417: Adding task 29737 (time remaining 180)
+Time 417: Renicing task 22396 (old priority 0, new priority 2, time remaining 72)
+Time 421: Adding task 64909 (time remaining 420)
+Time 421: Renicing task 49583 (old priority 5, new priority 1, time remaining 452)
+Time 424: Adding task 9104 (time remaining 10)
+Time 424: Renicing task 12860 (old priority -8, new priority 8, time remaining 405)
+Time 424: Adding task 38861 (time remaining 947)
+Time 424: Renicing task 33856 (old priority 0, new priority -1, time remaining 311)
+Time 427: Adding task 45431 (time remaining 958)
+Time 427: Renicing task 34939 (old priority 4, new priority 10, time remaining 265)
+Time 427: Adding task 35181 (time remaining 856)
+Time 427: Renicing task 29925 (old priority 0, new priority 0, time remaining 510)
+Time 428: Adding task 33923 (time remaining 296)
+Time 428: Renicing task 29925 (old priority 0, new priority -4, time remaining 510)
+Time 431: Adding task 19674 (time remaining 681)
+Time 431: Renicing task 6324 (old priority 0, new priority -10, time remaining 46)
+Time 432: Adding task 54736 (time remaining 357)
+Time 432: Renicing task 7899 (old priority -8, new priority 8, time remaining 848)
+Time 433: Adding task 42975 (time remaining 7)
+Time 433: Renicing task 42505 (old priority 0, new priority 5, time remaining 39)
+Time 434: Adding task 61054 (time remaining 121)
+Time 434: Renicing task 57333 (old priority 0, new priority -2, time remaining 554)
+Time 437: Adding task 59665 (time remaining 168)
+Time 437: Renicing task 44868 (old priority 6, new priority -3, time remaining 93)
+Time 440: Adding task 52988 (time remaining 919)
+Time 440: Renicing task 7899 (old priority 8, new priority -4, time remaining 848)
+Time 440: Adding task 31538 (time remaining 237)
+Time 440: Renicing task 36176 (old priority 0, new priority -3, time remaining 818)
+Time 442: Adding task 33469 (time remaining 880)
+Time 442: Renicing task 40230 (old priority 10, new priority 5, time remaining 993)
+Time 445: Adding task 58264 (time remaining 256)
+Time 445: Renicing task 64476 (old priority 0, new priority 6, time remaining 984)
+Time 445: Adding task 10825 (time remaining 107)
+Time 445: Renicing task 6324 (old priority -10, new priority -9, time remaining 46)
+Time 449: Adding task 46293 (time remaining 701)
+Time 449: Renicing task 10825 (old priority 0, new priority -7, time remaining 107)
+Time 451: Adding task 64689 (time remaining 350)
+Time 451: Renicing task 22278 (old priority -6, new priority 1, time remaining 774)
+Time 455: Adding task 42322 (time remaining 985)
+Time 455: Renicing task 42322 (old priority 0, new priority -5, time remaining 985)
+Time 459: Adding task 65102 (time remaining 810)
+Time 459: Renicing task 21403 (old priority 6, new priority -10, time remaining 864)
+Time 460: Adding task 12917 (time remaining 555)
+Time 460: Renicing task 45013 (old priority 0, new priority 6, time remaining 854)
+Time 461: Adding task 59322 (time remaining 868)
+Time 461: Renicing task 7956 (old priority 0, new priority -8, time remaining 633)
+Time 465: Adding task 10403 (time remaining 549)
+Time 465: Renicing task 23369 (old priority 0, new priority -3, time remaining 695)
+Time 468: Adding task 4958 (time remaining 445)
+Time 468: Renicing task 19445 (old priority 5, new priority -6, time remaining 874)
+Time 472: Adding task 14116 (time remaining 798)
+Time 472: Renicing task 32564 (old priority -9, new priority 2, time remaining 816)
+Time 476: Adding task 17426 (time remaining 864)
+Time 476: Renicing task 47699 (old priority 0, new priority 5, time remaining 825)
+Time 478: Adding task 53486 (time remaining 952)
+Time 478: Renicing task 36057 (old priority 1, new priority -9, time remaining 726)
+Time 478: Adding task 39466 (time remaining 811)
+Time 478: Renicing task 31345 (old priority 8, new priority -7, time remaining 411)
+Time 481: Adding task 61661 (time remaining 458)
+Time 481: Renicing task 54736 (old priority 0, new priority 7, time remaining 357)
+Time 483: Adding task 8316 (time remaining 900)
+Time 483: Renicing task 15879 (old priority 4, new priority -4, time remaining 223)
+Time 487: Adding task 40226 (time remaining 545)
+Time 487: Renicing task 36293 (old priority 0, new priority 1, time remaining 646)
+Time 490: Adding task 28251 (time remaining 745)
+Time 490: Renicing task 3868 (old priority 3, new priority 9, time remaining 34)
+Time 494: Adding task 62196 (time remaining 264)
+Time 494: Renicing task 4526 (old priority 7, new priority -3, time remaining 494)
+Time 498: Adding task 167 (time remaining 852)
+Time 498: Renicing task 5098 (old priority 9, new priority -1, time remaining 529)
+Time 498: Adding task 5414 (time remaining 976)
+Time 498: Renicing task 12338 (old priority 0, new priority 2, time remaining 267)
+Time 500: Adding task 6434 (time remaining 697)
+Time 500: Renicing task 38688 (old priority -7, new priority -6, time remaining 42)
+Time 502: Adding task 3662 (time remaining 701)
+Time 502: Renicing task 38861 (old priority 0, new priority -4, time remaining 947)
+Time 503: Adding task 16985 (time remaining 382)
+Time 503: Renicing task 17065 (old priority -9, new priority -8, time remaining 906)
+Time 507: Adding task 54782 (time remaining 248)
+Time 507: Renicing task 16308 (old priority 4, new priority -2, time remaining 304)
+Time 507: Adding task 34303 (time remaining 606)
+Time 507: Renicing task 48227 (old priority 0, new priority -5, time remaining 481)
+Time 510: Adding task 30823 (time remaining 98)
+Time 510: Renicing task 29963 (old priority 0, new priority -9, time remaining 234)
+Time 511: Adding task 5590 (time remaining 977)
+Time 511: Renicing task 24027 (old priority 7, new priority 7, time remaining 943)
+Time 514: Adding task 27876 (time remaining 532)
+Time 514: Renicing task 12196 (old priority 0, new priority 9, time remaining 434)
+Time 514: Adding task 41542 (time remaining 12)
+Time 514: Renicing task 12196 (old priority 9, new priority -4, time remaining 434)
+Time 518: Adding task 33403 (time remaining 8)
+Time 518: Renicing task 58754 (old priority -4, new priority 10, time remaining 976)
+Time 520: Adding task 2064 (time remaining 648)
+Time 520: Renicing task 9418 (old priority -3, new priority -7, time remaining 324)
+Time 524: Adding task 17871 (time remaining 683)
+Time 524: Renicing task 41608 (old priority 0, new priority 7, time remaining 112)
+Time 525: Adding task 60953 (time remaining 298)
+Time 525: Renicing task 64909 (old priority 0, new priority 10, time remaining 420)
+Time 525: Adding task 14959 (time remaining 65)
+Time 525: Renicing task 31345 (old priority -7, new priority -6, time remaining 411)
+Time 528: Adding task 36756 (time remaining 550)
+Time 528: Renicing task 61054 (old priority 0, new priority 3, time remaining 121)
+Time 529: Adding task 52742 (time remaining 429)
+Time 529: Renicing task 14959 (old priority 0, new priority 8, time remaining 65)
+Time 530: Adding task 23534 (time remaining 425)
+Time 530: Renicing task 23534 (old priority 0, new priority -6, time remaining 425)
+Time 534: Adding task 12086 (time remaining 644)
+Time 534: Renicing task 60953 (old priority 0, new priority 2, time remaining 298)
+Time 537: Adding task 34633 (time remaining 466)
+Time 537: Renicing task 2629 (old priority 0, new priority 6, time remaining 541)
+Time 540: Adding task 36807 (time remaining 853)
+Time 540: Renicing task 9589 (old priority -4, new priority 8, time remaining 142)
+Time 541: Adding task 47557 (time remaining 99)
+Time 541: Renicing task 36051 (old priority 0, new priority 5, time remaining 83)
+Time 543: Adding task 15071 (time remaining 287)
+Time 543: Renicing task 21604 (old priority -4, new priority -3, time remaining 185)
+Time 545: Adding task 1136 (time remaining 330)
+Time 545: Renicing task 44526 (old priority 0, new priority -5, time remaining 667)
+Time 547: Adding task 63527 (time remaining 199)
+Time 547: Renicing task 22846 (old priority 8, new priority -4, time remaining 784)
+Time 547: Adding task 17838 (time remaining 30)
+Time 547: Renicing task 38688 (old priority -6, new priority 6, time remaining 42)
+Time 550: Adding task 42118 (time remaining 932)
+Time 550: Renicing task 12510 (old priority 0, new priority 6, time remaining 420)
+Time 553: Adding task 32629 (time remaining 137)
+Time 553: Renicing task 1136 (old priority 0, new priority 3, time remaining 330)
+Time 557: Adding task 44191 (time remaining 809)
+Time 557: Renicing task 42118 (old priority 0, new priority -9, time remaining 932)
+Time 558: Adding task 64844 (time remaining 401)
+Time 558: Renicing task 44191 (old priority 0, new priority -10, time remaining 809)
+Time 558: Adding task 9415 (time remaining 854)
+Time 558: Renicing task 18905 (old priority 1, new priority 0, time remaining 144)
+Time 559: Adding task 55689 (time remaining 90)
+Time 559: Renicing task 7956 (old priority -8, new priority 0, time remaining 633)
+Time 559: Adding task 53751 (time remaining 803)
+Time 559: Renicing task 12086 (old priority 0, new priority 1, time remaining 644)
+Time 559: Adding task 44644 (time remaining 812)
+Time 559: Renicing task 64286 (old priority 7, new priority 7, time remaining 745)
+Time 562: Adding task 22404 (time remaining 995)
+Time 562: Renicing task 33469 (old priority 0, new priority 3, time remaining 880)
+Time 562: Adding task 25362 (time remaining 476)
+Time 562: Renicing task 23630 (old priority 0, new priority -9, time remaining 280)
+Time 565: Adding task 27276 (time remaining 352)
+Time 565: Renicing task 64777 (old priority 0, new priority 4, time remaining 656)
+Time 567: Adding task 52398 (time remaining 337)
+Time 567: Renicing task 31946 (old priority 0, new priority 0, time remaining 443)
+Time 569: Adding task 60940 (time remaining 393)
+Time 569: Renicing task 5043 (old priority -10, new priority 9, time remaining 262)
+Time 572: Adding task 43364 (time remaining 678)
+Time 572: Renicing task 44868 (old priority -3, new priority 9, time remaining 93)
+Time 575: Adding task 65036 (time remaining 269)
+Time 575: Renicing task 2629 (old priority 6, new priority 9, time remaining 541)
+Time 576: Adding task 38774 (time remaining 239)
+Time 576: Renicing task 25618 (old priority -10, new priority 3, time remaining 420)
+Time 576: Adding task 34040 (time remaining 554)
+Time 576: Renicing task 35281 (old priority 0, new priority 10, time remaining 894)
+Time 578: Adding task 31831 (time remaining 937)
+Time 578: Renicing task 13937 (old priority 0, new priority -1, time remaining 111)
+Time 580: Adding task 4406 (time remaining 895)
+Time 580: Renicing task 38154 (old priority 0, new priority 0, time remaining 14)
+Time 583: Adding task 10185 (time remaining 299)
+Time 583: Renicing task 10825 (old priority -7, new priority 8, time remaining 107)
+Time 585: Adding task 22862 (time remaining 490)
+Time 585: Renicing task 35181 (old priority 0, new priority -4, time remaining 856)
+Time 587: Adding task 20135 (time remaining 763)
+Time 587: Renicing task 38774 (old priority 0, new priority -2, time remaining 239)
+Time 590: Adding task 36923 (time remaining 295)
+Time 590: Renicing task 59322 (old priority 0, new priority 2, time remaining 868)
+Time 592: Adding task 38443 (time remaining 62)
+Time 592: Renicing task 19445 (old priority -6, new priority 8, time remaining 874)
+Time 592: Adding task 14524 (time remaining 653)
+Time 592: Renicing task 12477 (old priority 0, new priority 6, time remaining 307)
+Time 593: Adding task 52797 (time remaining 808)
+Time 593: Renicing task 64777 (old priority 4, new priority 9, time remaining 656)
+Time 596: Adding task 12982 (time remaining 150)
+Time 596: Renicing task 65036 (old priority 0, new priority 3, time remaining 269)
+Time 598: Adding task 34088 (time remaining 276)
+Time 598: Renicing task 52264 (old priority 0, new priority -9, time remaining 560)
+Time 599: Adding task 61701 (time remaining 212)
+Time 599: Renicing task 17540 (old priority 0, new priority -4, time remaining 474)
+Time 599: Adding task 21433 (time remaining 832)
+Time 599: Renicing task 44899 (old priority 0, new priority -10, time remaining 282)
+Time 599: Adding task 3194 (time remaining 83)
+Time 599: Renicing task 33329 (old priority 4, new priority 8, time remaining 161)
+Time 602: Adding task 1067 (time remaining 809)
+Time 602: Renicing task 20013 (old priority -2, new priority 10, time remaining 439)
+Time 603: Adding task 13025 (time remaining 718)
+Time 603: Renicing task 12338 (old priority 2, new priority -1, time remaining 267)
+Time 606: Adding task 37620 (time remaining 86)
+Time 606: Renicing task 3194 (old priority 0, new priority -1, time remaining 83)
+Time 610: Adding task 62099 (time remaining 681)
+Time 610: Renicing task 41861 (old priority 0, new priority 1, time remaining 168)
+Time 611: Adding task 60533 (time remaining 195)
+Time 611: Renicing task 3260 (old priority -6, new priority 2, time remaining 85)
+Time 612: Adding task 21747 (time remaining 88)
+Time 612: Renicing task 47699 (old priority 5, new priority -2, time remaining 825)
+Time 614: Adding task 51267 (time remaining 973)
+Time 614: Renicing task 64476 (old priority 6, new priority -8, time remaining 984)
+Time 616: Adding task 6207 (time remaining 91)
+Time 616: Renicing task 13872 (old priority 0, new priority 1, time remaining 618)
+Time 616: Adding task 36900 (time remaining 253)
+Time 616: Renicing task 10488 (old priority 0, new priority -5, time remaining 721)
+Time 617: Adding task 41886 (time remaining 360)
+Time 617: Renicing task 61427 (old priority 0, new priority -7, time remaining 127)
+Time 618: Adding task 30901 (time remaining 562)
+Time 618: Renicing task 17540 (old priority -4, new priority 1, time remaining 474)
+Time 619: Adding task 19397 (time remaining 363)
+Time 619: Renicing task 36293 (old priority 1, new priority -10, time remaining 646)
+Time 622: Adding task 53649 (time remaining 615)
+Time 622: Renicing task 22396 (old priority 2, new priority -5, time remaining 72)
+Time 623: Adding task 62154 (time remaining 811)
+Time 623: Renicing task 44237 (old priority -4, new priority 0, time remaining 464)
+Time 624: Adding task 48537 (time remaining 351)
+Time 624: Renicing task 17823 (old priority -6, new priority 7, time remaining 404)
+Time 627: Adding task 34659 (time remaining 260)
+Time 627: Renicing task 19445 (old priority 8, new priority 0, time remaining 874)
+Time 627: Adding task 32658 (time remaining 272)
+Time 627: Renicing task 38774 (old priority -2, new priority 8, time remaining 239)
+Time 627: Adding task 63224 (time remaining 156)
+Time 627: Renicing task 34088 (old priority 0, new priority 1, time remaining 276)
+Time 629: Adding task 65022 (time remaining 603)
+Time 629: Renicing task 6207 (old priority 0, new priority 8, time remaining 91)
+Time 633: Adding task 7871 (time remaining 796)
+Time 633: Renicing task 47699 (old priority -2, new priority 10, time remaining 825)
+Time 637: Adding task 8523 (time remaining 526)
+Time 637: Renicing task 62569 (old priority 9, new priority -2, time remaining 769)
+Time 639: Adding task 33565 (time remaining 166)
+Time 639: Renicing task 62099 (old priority 0, new priority 5, time remaining 681)
+Time 641: Adding task 60165 (time remaining 356)
+Time 641: Renicing task 2045 (old priority 0, new priority -10, time remaining 461)
+Time 643: Adding task 44433 (time remaining 854)
+Time 643: Renicing task 61218 (old priority 0, new priority -4, time remaining 421)
+Time 645: Adding task 12970 (time remaining 651)
+Time 645: Renicing task 23751 (old priority 0, new priority 10, time remaining 105)
+Time 648: Adding task 10554 (time remaining 46)
+Time 648: Renicing task 9104 (old priority 0, new priority -1, time remaining 10)
+Time 652: Adding task 36397 (time remaining 143)
+Time 652: Renicing task 41608 (old priority 7, new priority -5, time remaining 112)
+Time 654: Adding task 4217 (time remaining 449)
+Time 654: Renicing task 35281 (old priority 10, new priority 0, time remaining 894)
+Time 655: Adding task 61 (time remaining 167)
+Time 655: Renicing task 32629 (old priority 0, new priority 10, time remaining 137)
+Time 658: Adding task 56 (time remaining 948)
+Time 658: Renicing task 16985 (old priority 0, new priority -7, time remaining 382)
+Time 660: Adding task 15093 (time remaining 364)
+Time 660: Renicing task 16644 (old priority 0, new priority 9, time remaining 60)
+Time 660: Adding task 7470 (time remaining 332)
+Time 660: Renicing task 2064 (old priority 0, new priority 5, time remaining 648)
+Time 661: Adding task 47980 (time remaining 698)
+Time 661: Renicing task 56624 (old priority 0, new priority -10, time remaining 102)
+Time 661: Adding task 23849 (time remaining 696)
+Time 661: Renicing task 44328 (old priority 0, new priority 7, time remaining 636)
+Time 665: Adding task 16255 (time remaining 748)
+Time 665: Renicing task 17426 (old priority 0, new priority -10, time remaining 864)
+Time 667: Adding task 33663 (time remaining 828)
+Time 667: Renicing task 40226 (old priority 0, new priority 6, time remaining 545)
+Time 670: Adding task 32853 (time remaining 56)
+Time 670: Renicing task 22404 (old priority 0, new priority 7, time remaining 995)
+Time 673: Adding task 10101 (time remaining 718)
+Time 673: Renicing task 32590 (old priority -7, new priority 10, time remaining 51)
+Time 676: Adding task 16909 (time remaining 28)
+Time 676: Renicing task 41861 (old priority 1, new priority 1, time remaining 168)
+Time 677: Adding task 15567 (time remaining 481)
+Time 677: Renicing task 44868 (old priority 9, new priority -8, time remaining 93)
+Time 677: Adding task 39125 (time remaining 972)
+Time 677: Renicing task 38443 (old priority 0, new priority 7, time remaining 62)
+Time 681: Adding task 44289 (time remaining 292)
+Time 681: Renicing task 36397 (old priority 0, new priority -3, time remaining 143)
+Time 682: Adding task 21372 (time remaining 322)
+Time 682: Renicing task 25990 (old priority 0, new priority 2, time remaining 505)
+Time 684: Adding task 13320 (time remaining 63)
+Time 684: Renicing task 62325 (old priority -6, new priority -7, time remaining 862)
+Time 684: Adding task 33651 (time remaining 624)
+Time 684: Renicing task 23751 (old priority 10, new priority 6, time remaining 105)
+Time 686: Adding task 63290 (time remaining 681)
+Time 686: Renicing task 60165 (old priority 0, new priority -10, time remaining 356)
+Time 686: Adding task 57635 (time remaining 172)
+Time 686: Renicing task 53486 (old priority 0, new priority -7, time remaining 952)
+Time 690: Adding task 23597 (time remaining 280)
+Time 690: Renicing task 45522 (old priority 0, new priority -3, time remaining 878)
+Time 691: Adding task 59193 (time remaining 489)
+Time 691: Renicing task 60165 (old priority -10, new priority 2, time remaining 356)
+Time 691: Adding task 28464 (time remaining 598)
+Time 691: Renicing task 17065 (old priority -8, new priority 4, time remaining 906)
+Time 694: Adding task 55991 (time remaining 118)
+Time 694: Renicing task 35181 (old priority -4, new priority 7, time remaining 856)
+Time 696: Adding task 16392 (time remaining 100)
+Time 696: Renicing task 54320 (old priority 0, new priority 4, time remaining 330)
+Time 699: Adding task 56761 (time remaining 357)
+Time 699: Renicing task 51267 (old priority 0, new priority -3, time remaining 973)
+Time 702: Adding task 39099 (time remaining 542)
+Time 702: Renicing task 8523 (old priority 0, new priority 10, time remaining 526)
+Time 704: Adding task 37651 (time remaining 378)
+Time 704: Renicing task 63868 (old priority 0, new priority 6, time remaining 259)
+Time 704: Adding task 12701 (time remaining 458)
+Time 704: Renicing task 61427 (old priority -7, new priority 2, time remaining 127)
+Time 704: Adding task 38589 (time remaining 765)
+Time 704: Renicing task 9104 (old priority -1, new priority 9, time remaining 10)
+Time 704: Adding task 26586 (time remaining 710)
+Time 704: Renicing task 54782 (old priority 0, new priority -3, time remaining 248)
+Time 706: Adding task 7428 (time remaining 831)
+Time 706: Renicing task 33469 (old priority 3, new priority 5, time remaining 880)
+Time 708: Adding task 42066 (time remaining 862)
+Time 708: Renicing task 29283 (old priority 0, new priority 4, time remaining 82)
+Time 710: Adding task 50931 (time remaining 309)
+Time 710: Renicing task 15093 (old priority 0, new priority -6, time remaining 364)
+Time 711: Adding task 14427 (time remaining 383)
+Time 711: Renicing task 54782 (old priority -3, new priority 2, time remaining 248)
+Time 711: Adding task 10116 (time remaining 628)
+Time 711: Renicing task 17061 (old priority -6, new priority 2, time remaining 191)
+Time 712: Adding task 59662 (time remaining 907)
+Time 712: Renicing task 1553 (old priority 0, new priority -4, time remaining 228)
+Time 713: Adding task 30969 (time remaining 97)
+Time 713: Renicing task 45522 (old priority -3, new priority -1, time remaining 878)
+Time 715: Adding task 40993 (time remaining 321)
+Time 715: Renicing task 44868 (old priority -8, new priority 2, time remaining 93)
+Time 717: Adding task 42753 (time remaining 419)
+Time 717: Renicing task 17483 (old priority 0, new priority -7, time remaining 802)
+Time 719: Adding task 30640 (time remaining 288)
+Time 719: Renicing task 6799 (old priority -9, new priority -5, time remaining 720)
+Time 719: Adding task 34481 (time remaining 944)
+Time 719: Renicing task 42753 (old priority 0, new priority 4, time remaining 419)
+Time 719: Adding task 19608 (time remaining 24)
+Time 719: Renicing task 59322 (old priority 2, new priority -6, time remaining 868)
+Time 722: Adding task 60297 (time remaining 96)
+Time 722: Renicing task 40226 (old priority 6, new priority 2, time remaining 545)
+Time 724: Adding task 11663 (time remaining 373)
+Time 724: Renicing task 61701 (old priority 0, new priority 6, time remaining 212)
+Time 724: Adding task 14011 (time remaining 562)
+Time 724: Renicing task 12477 (old priority 6, new priority -6, time remaining 307)
+Time 724: Adding task 56366 (time remaining 841)
+Time 724: Renicing task 64476 (old priority -8, new priority 5, time remaining 984)
+Time 726: Adding task 7697 (time remaining 362)
+Time 726: Renicing task 63224 (old priority 0, new priority 6, time remaining 156)
+Time 726: Adding task 27918 (time remaining 436)
+Time 726: Renicing task 61151 (old priority 9, new priority 0, time remaining 766)
+Time 730: Adding task 14453 (time remaining 163)
+Time 730: Renicing task 20013 (old priority 10, new priority -9, time remaining 439)
+Time 733: Adding task 11479 (time remaining 58)
+Time 733: Renicing task 41861 (old priority 1, new priority -2, time remaining 168)
+Time 737: Adding task 33062 (time remaining 38)
+Time 737: Renicing task 30823 (old priority 0, new priority 4, time remaining 98)
+Time 741: Adding task 54863 (time remaining 954)
+Time 741: Renicing task 64476 (old priority 5, new priority -6, time remaining 984)
+Time 744: Adding task 32493 (time remaining 303)
+Time 744: Renicing task 46975 (old priority 3, new priority 6, time remaining 588)
+Time 746: Adding task 59649 (time remaining 127)
+Time 746: Renicing task 34088 (old priority 1, new priority 5, time remaining 276)
+Time 748: Adding task 15283 (time remaining 737)
+Time 748: Renicing task 16985 (old priority -7, new priority 1, time remaining 382)
+Time 748: Adding task 26013 (time remaining 389)
+Time 748: Renicing task 64777 (old priority 9, new priority -8, time remaining 656)
+Time 748: Adding task 18835 (time remaining 614)
+Time 748: Renicing task 33469 (old priority 5, new priority 8, time remaining 880)
+Time 749: Adding task 13426 (time remaining 457)
+Time 749: Renicing task 62154 (old priority 0, new priority -2, time remaining 811)
+Time 753: Adding task 59070 (time remaining 812)
+Time 753: Renicing task 59665 (old priority 0, new priority -10, time remaining 168)
+Time 756: Adding task 8231 (time remaining 69)
+Time 756: Renicing task 38443 (old priority 7, new priority 7, time remaining 62)
+Time 758: Adding task 65447 (time remaining 87)
+Time 758: Renicing task 27918 (old priority 0, new priority -7, time remaining 436)
+Time 760: Adding task 15104 (time remaining 31)
+Time 760: Renicing task 39125 (old priority 0, new priority -7, time remaining 972)
+Time 761: Adding task 37182 (time remaining 911)
+Time 761: Renicing task 19664 (old priority 7, new priority -7, time remaining 160)
+Time 763: Adding task 7169 (time remaining 76)
+Time 763: Renicing task 60165 (old priority 2, new priority -9, time remaining 356)
+Time 765: Adding task 25005 (time remaining 118)
+Time 765: Renicing task 5098 (old priority -1, new priority 10, time remaining 529)
+Time 769: Adding task 2832 (time remaining 462)
+Time 769: Renicing task 39125 (old priority -7, new priority -9, time remaining 972)
+Time 772: Adding task 28514 (time remaining 104)
+Time 772: Renicing task 14050 (old priority 0, new priority 8, time remaining 279)
+Time 774: Adding task 40107 (time remaining 48)
+Time 774: Renicing task 64909 (old priority 10, new priority 7, time remaining 420)
+Time 776: Adding task 64090 (time remaining 815)
+Time 776: Renicing task 53621 (old priority 0, new priority 3, time remaining 892)
+Time 776: Adding task 38483 (time remaining 810)
+Time 776: Renicing task 54616 (old priority -8, new priority -1, time remaining 869)
+Time 777: Adding task 62723 (time remaining 715)
+Time 777: Renicing task 7956 (old priority 0, new priority 1, time remaining 633)
+Time 779: Adding task 12669 (time remaining 582)
+Time 779: Renicing task 33565 (old priority 0, new priority 0, time remaining 166)
+Time 782: Adding task 42707 (time remaining 674)
+Time 782: Renicing task 55649 (old priority 0, new priority 0, time remaining 312)
+Time 786: Adding task 60218 (time remaining 357)
+Time 786: Renicing task 48227 (old priority -5, new priority 5, time remaining 481)
+Time 787: Adding task 44290 (time remaining 385)
+Time 787: Renicing task 27529 (old priority 4, new priority -7, time remaining 167)
+Time 789: Adding task 16314 (time remaining 326)
+Time 789: Renicing task 59674 (old priority 5, new priority -3, time remaining 743)
+Time 791: Adding task 33828 (time remaining 175)
+Time 791: Renicing task 2388 (old priority -8, new priority 10, time remaining 987)
+Time 791: Adding task 47611 (time remaining 12)
+Time 791: Renicing task 65496 (old priority 0, new priority 6, time remaining 410)
+Time 792: Adding task 47571 (time remaining 714)
+Time 792: Renicing task 10185 (old priority 0, new priority -4, time remaining 299)
+Time 794: Adding task 9772 (time remaining 883)
+Time 794: Renicing task 11663 (old priority 0, new priority 1, time remaining 373)
+Time 797: Adding task 36428 (time remaining 113)
+Time 797: Renicing task 60832 (old priority 0, new priority -5, time remaining 414)
+Time 797: Adding task 60 (time remaining 959)
+Time 797: Renicing task 14333 (old priority 0, new priority -1, time remaining 559)
+Time 800: Adding task 36227 (time remaining 669)
+Time 800: Renicing task 64689 (old priority 0, new priority -2, time remaining 350)
+Time 801: Adding task 13458 (time remaining 618)
+Time 801: Renicing task 34481 (old priority 0, new priority 10, time remaining 944)
+Time 805: Adding task 49995 (time remaining 141)
+Time 805: Renicing task 42066 (old priority 0, new priority -2, time remaining 862)
+Time 805: Adding task 18097 (time remaining 216)
+Time 805: Renicing task 41955 (old priority 0, new priority 6, time remaining 865)
+Time 805: Adding task 4582 (time remaining 692)
+Time 805: Renicing task 8231 (old priority 0, new priority -6, time remaining 69)
+Time 807: Adding task 1332 (time remaining 391)
+Time 807: Renicing task 15283 (old priority 0, new priority -1, time remaining 737)
+Time 807: Adding task 43777 (time remaining 729)
+Time 807: Renicing task 42632 (old priority 0, new priority -9, time remaining 423)
+Time 807: Adding task 13377 (time remaining 192)
+Time 807: Renicing task 60940 (old priority 0, new priority 5, time remaining 393)
+Time 810: Adding task 11201 (time remaining 27)
+Time 810: Renicing task 48796 (old priority 0, new priority 0, time remaining 596)
+Time 812: Adding task 25452 (time remaining 877)
+Time 812: Renicing task 18835 (old priority 0, new priority 0, time remaining 614)
+Time 814: Adding task 47832 (time remaining 175)
+Time 814: Renicing task 60297 (old priority 0, new priority 8, time remaining 96)
+Time 818: Adding task 23175 (time remaining 222)
+Time 818: Renicing task 41542 (old priority 0, new priority -6, time remaining 12)
+Time 820: Adding task 15914 (time remaining 584)
+Time 820: Renicing task 7470 (old priority 0, new priority 1, time remaining 332)
+Time 821: Adding task 52738 (time remaining 500)
+Time 821: Renicing task 5590 (old priority 0, new priority -4, time remaining 977)
+Time 821: Adding task 10884 (time remaining 337)
+Time 821: Renicing task 12917 (old priority 0, new priority -7, time remaining 555)
+Time 823: Adding task 1978 (time remaining 105)
+Time 823: Renicing task 33062 (old priority 0, new priority 2, time remaining 38)
+Time 824: Adding task 5477 (time remaining 322)
+Time 824: Renicing task 32853 (old priority 0, new priority -3, time remaining 56)
+Time 828: Adding task 53400 (time remaining 714)
+Time 828: Renicing task 44644 (old priority 0, new priority -10, time remaining 812)
+Time 829: Adding task 30036 (time remaining 20)
+Time 829: Renicing task 26479 (old priority -5, new priority -3, time remaining 106)
+Time 832: Adding task 39508 (time remaining 587)
+Time 832: Renicing task 18835 (old priority 0, new priority 9, time remaining 614)
+Time 835: Adding task 27379 (time remaining 171)
+Time 835: Renicing task 37651 (old priority 0, new priority -1, time remaining 378)
+Time 836: Adding task 58253 (time remaining 853)
+Time 836: Renicing task 42975 (old priority 0, new priority 5, time remaining 7)
+Time 839: Adding task 61902 (time remaining 7)
+Time 839: Renicing task 14959 (old priority 8, new priority 8, time remaining 65)
+Time 843: Adding task 19208 (time remaining 286)
+Time 843: Renicing task 7871 (old priority 0, new priority 8, time remaining 796)
+Time 846: Adding task 1709 (time remaining 31)
+Time 846: Renicing task 4582 (old priority 0, new priority 9, time remaining 692)
+Time 850: Adding task 15902 (time remaining 429)
+Time 850: Renicing task 1709 (old priority 0, new priority -9, time remaining 31)
+Time 853: Adding task 40881 (time remaining 395)
+Time 853: Renicing task 60218 (old priority 0, new priority 0, time remaining 357)
+Time 857: Adding task 41433 (time remaining 224)
+Time 857: Renicing task 55689 (old priority 0, new priority -9, time remaining 90)
+Time 858: Adding task 23312 (time remaining 891)
+Time 858: Renicing task 57635 (old priority 0, new priority -1, time remaining 172)
+Time 862: Adding task 2710 (time remaining 292)
+Time 862: Renicing task 60712 (old priority 0, new priority -4, time remaining 889)
+Time 865: Adding task 35463 (time remaining 514)
+Time 865: Renicing task 4103 (old priority 0, new priority -6, time remaining 276)
+Time 869: Adding task 54116 (time remaining 152)
+Time 869: Renicing task 39099 (old priority 0, new priority 9, time remaining 542)
+Time 870: Adding task 23829 (time remaining 49)
+Time 870: Renicing task 61661 (old priority 0, new priority -5, time remaining 458)
+Time 870: Adding task 47333 (time remaining 207)
+Time 870: Renicing task 13320 (old priority 0, new priority 0, time remaining 63)
+Time 873: Adding task 58704 (time remaining 537)
+Time 873: Renicing task 19445 (old priority 0, new priority 8, time remaining 874)
+Time 873: Adding task 5040 (time remaining 992)
+Time 873: Renicing task 47333 (old priority 0, new priority -2, time remaining 207)
+Time 875: Adding task 16966 (time remaining 241)
+Time 875: Renicing task 18905 (old priority 0, new priority 7, time remaining 144)
+Time 875: Adding task 49136 (time remaining 867)
+Time 875: Renicing task 9528 (old priority 4, new priority 2, time remaining 927)
+Time 876: Adding task 21005 (time remaining 999)
+Time 876: Renicing task 63868 (old priority 6, new priority 10, time remaining 259)
+Time 876: Adding task 33812 (time remaining 75)
+Time 876: Renicing task 16909 (old priority 0, new priority 3, time remaining 28)
+Time 879: Adding task 49629 (time remaining 559)
+Time 879: Renicing task 36756 (old priority 0, new priority 0, time remaining 550)
+Time 883: Adding task 64094 (time remaining 954)
+Time 883: Renicing task 22404 (old priority 7, new priority -8, time remaining 995)
+Time 887: Adding task 40492 (time remaining 806)
+Time 887: Renicing task 12669 (old priority 0, new priority 10, time remaining 582)
+Time 889: Adding task 49667 (time remaining 766)
+Time 889: Renicing task 11201 (old priority 0, new priority 9, time remaining 27)
+Time 889: Adding task 28713 (time remaining 545)
+Time 889: Renicing task 14524 (old priority 0, new priority 6, time remaining 653)
+Time 890: Adding task 61391 (time remaining 854)
+Time 890: Renicing task 46293 (old priority 0, new priority 10, time remaining 701)
+Time 891: Adding task 39690 (time remaining 231)
+Time 891: Renicing task 42417 (old priority 0, new priority 7, time remaining 658)
+Time 891: Adding task 17629 (time remaining 928)
+Time 891: Renicing task 39125 (old priority -9, new priority -4, time remaining 972)
+Time 893: Adding task 52603 (time remaining 687)
+Time 893: Renicing task 60419 (old priority 0, new priority 1, time remaining 538)
+Time 897: Adding task 51117 (time remaining 995)
+Time 897: Renicing task 37182 (old priority 0, new priority 8, time remaining 911)
+Time 897: Adding task 41001 (time remaining 328)
+Time 897: Renicing task 5477 (old priority 0, new priority -6, time remaining 322)
+Time 900: Adding task 43263 (time remaining 291)
+Time 900: Renicing task 6434 (old priority 0, new priority -1, time remaining 697)
+Time 900: Adding task 44128 (time remaining 331)
+Time 900: Renicing task 33651 (old priority 0, new priority -1, time remaining 624)
+Time 902: Adding task 22289 (time remaining 502)
+Time 902: Renicing task 65496 (old priority 6, new priority -7, time remaining 410)
+Time 903: Adding task 45752 (time remaining 535)
+Time 903: Renicing task 61151 (old priority 0, new priority 6, time remaining 766)
+Time 906: Adding task 48830 (time remaining 778)
+Time 906: Renicing task 10876 (old priority 10, new priority -2, time remaining 27)
+Time 909: Adding task 42221 (time remaining 569)
+Time 909: Renicing task 34088 (old priority 5, new priority 3, time remaining 276)
+Time 912: Adding task 46942 (time remaining 817)
+Time 912: Renicing task 61902 (old priority 0, new priority -8, time remaining 7)
+Time 916: Adding task 17550 (time remaining 501)
+Time 916: Renicing task 44290 (old priority 0, new priority -6, time remaining 385)
+Time 917: Adding task 46094 (time remaining 587)
+Time 917: Renicing task 61391 (old priority 0, new priority -5, time remaining 854)
+Time 919: Adding task 25932 (time remaining 261)
+Time 919: Renicing task 24106 (old priority 0, new priority 0, time remaining 757)
+Time 923: Adding task 6041 (time remaining 262)
+Time 923: Renicing task 2710 (old priority 0, new priority 5, time remaining 292)
+Time 923: Adding task 64201 (time remaining 445)
+Time 923: Renicing task 16392 (old priority 0, new priority 6, time remaining 100)
+Time 926: Adding task 63466 (time remaining 508)
+Time 926: Renicing task 59322 (old priority -6, new priority 6, time remaining 868)
+Time 930: Adding task 53745 (time remaining 297)
+Time 930: Renicing task 15283 (old priority -1, new priority 7, time remaining 737)
+Time 931: Adding task 1691 (time remaining 186)
+Time 931: Renicing task 21403 (old priority -10, new priority -5, time remaining 864)
+Time 933: Adding task 62102 (time remaining 692)
+Time 933: Renicing task 61 (old priority 0, new priority 4, time remaining 167)
+Time 936: Adding task 34519 (time remaining 472)
+Time 936: Renicing task 59665 (old priority -10, new priority 9, time remaining 168)
+Time 936: Adding task 4620 (time remaining 214)
+Time 936: Renicing task 60712 (old priority -4, new priority -10, time remaining 889)
+Time 940: Adding task 18594 (time remaining 705)
+Time 940: Renicing task 19691 (old priority 3, new priority -4, time remaining 746)
+Time 940: Adding task 35053 (time remaining 568)
+Time 940: Renicing task 57192 (old priority 7, new priority -10, time remaining 506)
+Time 941: Adding task 10248 (time remaining 297)
+Time 941: Renicing task 60419 (old priority 1, new priority -9, time remaining 538)
+Time 942: Adding task 55073 (time remaining 271)
+Time 942: Renicing task 33812 (old priority 0, new priority -6, time remaining 75)
+Time 943: Adding task 26339 (time remaining 462)
+Time 943: Renicing task 34633 (old priority 0, new priority -8, time remaining 466)
+Time 943: Adding task 49200 (time remaining 515)
+Time 943: Renicing task 53287 (old priority 0, new priority -6, time remaining 931)
+Time 943: Adding task 49920 (time remaining 916)
+Time 943: Renicing task 10884 (old priority 0, new priority -6, time remaining 337)
+Time 946: Adding task 26861 (time remaining 939)
+Time 946: Renicing task 1978 (old priority 0, new priority -4, time remaining 105)
+Time 950: Adding task 35866 (time remaining 249)
+Time 950: Renicing task 40226 (old priority 2, new priority 8, time remaining 545)
+Time 950: Adding task 64773 (time remaining 319)
+Time 950: Renicing task 41861 (old priority -2, new priority 8, time remaining 168)
+Time 952: Adding task 23996 (time remaining 282)
+Time 952: Renicing task 30640 (old priority 0, new priority 5, time remaining 288)
+Time 956: Adding task 16623 (time remaining 994)
+Time 956: Renicing task 35428 (old priority 7, new priority -9, time remaining 685)
+Time 956: Adding task 60744 (time remaining 536)
+Time 956: Renicing task 12982 (old priority 0, new priority 0, time remaining 150)
+Time 960: Adding task 63965 (time remaining 282)
+Time 960: Renicing task 16909 (old priority 3, new priority -1, time remaining 28)
+Time 961: Adding task 33720 (time remaining 643)
+Time 961: Renicing task 39 (old priority 3, new priority 5, time remaining 300)
+Time 963: Adding task 19261 (time remaining 44)
+Time 963: Renicing task 11663 (old priority 1, new priority 6, time remaining 373)
+Time 964: Adding task 61958 (time remaining 153)
+Time 964: Renicing task 60940 (old priority 5, new priority 3, time remaining 393)
+Time 965: Adding task 32498 (time remaining 649)
+Time 965: Renicing task 61661 (old priority -5, new priority -2, time remaining 458)
+Time 966: Adding task 52843 (time remaining 354)
+Time 966: Renicing task 63823 (old priority 0, new priority 9, time remaining 698)
+Time 969: Adding task 13450 (time remaining 431)
+Time 969: Renicing task 46094 (old priority 0, new priority 5, time remaining 587)
+Time 972: Adding task 35892 (time remaining 163)
+Time 972: Renicing task 39690 (old priority 0, new priority -2, time remaining 231)
+Time 975: Adding task 41655 (time remaining 589)
+Time 975: Renicing task 54616 (old priority -1, new priority 10, time remaining 869)
+Time 976: Adding task 2043 (time remaining 830)
+Time 976: Renicing task 57333 (old priority -2, new priority -7, time remaining 554)
+Time 976: Job 0 finished
+Time 980: Adding task 34682 (time remaining 576)
+Time 980: Renicing task 41433 (old priority 0, new priority -3, time remaining 224)
+Time 980: Adding task 45793 (time remaining 818)
+Time 980: Renicing task 53400 (old priority 0, new priority 3, time remaining 714)
+Time 983: Adding task 5387 (time remaining 875)
+Time 983: Renicing task 52738 (old priority 0, new priority -5, time remaining 500)
+Time 983: Adding task 59721 (time remaining 380)
+Time 983: Renicing task 44526 (old priority -5, new priority -6, time remaining 667)
+Time 984: Adding task 48550 (time remaining 46)
+Time 984: Renicing task 15178 (old priority -3, new priority 10, time remaining 608)
+Time 987: Adding task 49322 (time remaining 314)
+Time 987: Renicing task 21604 (old priority -3, new priority 1, time remaining 185)
+Time 987: Adding task 15767 (time remaining 693)
+Time 987: Renicing task 14453 (old priority 0, new priority 8, time remaining 163)
+Time 991: Adding task 50340 (time remaining 168)
+Time 991: Renicing task 30640 (old priority 5, new priority -3, time remaining 288)
+Time 993: Adding task 54003 (time remaining 355)
+Time 993: Renicing task 35181 (old priority 7, new priority -9, time remaining 856)
+Time 995: Adding task 35332 (time remaining 41)
+Time 995: Renicing task 64844 (old priority 0, new priority 2, time remaining 401)
+Time 997: Adding task 50232 (time remaining 564)
+Time 997: Renicing task 5999 (old priority -8, new priority -5, time remaining 260)
+Time 1000: Adding task 34476 (time remaining 163)
+Time 1000: Renicing task 43777 (old priority 0, new priority -3, time remaining 729)
+Time 1001: Adding task 23588 (time remaining 372)
+Time 1001: Renicing task 43263 (old priority 0, new priority -3, time remaining 291)
+Time 1003: Adding task 23571 (time remaining 415)
+Time 1003: Renicing task 10554 (old priority 0, new priority -6, time remaining 46)
+Time 1003: Adding task 28767 (time remaining 111)
+Time 1003: Renicing task 18835 (old priority 9, new priority 10, time remaining 614)
+Time 1004: Adding task 22339 (time remaining 371)
+Time 1004: Renicing task 21747 (old priority 0, new priority 2, time remaining 88)
+Time 1004: Adding task 39870 (time remaining 926)
+Time 1004: Renicing task 9528 (old priority 2, new priority 0, time remaining 927)
+Time 1005: Adding task 47382 (time remaining 254)
+Time 1005: Renicing task 44328 (old priority 7, new priority -4, time remaining 636)
+Time 1008: Adding task 10929 (time remaining 43)
+Time 1008: Renicing task 52988 (old priority 0, new priority 9, time remaining 919)
+Time 1010: Adding task 52378 (time remaining 152)
+Time 1010: Renicing task 8316 (old priority 0, new priority 4, time remaining 900)
+Time 1011: Adding task 37542 (time remaining 665)
+Time 1011: Renicing task 34337 (old priority 0, new priority 7, time remaining 989)
+Time 1013: Adding task 37769 (time remaining 723)
+Time 1013: Renicing task 29925 (old priority -4, new priority 3, time remaining 510)
+Time 1017: Adding task 21103 (time remaining 506)
+Time 1017: Renicing task 29512 (old priority 10, new priority 6, time remaining 762)
+Time 1020: Adding task 4780 (time remaining 330)
+Time 1020: Renicing task 47307 (old priority 0, new priority 9, time remaining 288)
+Time 1021: Adding task 37917 (time remaining 558)
+Time 1021: Renicing task 45431 (old priority 0, new priority 1, time remaining 958)
+Time 1021: Adding task 64886 (time remaining 349)
+Time 1021: Renicing task 28767 (old priority 0, new priority 8, time remaining 111)
+Time 1022: Adding task 34398 (time remaining 605)
+Time 1022: Renicing task 33403 (old priority 0, new priority 4, time remaining 8)
+Time 1023: Adding task 41388 (time remaining 854)
+Time 1023: Renicing task 7115 (old priority -8, new priority 0, time remaining 919)
+Time 1025: Adding task 30459 (time remaining 242)
+Time 1025: Renicing task 3260 (old priority 2, new priority 3, time remaining 85)
+Time 1029: Adding task 48554 (time remaining 483)
+Time 1029: Renicing task 44399 (old priority -9, new priority 9, time remaining 371)
+Time 1031: Adding task 30518 (time remaining 477)
+Time 1031: Renicing task 34024 (old priority 6, new priority -9, time remaining 146)
+Time 1031: Adding task 7768 (time remaining 408)
+Time 1031: Renicing task 63527 (old priority 0, new priority 8, time remaining 199)
+Time 1034: Adding task 6210 (time remaining 467)
+Time 1034: Renicing task 55991 (old priority 0, new priority -7, time remaining 118)
+Time 1034: Adding task 179 (time remaining 400)
+Time 1034: Renicing task 63823 (old priority 9, new priority -2, time remaining 698)
+Time 1035: Adding task 22493 (time remaining 531)
+Time 1035: Renicing task 42417 (old priority 7, new priority -5, time remaining 658)
+Time 1036: Adding task 50975 (time remaining 128)
+Time 1036: Renicing task 10825 (old priority 8, new priority 10, time remaining 107)
+Time 1037: Adding task 34173 (time remaining 839)
+Time 1037: Renicing task 20962 (old priority 0, new priority -3, time remaining 316)
+Time 1038: Adding task 26605 (time remaining 752)
+Time 1038: Renicing task 22404 (old priority -8, new priority -8, time remaining 995)
+Time 1041: Adding task 1513 (time remaining 597)
+Time 1041: Renicing task 9589 (old priority 8, new priority -10, time remaining 142)
+Time 1045: Adding task 24961 (time remaining 495)
+Time 1045: Renicing task 7470 (old priority 1, new priority 2, time remaining 332)
+Time 1049: Adding task 53112 (time remaining 50)
+Time 1049: Renicing task 16644 (old priority 9, new priority -10, time remaining 60)
+Time 1053: Adding task 3327 (time remaining 770)
+Time 1053: Renicing task 61151 (old priority 6, new priority 5, time remaining 766)
+Time 1053: Adding task 4910 (time remaining 906)
+Time 1053: Renicing task 23630 (old priority -9, new priority 2, time remaining 280)
+Time 1055: Adding task 62268 (time remaining 968)
+Time 1055: Renicing task 30901 (old priority 0, new priority -1, time remaining 562)
+Time 1057: Adding task 14409 (time remaining 750)
+Time 1057: Renicing task 65102 (old priority 0, new priority 0, time remaining 810)
+Time 1058: Adding task 44158 (time remaining 13)
+Time 1058: Renicing task 12772 (old priority 6, new priority 6, time remaining 654)
+Time 1060: Adding task 28513 (time remaining 98)
+Time 1060: Renicing task 46388 (old priority 0, new priority -9, time remaining 45)
+Time 1064: Adding task 45830 (time remaining 193)
+Time 1064: Renicing task 53287 (old priority -6, new priority 5, time remaining 931)
+Time 1066: Adding task 10674 (time remaining 49)
+Time 1066: Renicing task 38589 (old priority 0, new priority -6, time remaining 765)
+Time 1069: Adding task 3759 (time remaining 389)
+Time 1069: Renicing task 9104 (old priority 9, new priority -9, time remaining 10)
+Time 1069: Adding task 36610 (time remaining 616)
+Time 1069: Renicing task 28169 (old priority 0, new priority 3, time remaining 728)
+Time 1069: Adding task 34045 (time remaining 665)
+Time 1069: Renicing task 53287 (old priority 5, new priority 2, time remaining 931)
+Time 1070: Adding task 9053 (time remaining 141)
+Time 1070: Renicing task 30518 (old priority 0, new priority 9, time remaining 477)
+Time 1072: Adding task 61845 (time remaining 876)
+Time 1072: Renicing task 4780 (old priority 0, new priority -7, time remaining 330)
+Time 1075: Adding task 37661 (time remaining 474)
+Time 1075: Renicing task 2710 (old priority 5, new priority 1, time remaining 292)
+Time 1079: Adding task 1806 (time remaining 809)
+Time 1079: Renicing task 9415 (old priority 0, new priority -10, time remaining 854)
+Time 1081: Adding task 39542 (time remaining 993)
+Time 1081: Renicing task 61902 (old priority -8, new priority -7, time remaining 7)
+Time 1083: Adding task 11192 (time remaining 515)
+Time 1083: Renicing task 11940 (old priority -4, new priority 1, time remaining 749)
+Time 1087: Adding task 9127 (time remaining 261)
+Time 1087: Renicing task 36900 (old priority 0, new priority 5, time remaining 253)
+Time 1088: Adding task 43503 (time remaining 413)
+Time 1088: Renicing task 2043 (old priority 0, new priority -7, time remaining 830)
+Time 1089: Adding task 38557 (time remaining 322)
+Time 1089: Renicing task 23672 (old priority -4, new priority 5, time remaining 677)
+Time 1093: Adding task 31585 (time remaining 41)
+Time 1093: Renicing task 35181 (old priority -9, new priority 4, time remaining 856)
+Time 1096: Adding task 25697 (time remaining 939)
+Time 1096: Renicing task 55991 (old priority -7, new priority 3, time remaining 118)
+Time 1097: Adding task 37750 (time remaining 658)
+Time 1097: Renicing task 57192 (old priority -10, new priority 2, time remaining 506)
+Time 1101: Adding task 45627 (time remaining 206)
+Time 1101: Renicing task 12510 (old priority 6, new priority 4, time remaining 420)
+Time 1104: Adding task 31284 (time remaining 991)
+Time 1104: Renicing task 10185 (old priority -4, new priority -7, time remaining 299)
+Time 1107: Adding task 43685 (time remaining 518)
+Time 1107: Renicing task 38774 (old priority 8, new priority -7, time remaining 239)
+Time 1111: Adding task 3942 (time remaining 911)
+Time 1111: Renicing task 47980 (old priority 0, new priority -10, time remaining 698)
+Time 1111: Adding task 1721 (time remaining 869)
+Time 1111: Renicing task 2045 (old priority -10, new priority 3, time remaining 327)
+Time 1115: Adding task 31076 (time remaining 244)
+Time 1115: Renicing task 21077 (old priority 0, new priority -4, time remaining 131)
+Time 1118: Adding task 24705 (time remaining 772)
+Time 1118: Renicing task 34939 (old priority 10, new priority -4, time remaining 265)
+Time 1121: Adding task 9215 (time remaining 502)
+Time 1121: Renicing task 7169 (old priority 0, new priority -1, time remaining 76)
+Time 1122: Adding task 30491 (time remaining 128)
+Time 1122: Renicing task 34659 (old priority 0, new priority -2, time remaining 260)
+Time 1126: Adding task 40679 (time remaining 197)
+Time 1126: Renicing task 50999 (old priority 5, new priority -7, time remaining 113)
+Time 1127: Adding task 53237 (time remaining 915)
+Time 1127: Renicing task 59458 (old priority 0, new priority -9, time remaining 601)
+Time 1129: Adding task 30696 (time remaining 425)
+Time 1129: Renicing task 4780 (old priority -7, new priority 1, time remaining 330)
+Time 1130: Adding task 48634 (time remaining 812)
+Time 1130: Renicing task 30640 (old priority -3, new priority 7, time remaining 288)
+Time 1131: Adding task 30821 (time remaining 993)
+Time 1131: Renicing task 9226 (old priority 0, new priority -2, time remaining 423)
+Time 1135: Adding task 26446 (time remaining 363)
+Time 1135: Renicing task 30461 (old priority 8, new priority 6, time remaining 862)
+Time 1139: Adding task 5952 (time remaining 711)
+Time 1139: Renicing task 33856 (old priority -1, new priority -2, time remaining 311)
+Time 1140: Adding task 40435 (time remaining 389)
+Time 1140: Renicing task 35428 (old priority -9, new priority 9, time remaining 685)
+Time 1143: Adding task 23759 (time remaining 125)
+Time 1143: Renicing task 15767 (old priority 0, new priority 3, time remaining 693)
+Time 1143: Adding task 26080 (time remaining 929)
+Time 1143: Renicing task 9053 (old priority 0, new priority 6, time remaining 141)
+Time 1147: Adding task 52711 (time remaining 630)
+Time 1147: Renicing task 29925 (old priority 3, new priority 6, time remaining 510)
+Time 1151: Adding task 38381 (time remaining 653)
+Time 1151: Renicing task 14333 (old priority -1, new priority 2, time remaining 559)
+Time 1151: Adding task 25046 (time remaining 715)
+Time 1151: Renicing task 6041 (old priority 0, new priority -7, time remaining 262)
+Time 1154: Adding task 50852 (time remaining 776)
+Time 1154: Renicing task 44128 (old priority 0, new priority -6, time remaining 331)
+Time 1155: Adding task 48476 (time remaining 496)
+Time 1155: Renicing task 18097 (old priority 0, new priority 10, time remaining 216)
+Time 1156: Adding task 34018 (time remaining 724)
+Time 1156: Renicing task 48796 (old priority 0, new priority 4, time remaining 596)
+Time 1157: Adding task 24238 (time remaining 418)
+Time 1157: Renicing task 62569 (old priority -2, new priority -1, time remaining 769)
+Time 1159: Adding task 6 (time remaining 71)
+Time 1159: Renicing task 19638 (old priority 5, new priority 7, time remaining 738)
+Time 1161: Adding task 36018 (time remaining 408)
+Time 1161: Renicing task 48830 (old priority 0, new priority 6, time remaining 778)
+Time 1164: Adding task 47866 (time remaining 31)
+Time 1164: Renicing task 41955 (old priority 6, new priority 8, time remaining 865)
+Time 1166: Adding task 29132 (time remaining 627)
+Time 1166: Renicing task 21077 (old priority -4, new priority 5, time remaining 131)
+Time 1166: Adding task 35359 (time remaining 791)
+Time 1166: Renicing task 15104 (old priority 0, new priority -9, time remaining 31)
+Time 1168: Adding task 4477 (time remaining 324)
+Time 1168: Renicing task 34303 (old priority 0, new priority -7, time remaining 606)
+Time 1168: Adding task 4146 (time remaining 27)
+Time 1168: Renicing task 22289 (old priority 0, new priority -10, time remaining 502)
+Time 1169: Adding task 50082 (time remaining 808)
+Time 1169: Renicing task 40435 (old priority 0, new priority -6, time remaining 389)
+Time 1172: Adding task 48608 (time remaining 604)
+Time 1172: Renicing task 38861 (old priority -4, new priority 7, time remaining 947)
+Time 1173: Adding task 18 (time remaining 746)
+Time 1173: Renicing task 16314 (old priority 0, new priority -10, time remaining 326)
+Time 1173: Adding task 47834 (time remaining 256)
+Time 1173: Renicing task 34024 (old priority -9, new priority -7, time remaining 146)
+Time 1176: Adding task 52338 (time remaining 213)
+Time 1176: Renicing task 15178 (old priority 10, new priority 6, time remaining 608)
+Time 1179: Adding task 24564 (time remaining 505)
+Time 1179: Renicing task 34303 (old priority -7, new priority -5, time remaining 606)
+Time 1183: Adding task 1813 (time remaining 860)
+Time 1183: Renicing task 19674 (old priority 0, new priority 3, time remaining 681)
+Time 1186: Adding task 51869 (time remaining 16)
+Time 1186: Renicing task 35463 (old priority 0, new priority 4, time remaining 514)
+Time 1187: Adding task 14269 (time remaining 721)
+Time 1187: Renicing task 53112 (old priority 0, new priority -2, time remaining 50)
+Time 1190: Adding task 36825 (time remaining 590)
+Time 1190: Renicing task 25697 (old priority 0, new priority -10, time remaining 939)
+Time 1194: Adding task 57358 (time remaining 422)
+Time 1194: Renicing task 33565 (old priority 0, new priority 5, time remaining 166)
+Time 1196: Adding task 24304 (time remaining 295)
+Time 1196: Renicing task 36051 (old priority 5, new priority -3, time remaining 83)
+Time 1198: Adding task 39934 (time remaining 427)
+Time 1198: Renicing task 49136 (old priority 0, new priority -4, time remaining 867)
+Time 1202: Adding task 41962 (time remaining 19)
+Time 1202: Renicing task 23571 (old priority 0, new priority 2, time remaining 415)
+Time 1206: Adding task 58332 (time remaining 268)
+Time 1206: Renicing task 34337 (old priority 7, new priority 5, time remaining 989)
+Time 1209: Adding task 59901 (time remaining 402)
+Time 1209: Renicing task 19261 (old priority 0, new priority 4, time remaining 44)
+Time 1213: Adding task 41370 (time remaining 502)
+Time 1213: Renicing task 9215 (old priority 0, new priority 5, time remaining 502)
+Time 1215: Adding task 15467 (time remaining 516)
+Time 1215: Renicing task 59649 (old priority 0, new priority 3, time remaining 127)
+Time 1219: Adding task 23581 (time remaining 407)
+Time 1219: Renicing task 24238 (old priority 0, new priority 2, time remaining 418)
+Time 1221: Adding task 5002 (time remaining 730)
+Time 1221: Renicing task 17871 (old priority 0, new priority 9, time remaining 683)
+Time 1225: Adding task 57401 (time remaining 623)
+Time 1225: Renicing task 37750 (old priority 0, new priority 3, time remaining 658)
+Time 1228: Adding task 24959 (time remaining 68)
+Time 1228: Renicing task 5999 (old priority -5, new priority 3, time remaining 260)
+Time 1229: Adding task 51 (time remaining 502)
+Time 1229: Renicing task 21005 (old priority 0, new priority -2, time remaining 999)
+Time 1233: Adding task 6491 (time remaining 568)
+Time 1233: Renicing task 47333 (old priority -2, new priority -2, time remaining 207)
+Time 1235: Adding task 44550 (time remaining 252)
+Time 1235: Renicing task 37335 (old priority 0, new priority 5, time remaining 802)
+Time 1238: Adding task 33242 (time remaining 243)
+Time 1238: Renicing task 1691 (old priority 0, new priority -8, time remaining 186)
+Time 1241: Adding task 19909 (time remaining 551)
+Time 1241: Renicing task 34476 (old priority 0, new priority 1, time remaining 163)
+Time 1241: Adding task 56583 (time remaining 40)
+Time 1241: Renicing task 10116 (old priority 0, new priority 1, time remaining 628)
+Time 1243: Adding task 22646 (time remaining 52)
+Time 1243: Renicing task 17540 (old priority 1, new priority -10, time remaining 474)
+Time 1246: Adding task 24101 (time remaining 67)
+Time 1246: Renicing task 14011 (old priority 0, new priority 0, time remaining 562)
+Time 1250: Adding task 33455 (time remaining 941)
+Time 1250: Renicing task 20135 (old priority 0, new priority 1, time remaining 763)
+Time 1253: Adding task 10595 (time remaining 352)
+Time 1253: Renicing task 58332 (old priority 0, new priority 10, time remaining 268)
+Time 1253: Adding task 49819 (time remaining 139)
+Time 1253: Renicing task 38774 (old priority -7, new priority 5, time remaining 239)
+Time 1255: Adding task 43872 (time remaining 772)
+Time 1255: Renicing task 43872 (old priority 0, new priority 5, time remaining 772)
+Time 1259: Adding task 38 (time remaining 528)
+Time 1259: Renicing task 13377 (old priority 0, new priority -9, time remaining 192)
+Time 1260: Adding task 7126 (time remaining 423)
+Time 1260: Renicing task 27918 (old priority -7, new priority 4, time remaining 436)
+Time 1264: Adding task 12574 (time remaining 308)
+Time 1264: Renicing task 1513 (old priority 0, new priority 1, time remaining 597)
+Time 1264: Adding task 31923 (time remaining 229)
+Time 1264: Renicing task 52264 (old priority -9, new priority 0, time remaining 560)
+Time 1265: Adding task 31846 (time remaining 419)
+Time 1265: Renicing task 19638 (old priority 7, new priority -5, time remaining 738)
+Time 1269: Adding task 2115 (time remaining 472)
+Time 1269: Renicing task 42322 (old priority -5, new priority 10, time remaining 985)
+Time 1272: Adding task 8301 (time remaining 311)
+Time 1272: Renicing task 19261 (old priority 4, new priority 8, time remaining 44)
+Time 1272: Adding task 21388 (time remaining 508)
+Time 1272: Renicing task 31345 (old priority -6, new priority 10, time remaining 411)
+Time 1275: Adding task 636 (time remaining 214)
+Time 1275: Renicing task 7871 (old priority 8, new priority 7, time remaining 796)
+Time 1276: Adding task 41065 (time remaining 334)
+Time 1276: Renicing task 12574 (old priority 0, new priority -3, time remaining 308)
+Time 1277: Adding task 23990 (time remaining 546)
+Time 1277: Renicing task 6434 (old priority -1, new priority 4, time remaining 697)
+Time 1280: Adding task 2794 (time remaining 970)
+Time 1280: Renicing task 47699 (old priority 10, new priority 4, time remaining 825)
+Time 1282: Adding task 59905 (time remaining 593)
+Time 1282: Renicing task 31946 (old priority 0, new priority -10, time remaining 443)
+Time 1284: Adding task 41440 (time remaining 839)
+Time 1284: Renicing task 59721 (old priority 0, new priority -8, time remaining 380)
+Time 1285: Adding task 41 (time remaining 10)
+Time 1285: Renicing task 17061 (old priority 2, new priority 4, time remaining 191)
+Time 1289: Adding task 45369 (time remaining 337)
+Time 1289: Renicing task 23996 (old priority 0, new priority 9, time remaining 282)
+Time 1290: Adding task 44132 (time remaining 915)
+Time 1290: Renicing task 56761 (old priority 0, new priority 3, time remaining 357)
+Time 1292: Adding task 53249 (time remaining 499)
+Time 1292: Renicing task 24959 (old priority 0, new priority -1, time remaining 68)
+Time 1295: Adding task 51312 (time remaining 993)
+Time 1295: Renicing task 46975 (old priority 6, new priority -10, time remaining 588)
+Time 1299: Adding task 51750 (time remaining 759)
+Time 1299: Renicing task 9418 (old priority -7, new priority -6, time remaining 324)
+Time 1302: Adding task 18326 (time remaining 60)
+Time 1302: Renicing task 54736 (old priority 7, new priority -4, time remaining 357)
+Time 1303: Adding task 35197 (time remaining 988)
+Time 1303: Renicing task 22493 (old priority 0, new priority -10, time remaining 531)
+Time 1304: Adding task 44411 (time remaining 974)
+Time 1304: Renicing task 57401 (old priority 0, new priority 0, time remaining 623)
+Time 1305: Adding task 24632 (time remaining 619)
+Time 1305: Renicing task 34519 (old priority 0, new priority 0, time remaining 472)
+Time 1307: Adding task 47493 (time remaining 65)
+Time 1307: Renicing task 30823 (old priority 4, new priority -1, time remaining 98)
+Time 1308: Adding task 56160 (time remaining 38)
+Time 1308: Renicing task 59674 (old priority -3, new priority -5, time remaining 743)
+Time 1311: Adding task 49210 (time remaining 242)
+Time 1311: Renicing task 61151 (old priority 5, new priority 4, time remaining 766)
+Time 1312: Adding task 50230 (time remaining 44)
+Time 1312: Renicing task 18097 (old priority 10, new priority 1, time remaining 216)
+Time 1316: Adding task 33701 (time remaining 486)
+Time 1316: Renicing task 22846 (old priority -4, new priority 9, time remaining 784)
+Time 1320: Adding task 36286 (time remaining 293)
+Time 1320: Renicing task 11663 (old priority 6, new priority 10, time remaining 373)
+Time 1320: Adding task 62548 (time remaining 447)
+Time 1320: Renicing task 49136 (old priority -4, new priority 10, time remaining 867)
+Time 1322: Adding task 54926 (time remaining 631)
+Time 1322: Renicing task 15300 (old priority -9, new priority 6, time remaining 132)
+Time 1324: Adding task 8610 (time remaining 507)
+Time 1324: Renicing task 56624 (old priority -10, new priority -9, time remaining 102)
+Time 1325: Adding task 18528 (time remaining 387)
+Time 1325: Renicing task 2115 (old priority 0, new priority 8, time remaining 472)
+Time 1326: Adding task 20052 (time remaining 321)
+Time 1326: Renicing task 2045 (old priority 3, new priority 10, time remaining 327)
+Time 1328: Adding task 15695 (time remaining 543)
+Time 1328: Renicing task 20013 (old priority -9, new priority -2, time remaining 439)
+Time 1329: Adding task 61050 (time remaining 256)
+Time 1329: Renicing task 23597 (old priority 0, new priority 2, time remaining 280)
+Time 1329: Adding task 38929 (time remaining 913)
+Time 1329: Renicing task 63224 (old priority 6, new priority -3, time remaining 156)
+Time 1330: Adding task 22800 (time remaining 70)
+Time 1330: Renicing task 10619 (old priority -1, new priority -10, time remaining 115)
+Time 1332: Adding task 63333 (time remaining 812)
+Time 1332: Renicing task 61391 (old priority -5, new priority -10, time remaining 854)
+Time 1333: Adding task 19377 (time remaining 122)
+Time 1333: Renicing task 59662 (old priority 0, new priority 5, time remaining 907)
+Time 1333: Adding task 20339 (time remaining 690)
+Time 1333: Renicing task 31692 (old priority 0, new priority -10, time remaining 320)
+Time 1336: Adding task 23658 (time remaining 775)
+Time 1336: Renicing task 18470 (old priority 0, new priority 9, time remaining 237)
+Time 1340: Adding task 21550 (time remaining 631)
+Time 1340: Renicing task 16909 (old priority -1, new priority 10, time remaining 28)
+Time 1343: Adding task 65100 (time remaining 374)
+Time 1343: Renicing task 1136 (old priority 3, new priority 10, time remaining 330)
+Time 1346: Adding task 30843 (time remaining 877)
+Time 1346: Renicing task 39934 (old priority 0, new priority 3, time remaining 427)
+Time 1346: Adding task 29817 (time remaining 967)
+Time 1346: Renicing task 7428 (old priority 0, new priority 2, time remaining 831)
+Time 1348: Adding task 29846 (time remaining 521)
+Time 1348: Renicing task 64286 (old priority 7, new priority -5, time remaining 745)
+Time 1352: Adding task 40386 (time remaining 499)
+Time 1352: Renicing task 18905 (old priority 7, new priority 7, time remaining 144)
+Time 1354: Adding task 52729 (time remaining 962)
+Time 1354: Renicing task 34659 (old priority -2, new priority -7, time remaining 260)
+Time 1358: Adding task 54322 (time remaining 16)
+Time 1358: Renicing task 19208 (old priority 0, new priority -5, time remaining 286)
+Time 1358: Adding task 8529 (time remaining 593)
+Time 1358: Renicing task 48608 (old priority 0, new priority -2, time remaining 604)
+Time 1358: Adding task 41254 (time remaining 674)
+Time 1358: Renicing task 6041 (old priority -7, new priority -3, time remaining 262)
+Time 1358: Adding task 32457 (time remaining 273)
+Time 1358: Renicing task 59901 (old priority 0, new priority -3, time remaining 402)
+Time 1361: Adding task 62228 (time remaining 867)
+Time 1361: Renicing task 13872 (old priority 1, new priority 10, time remaining 618)
+Time 1362: Adding task 11 (time remaining 941)
+Time 1362: Renicing task 5477 (old priority -6, new priority 7, time remaining 322)
+Time 1365: Adding task 3874 (time remaining 903)
+Time 1365: Renicing task 23597 (old priority 2, new priority 4, time remaining 280)
+Time 1367: Adding task 52877 (time remaining 696)
+Time 1367: Renicing task 40226 (old priority 8, new priority -1, time remaining 545)
+Time 1370: Adding task 8587 (time remaining 502)
+Time 1370: Renicing task 22289 (old priority -10, new priority -7, time remaining 502)
+Time 1372: Adding task 26209 (time remaining 69)
+Time 1372: Renicing task 10403 (old priority 0, new priority -4, time remaining 549)
+Time 1374: Adding task 5521 (time remaining 286)
+Time 1374: Renicing task 64476 (old priority -6, new priority -1, time remaining 984)
+Time 1374: Adding task 549 (time remaining 763)
+Time 1374: Renicing task 38483 (old priority 0, new priority 0, time remaining 810)
+Time 1378: Adding task 995 (time remaining 909)
+Time 1378: Renicing task 27379 (old priority 0, new priority 7, time remaining 171)
+Time 1379: Adding task 3242 (time remaining 844)
+Time 1379: Renicing task 36057 (old priority -9, new priority -9, time remaining 726)
+Time 1379: Adding task 54733 (time remaining 184)
+Time 1379: Renicing task 29737 (old priority 0, new priority -2, time remaining 180)
+Time 1380: Adding task 59429 (time remaining 955)
+Time 1380: Renicing task 41433 (old priority -3, new priority 8, time remaining 224)
+Time 1384: Adding task 49190 (time remaining 723)
+Time 1384: Renicing task 25362 (old priority 0, new priority 9, time remaining 476)
+Time 1385: Adding task 7862 (time remaining 264)
+Time 1385: Renicing task 22339 (old priority 0, new priority -8, time remaining 371)
+Time 1385: Adding task 33539 (time remaining 118)
+Time 1385: Renicing task 12669 (old priority 10, new priority -3, time remaining 582)
+Time 1387: Adding task 14353 (time remaining 922)
+Time 1387: Renicing task 56 (old priority 0, new priority 6, time remaining 948)
+Time 1387: Adding task 16172 (time remaining 480)
+Time 1387: Renicing task 50367 (old priority 0, new priority -5, time remaining 301)
+Time 1391: Adding task 58277 (time remaining 344)
+Time 1391: Renicing task 58253 (old priority 0, new priority 3, time remaining 853)
+Time 1394: Adding task 34845 (time remaining 434)
+Time 1394: Renicing task 23136 (old priority 9, new priority -4, time remaining 532)
+Time 1398: Adding task 62752 (time remaining 699)
+Time 1398: Renicing task 58540 (old priority 0, new priority 9, time remaining 854)
+Time 1398: Adding task 10 (time remaining 970)
+Time 1398: Renicing task 995 (old priority 0, new priority -9, time remaining 909)
+Time 1401: Adding task 33287 (time remaining 915)
+Time 1401: Renicing task 9226 (old priority -2, new priority 6, time remaining 423)
+Time 1402: Adding task 51986 (time remaining 506)
+Time 1402: Renicing task 33403 (old priority 4, new priority -4, time remaining 8)
+Time 1402: Adding task 64449 (time remaining 452)
+Time 1402: Renicing task 1721 (old priority 0, new priority 6, time remaining 869)
+Time 1402: Adding task 3653 (time remaining 877)
+Time 1402: Renicing task 23658 (old priority 0, new priority 1, time remaining 775)
+Time 1404: Adding task 35012 (time remaining 372)
+Time 1404: Renicing task 21388 (old priority 0, new priority -3, time remaining 508)
+Time 1404: Adding task 19386 (time remaining 294)
+Time 1404: Renicing task 64773 (old priority 0, new priority 2, time remaining 319)
+Time 1407: Adding task 58164 (time remaining 932)
+Time 1407: Renicing task 10674 (old priority 0, new priority -4, time remaining 49)
+Time 1408: Adding task 22904 (time remaining 149)
+Time 1408: Renicing task 64201 (old priority 0, new priority 5, time remaining 445)
+Time 1409: Adding task 18997 (time remaining 753)
+Time 1409: Renicing task 55073 (old priority 0, new priority 1, time remaining 271)
+Time 1413: Adding task 19558 (time remaining 15)
+Time 1413: Renicing task 8523 (old priority 10, new priority -8, time remaining 526)
+Time 1416: Adding task 26335 (time remaining 751)
+Time 1416: Renicing task 53649 (old priority 0, new priority 6, time remaining 615)
+Time 1417: Adding task 56678 (time remaining 457)
+Time 1417: Renicing task 27918 (old priority 4, new priority -8, time remaining 436)
+Time 1419: Adding task 38160 (time remaining 969)
+Time 1419: Renicing task 19608 (old priority 0, new priority 4, time remaining 24)
+Time 1423: Adding task 60123 (time remaining 96)
+Time 1423: Renicing task 15300 (old priority 6, new priority 3, time remaining 132)
+Time 1423: Adding task 40258 (time remaining 791)
+Time 1423: Renicing task 11201 (old priority 9, new priority -10, time remaining 27)
+Time 1423: Adding task 10924 (time remaining 792)
+Time 1423: Renicing task 65447 (old priority 0, new priority -3, time remaining 87)
+Time 1426: Adding task 19782 (time remaining 812)
+Time 1426: Renicing task 9415 (old priority -10, new priority 10, time remaining 539)
+Time 1429: Adding task 36988 (time remaining 142)
+Time 1429: Renicing task 35181 (old priority 4, new priority -8, time remaining 856)
+Time 1429: Adding task 23724 (time remaining 386)
+Time 1429: Renicing task 32498 (old priority 0, new priority 5, time remaining 649)
+Time 1432: Adding task 41080 (time remaining 932)
+Time 1432: Renicing task 51312 (old priority 0, new priority -2, time remaining 993)
+Time 1432: Adding task 58632 (time remaining 13)
+Time 1432: Renicing task 21433 (old priority 0, new priority 3, time remaining 832)
+Time 1435: Adding task 59579 (time remaining 322)
+Time 1435: Renicing task 63466 (old priority 0, new priority -1, time remaining 508)
+Time 1437: Adding task 20492 (time remaining 657)
+Time 1437: Renicing task 7126 (old priority 0, new priority 4, time remaining 423)
+Time 1437: Adding task 30215 (time remaining 299)
+Time 1437: Renicing task 47493 (old priority 0, new priority -1, time remaining 65)
+Time 1438: Adding task 48244 (time remaining 88)
+Time 1438: Renicing task 45522 (old priority -1, new priority 7, time remaining 878)
+Time 1442: Adding task 7452 (time remaining 107)
+Time 1442: Renicing task 27276 (old priority 0, new priority 3, time remaining 352)
+Time 1442: Adding task 26766 (time remaining 748)
+Time 1442: Renicing task 34045 (old priority 0, new priority -5, time remaining 665)
+Time 1443: Adding task 29682 (time remaining 138)
+Time 1443: Renicing task 34173 (old priority 0, new priority 5, time remaining 839)
+Time 1447: Adding task 64688 (time remaining 101)
+Time 1447: Renicing task 63333 (old priority 0, new priority -4, time remaining 812)
+Time 1448: Adding task 61022 (time remaining 981)
+Time 1448: Renicing task 51312 (old priority -2, new priority -10, time remaining 993)
+Time 1450: Adding task 35538 (time remaining 24)
+Time 1450: Renicing task 22846 (old priority 9, new priority 5, time remaining 784)
+Time 1454: Adding task 39947 (time remaining 626)
+Time 1454: Renicing task 65496 (old priority -7, new priority 5, time remaining 410)
+Time 1457: Adding task 39282 (time remaining 829)
+Time 1457: Renicing task 21688 (old priority 0, new priority -4, time remaining 810)
+Time 1461: Adding task 58017 (time remaining 494)
+Time 1461: Renicing task 62228 (old priority 0, new priority 6, time remaining 867)
+Time 1462: Adding task 37113 (time remaining 211)
+Time 1462: Renicing task 51 (old priority 0, new priority -9, time remaining 502)
+Time 1465: Adding task 25262 (time remaining 102)
+Time 1465: Renicing task 33856 (old priority -2, new priority -4, time remaining 311)
+Time 1466: Adding task 49724 (time remaining 586)
+Time 1466: Renicing task 60 (old priority 0, new priority -2, time remaining 959)
+Time 1468: Adding task 10387 (time remaining 622)
+Time 1468: Renicing task 62548 (old priority 0, new priority 2, time remaining 447)
+Time 1472: Adding task 64718 (time remaining 676)
+Time 1472: Renicing task 11 (old priority 0, new priority -6, time remaining 941)
+Time 1475: Adding task 51393 (time remaining 432)
+Time 1475: Renicing task 33856 (old priority -4, new priority -5, time remaining 311)
+Time 1478: Adding task 12999 (time remaining 921)
+Time 1478: Renicing task 14353 (old priority 0, new priority 3, time remaining 922)
+Time 1479: Adding task 65534 (time remaining 308)
+Time 1479: Renicing task 36227 (old priority 0, new priority -3, time remaining 669)
+Time 1482: Adding task 65476 (time remaining 437)
+Time 1482: Renicing task 25362 (old priority 9, new priority 5, time remaining 476)
+Time 1482: Adding task 39375 (time remaining 784)
+Time 1482: Renicing task 56583 (old priority 0, new priority -5, time remaining 40)
+Time 1482: Adding task 32867 (time remaining 224)
+Time 1482: Renicing task 28464 (old priority 0, new priority 9, time remaining 598)
+Time 1484: Adding task 28735 (time remaining 501)
+Time 1484: Renicing task 21550 (old priority 0, new priority -4, time remaining 631)
+Time 1484: Adding task 53402 (time remaining 643)
+Time 1484: Renicing task 5414 (old priority 0, new priority -7, time remaining 976)
+Time 1487: Adding task 19960 (time remaining 863)
+Time 1487: Renicing task 38154 (old priority 0, new priority -5, time remaining 14)
+Time 1489: Adding task 47186 (time remaining 746)
+Time 1489: Renicing task 27384 (old priority -2, new priority -3, time remaining 404)
+Time 1491: Adding task 54664 (time remaining 118)
+Time 1491: Renicing task 22289 (old priority -7, new priority -10, time remaining 502)
+Time 1495: Adding task 41177 (time remaining 138)
+Time 1495: Renicing task 62752 (old priority 0, new priority -10, time remaining 699)
+Time 1497: Adding task 37792 (time remaining 53)
+Time 1497: Renicing task 64476 (old priority -1, new priority -7, time remaining 984)
+Time 1497: Adding task 24916 (time remaining 519)
+Time 1497: Renicing task 16314 (old priority -10, new priority -10, time remaining 326)
+Time 1499: Adding task 21992 (time remaining 199)
+Time 1499: Renicing task 18 (old priority 0, new priority -6, time remaining 746)
+Time 1500: Adding task 58998 (time remaining 650)
+Time 1500: Renicing task 39542 (old priority 0, new priority -3, time remaining 993)
+Time 1502: Adding task 20752 (time remaining 97)
+Time 1502: Renicing task 39947 (old priority 0, new priority -10, time remaining 626)
+Time 1503: Adding task 14580 (time remaining 703)
+Time 1503: Renicing task 6491 (old priority 0, new priority -8, time remaining 568)
+Time 1503: Adding task 40837 (time remaining 71)
+Time 1503: Renicing task 30640 (old priority 7, new priority 6, time remaining 288)
+Time 1505: Adding task 6227 (time remaining 343)
+Time 1505: Renicing task 28513 (old priority 0, new priority -9, time remaining 98)
+Time 1509: Adding task 640 (time remaining 183)
+Time 1509: Renicing task 64201 (old priority 5, new priority -5, time remaining 445)
+Time 1512: Adding task 54097 (time remaining 846)
+Time 1512: Renicing task 22950 (old priority -6, new priority 5, time remaining 866)
+Time 1513: Adding task 27013 (time remaining 924)
+Time 1513: Renicing task 10403 (old priority -4, new priority -2, time remaining 549)
+Time 1514: Adding task 28273 (time remaining 26)
+Time 1514: Renicing task 21604 (old priority 1, new priority 2, time remaining 185)
+Time 1516: Adding task 46394 (time remaining 704)
+Time 1516: Renicing task 12970 (old priority 0, new priority -8, time remaining 651)
+Time 1517: Adding task 39517 (time remaining 990)
+Time 1517: Renicing task 17065 (old priority 4, new priority -9, time remaining 906)
+Time 1520: Adding task 4480 (time remaining 522)
+Time 1520: Renicing task 13104 (old priority -8, new priority 9, time remaining 412)
+Time 1521: Adding task 45305 (time remaining 435)
+Time 1521: Renicing task 65022 (old priority 0, new priority -4, time remaining 603)
+Time 1525: Adding task 33990 (time remaining 975)
+Time 1525: Renicing task 23369 (old priority -3, new priority -4, time remaining 695)
+Time 1529: Adding task 34796 (time remaining 82)
+Time 1529: Renicing task 33812 (old priority -6, new priority -5, time remaining 75)
+Time 1531: Adding task 22419 (time remaining 288)
+Time 1531: Renicing task 22646 (old priority 0, new priority 7, time remaining 52)
+Time 1531: Adding task 41853 (time remaining 728)
+Time 1531: Renicing task 23672 (old priority 5, new priority 7, time remaining 677)
+Time 1531: Adding task 27472 (time remaining 368)
+Time 1531: Renicing task 16255 (old priority 0, new priority -10, time remaining 748)
+Time 1531: Adding task 23543 (time remaining 662)
+Time 1531: Renicing task 54736 (old priority -4, new priority -2, time remaining 357)
+Time 1532: Adding task 43867 (time remaining 401)
+Time 1532: Renicing task 12669 (old priority -3, new priority 8, time remaining 582)
+Time 1532: Adding task 9245 (time remaining 300)
+Time 1532: Renicing task 63823 (old priority -2, new priority -7, time remaining 698)
+Time 1536: Adding task 27323 (time remaining 562)
+Time 1536: Renicing task 27323 (old priority 0, new priority 5, time remaining 562)
+Time 1538: Adding task 65260 (time remaining 866)
+Time 1538: Renicing task 31352 (old priority 0, new priority -5, time remaining 805)
+Time 1541: Adding task 46191 (time remaining 566)
+Time 1541: Renicing task 48830 (old priority 6, new priority -5, time remaining 778)
+Time 1543: Adding task 43101 (time remaining 59)
+Time 1543: Renicing task 38443 (old priority 7, new priority 7, time remaining 62)
+Time 1545: Adding task 36894 (time remaining 363)
+Time 1545: Renicing task 6799 (old priority -5, new priority -10, time remaining 720)
+Time 1549: Adding task 13825 (time remaining 694)
+Time 1549: Renicing task 21688 (old priority -4, new priority -6, time remaining 810)
+Time 1551: Adding task 49456 (time remaining 134)
+Time 1551: Renicing task 65476 (old priority 0, new priority -3, time remaining 437)
+Time 1551: Adding task 23525 (time remaining 490)
+Time 1551: Renicing task 3759 (old priority 0, new priority 3, time remaining 389)
+Time 1555: Adding task 6020 (time remaining 208)
+Time 1555: Renicing task 49322 (old priority 0, new priority -3, time remaining 314)
+Time 1559: Adding task 52688 (time remaining 701)
+Time 1559: Renicing task 636 (old priority 0, new priority 6, time remaining 214)
+Time 1563: Adding task 36595 (time remaining 607)
+Time 1563: Renicing task 47333 (old priority -2, new priority -8, time remaining 207)
+Time 1565: Adding task 51070 (time remaining 185)
+Time 1565: Renicing task 65168 (old priority 0, new priority 0, time remaining 503)
+Time 1569: Adding task 574 (time remaining 108)
+Time 1569: Renicing task 20013 (old priority -2, new priority -6, time remaining 439)
+Time 1572: Adding task 58816 (time remaining 868)
+Time 1572: Renicing task 17838 (old priority 0, new priority -7, time remaining 30)
+Time 1576: Adding task 28394 (time remaining 884)
+Time 1576: Renicing task 61845 (old priority 0, new priority 2, time remaining 876)
+Time 1577: Adding task 37105 (time remaining 386)
+Time 1577: Renicing task 42975 (old priority 5, new priority -6, time remaining 7)
+Time 1581: Adding task 50719 (time remaining 557)
+Time 1581: Renicing task 12701 (old priority 0, new priority 2, time remaining 458)
+Time 1585: Adding task 5369 (time remaining 145)
+Time 1585: Renicing task 8231 (old priority -6, new priority 1, time remaining 69)
+Time 1587: Adding task 9041 (time remaining 447)
+Time 1587: Renicing task 60123 (old priority 0, new priority -2, time remaining 96)
+Time 1587: Adding task 38579 (time remaining 97)
+Time 1587: Renicing task 64886 (old priority 0, new priority 4, time remaining 349)
+Time 1589: Adding task 22637 (time remaining 956)
+Time 1589: Renicing task 21077 (old priority 5, new priority -8, time remaining 131)
+Time 1592: Adding task 47074 (time remaining 990)
+Time 1592: Renicing task 7899 (old priority -4, new priority 9, time remaining 848)
+Time 1593: Adding task 61612 (time remaining 677)
+Time 1593: Renicing task 6 (old priority 0, new priority 0, time remaining 71)
+Time 1596: Adding task 25707 (time remaining 51)
+Time 1596: Renicing task 33701 (old priority 0, new priority 7, time remaining 486)
+Time 1600: Adding task 47966 (time remaining 603)
+Time 1600: Renicing task 35866 (old priority 0, new priority 6, time remaining 249)
+Time 1601: Adding task 54138 (time remaining 341)
+Time 1601: Renicing task 25707 (old priority 0, new priority 10, time remaining 51)
+Time 1603: Adding task 18239 (time remaining 991)
+Time 1603: Renicing task 36057 (old priority -9, new priority 5, time remaining 726)
+Time 1605: Adding task 49106 (time remaining 409)
+Time 1605: Renicing task 34045 (old priority -5, new priority -9, time remaining 665)
+Time 1609: Adding task 24940 (time remaining 886)
+Time 1609: Renicing task 21388 (old priority -3, new priority 5, time remaining 508)
+Time 1613: Adding task 41464 (time remaining 147)
+Time 1613: Renicing task 51312 (old priority -10, new priority 6, time remaining 993)
+Time 1615: Adding task 6388 (time remaining 269)
+Time 1615: Renicing task 1806 (old priority 0, new priority -2, time remaining 809)
+Time 1615: Adding task 55155 (time remaining 508)
+Time 1615: Renicing task 27384 (old priority -3, new priority -7, time remaining 404)
+Time 1618: Adding task 11747 (time remaining 964)
+Time 1618: Renicing task 49724 (old priority 0, new priority 0, time remaining 586)
+Time 1621: Adding task 2696 (time remaining 22)
+Time 1621: Renicing task 51267 (old priority -3, new priority -10, time remaining 973)
+Time 1622: Adding task 26715 (time remaining 362)
+Time 1622: Renicing task 63821 (old priority -4, new priority -1, time remaining 8)
+Time 1625: Adding task 28475 (time remaining 64)
+Time 1625: Renicing task 31352 (old priority -5, new priority 3, time remaining 805)
+Time 1625: Adding task 38494 (time remaining 150)
+Time 1625: Renicing task 47966 (old priority 0, new priority 0, time remaining 603)
+Time 1626: Adding task 64541 (time remaining 777)
+Time 1626: Renicing task 19558 (old priority 0, new priority -7, time remaining 15)
+Time 1626: Adding task 56710 (time remaining 229)
+Time 1626: Renicing task 32457 (old priority 0, new priority 2, time remaining 273)
+Time 1626: Adding task 16635 (time remaining 818)
+Time 1626: Renicing task 35281 (old priority 0, new priority -2, time remaining 894)
+Time 1626: Adding task 27945 (time remaining 284)
+Time 1626: Renicing task 64718 (old priority 0, new priority 9, time remaining 676)
+Time 1627: Adding task 57748 (time remaining 221)
+Time 1627: Renicing task 22646 (old priority 7, new priority -9, time remaining 52)
+Time 1630: Adding task 13784 (time remaining 587)
+Time 1630: Renicing task 24564 (old priority 0, new priority 1, time remaining 505)
+Time 1631: Adding task 43321 (time remaining 388)
+Time 1631: Renicing task 12701 (old priority 2, new priority 2, time remaining 458)
+Time 1633: Adding task 10418 (time remaining 580)
+Time 1633: Renicing task 4217 (old priority 0, new priority -1, time remaining 449)
+Time 1633: Adding task 11199 (time remaining 871)
+Time 1633: Renicing task 5002 (old priority 0, new priority 1, time remaining 730)
+Time 1636: Adding task 13341 (time remaining 760)
+Time 1636: Renicing task 2232 (old priority 0, new priority -5, time remaining 374)
+Time 1636: Adding task 41721 (time remaining 742)
+Time 1636: Renicing task 39870 (old priority 0, new priority 5, time remaining 926)
+Time 1638: Adding task 4231 (time remaining 253)
+Time 1638: Renicing task 26013 (old priority 0, new priority -3, time remaining 389)
+Time 1640: Adding task 15360 (time remaining 39)
+Time 1640: Renicing task 2045 (old priority 10, new priority 1, time remaining 327)
+Time 1644: Adding task 20082 (time remaining 365)
+Time 1644: Renicing task 47980 (old priority -10, new priority -5, time remaining 698)
+Time 1646: Adding task 1876 (time remaining 852)
+Time 1646: Renicing task 44158 (old priority 0, new priority 6, time remaining 13)
+Time 1647: Adding task 38023 (time remaining 221)
+Time 1647: Renicing task 1553 (old priority -4, new priority 2, time remaining 228)
+Time 1649: Adding task 53386 (time remaining 84)
+Time 1649: Renicing task 23571 (old priority 2, new priority -4, time remaining 415)
+Time 1649: Adding task 47069 (time remaining 792)
+Time 1649: Renicing task 8587 (old priority 0, new priority 2, time remaining 502)
+Time 1649: Adding task 8 (time remaining 436)
+Time 1649: Renicing task 9528 (old priority 0, new priority 7, time remaining 927)
+Time 1653: Adding task 14143 (time remaining 912)
+Time 1653: Renicing task 27013 (old priority 0, new priority 3, time remaining 924)
+Time 1657: Adding task 29055 (time remaining 874)
+Time 1657: Renicing task 35892 (old priority 0, new priority 1, time remaining 163)
+Time 1659: Adding task 35741 (time remaining 201)
+Time 1659: Renicing task 44237 (old priority 0, new priority 2, time remaining 464)
+Time 1662: Adding task 40568 (time remaining 710)
+Time 1662: Renicing task 47611 (old priority 0, new priority 0, time remaining 12)
+Time 1662: Adding task 57504 (time remaining 986)
+Time 1662: Renicing task 21103 (old priority 0, new priority 5, time remaining 506)
+Time 1663: Adding task 17526 (time remaining 525)
+Time 1663: Renicing task 62723 (old priority 0, new priority -4, time remaining 715)
+Time 1666: Adding task 53383 (time remaining 264)
+Time 1666: Renicing task 34018 (old priority 0, new priority -6, time remaining 724)
+Time 1666: Adding task 37489 (time remaining 980)
+Time 1666: Renicing task 60832 (old priority -5, new priority 1, time remaining 414)
+Time 1667: Adding task 8842 (time remaining 209)
+Time 1667: Renicing task 44132 (old priority 0, new priority 8, time remaining 915)
+Time 1667: Adding task 6682 (time remaining 845)
+Time 1667: Renicing task 29055 (old priority 0, new priority -5, time remaining 874)
+Time 1667: Adding task 49922 (time remaining 770)
+Time 1667: Renicing task 23990 (old priority 0, new priority 5, time remaining 546)
+Time 1671: Adding task 3856 (time remaining 905)
+Time 1671: Renicing task 27013 (old priority 3, new priority -6, time remaining 924)
+Time 1674: Adding task 62672 (time remaining 158)
+Time 1674: Renicing task 34845 (old priority 0, new priority -8, time remaining 434)
+Time 1674: Adding task 32766 (time remaining 138)
+Time 1674: Renicing task 37542 (old priority 0, new priority -7, time remaining 665)
+Time 1676: Adding task 21621 (time remaining 387)
+Time 1676: Renicing task 40230 (old priority 5, new priority 0, time remaining 993)
+Time 1680: Adding task 1399 (time remaining 724)
+Time 1680: Renicing task 4146 (old priority 0, new priority -4, time remaining 27)
+Time 1680: Adding task 45744 (time remaining 922)
+Time 1680: Renicing task 33287 (old priority 0, new priority -9, time remaining 915)
+Time 1680: Adding task 7887 (time remaining 248)
+Time 1680: Renicing task 57333 (old priority -7, new priority 10, time remaining 554)
+Time 1684: Adding task 5944 (time remaining 187)
+Time 1684: Renicing task 31284 (old priority 0, new priority 8, time remaining 991)
+Time 1684: Adding task 65529 (time remaining 195)
+Time 1684: Renicing task 36595 (old priority 0, new priority -9, time remaining 607)
+Time 1688: Adding task 45041 (time remaining 227)
+Time 1688: Renicing task 12338 (old priority -1, new priority -2, time remaining 267)
+Time 1692: Adding task 45943 (time remaining 377)
+Time 1692: Renicing task 29682 (old priority 0, new priority 7, time remaining 138)
+Time 1695: Adding task 56921 (time remaining 547)
+Time 1695: Renicing task 61845 (old priority 2, new priority 0, time remaining 876)
+Time 1698: Adding task 4671 (time remaining 10)
+Time 1698: Renicing task 7470 (old priority 2, new priority -6, time remaining 332)
+Time 1699: Adding task 36889 (time remaining 54)
+Time 1699: Renicing task 6799 (old priority -10, new priority 2, time remaining 566)
+Time 1700: Adding task 32741 (time remaining 375)
+Time 1700: Renicing task 26335 (old priority 0, new priority -9, time remaining 751)
+Time 1702: Adding task 12490 (time remaining 54)
+Time 1702: Renicing task 5098 (old priority 10, new priority 7, time remaining 529)
+Time 1705: Adding task 34141 (time remaining 588)
+Time 1705: Renicing task 24961 (old priority 0, new priority 9, time remaining 495)
+Time 1708: Adding task 42594 (time remaining 580)
+Time 1708: Renicing task 34018 (old priority -6, new priority 2, time remaining 724)
+Time 1711: Adding task 9868 (time remaining 793)
+Time 1711: Renicing task 39542 (old priority -3, new priority 1, time remaining 993)
+Time 1711: Adding task 20418 (time remaining 10)
+Time 1711: Renicing task 34519 (old priority 0, new priority 1, time remaining 472)
+Time 1711: Adding task 8423 (time remaining 958)
+Time 1711: Renicing task 26766 (old priority 0, new priority -7, time remaining 748)
+Time 1714: Adding task 2418 (time remaining 511)
+Time 1714: Renicing task 38579 (old priority 0, new priority -4, time remaining 97)
+Time 1715: Adding task 33231 (time remaining 978)
+Time 1715: Renicing task 57401 (old priority 0, new priority -10, time remaining 623)
+Time 1715: Adding task 63605 (time remaining 798)
+Time 1715: Renicing task 10929 (old priority 0, new priority -5, time remaining 43)
+Time 1719: Adding task 13427 (time remaining 448)
+Time 1719: Renicing task 22862 (old priority 0, new priority 1, time remaining 490)
+Time 1720: Adding task 45565 (time remaining 467)
+Time 1720: Renicing task 9104 (old priority -9, new priority -10, time remaining 10)
+Time 1720: Adding task 11998 (time remaining 119)
+Time 1720: Renicing task 25932 (old priority 0, new priority -9, time remaining 261)
+Time 1721: Adding task 14684 (time remaining 444)
+Time 1721: Renicing task 13426 (old priority 0, new priority 6, time remaining 457)
+Time 1722: Adding task 53026 (time remaining 165)
+Time 1722: Renicing task 34633 (old priority -8, new priority 4, time remaining 466)
+Time 1724: Adding task 61378 (time remaining 927)
+Time 1724: Renicing task 46191 (old priority 0, new priority -7, time remaining 566)
+Time 1726: Adding task 12745 (time remaining 607)
+Time 1726: Renicing task 9418 (old priority -6, new priority -8, time remaining 324)
+Time 1728: Adding task 43957 (time remaining 38)
+Time 1728: Renicing task 33990 (old priority 0, new priority 2, time remaining 975)
+Time 1729: Adding task 58657 (time remaining 551)
+Time 1729: Renicing task 34141 (old priority 0, new priority 8, time remaining 588)
+Time 1729: Adding task 48286 (time remaining 595)
+Time 1729: Renicing task 60419 (old priority -9, new priority 1, time remaining 538)
+Time 1729: Job 9104 finished
+Time 1731: Adding task 20169 (time remaining 363)
+Time 1731: Renicing task 42594 (old priority 0, new priority 4, time remaining 580)
+Time 1731: Job 9589 finished
+Time 1732: Adding task 8704 (time remaining 217)
+Time 1732: Renicing task 31538 (old priority 0, new priority 2, time remaining 237)
+Time 1732: Adding task 32042 (time remaining 910)
+Time 1732: Renicing task 36428 (old priority 0, new priority -6, time remaining 113)
+Time 1734: Adding task 63895 (time remaining 298)
+Time 1734: Renicing task 30640 (old priority 6, new priority -2, time remaining 288)
+Time 1735: Adding task 29445 (time remaining 765)
+Time 1735: Renicing task 1553 (old priority 2, new priority 3, time remaining 228)
+Time 1739: Adding task 25744 (time remaining 79)
+Time 1739: Renicing task 8610 (old priority 0, new priority 1, time remaining 507)
+Time 1743: Adding task 25222 (time remaining 912)
+Time 1743: Renicing task 48830 (old priority -5, new priority -3, time remaining 778)
+Time 1743: Adding task 28199 (time remaining 7)
+Time 1743: Renicing task 8523 (old priority -8, new priority 5, time remaining 526)
+Time 1745: Adding task 52555 (time remaining 594)
+Time 1745: Renicing task 38929 (old priority 0, new priority -4, time remaining 913)
+Time 1747: Adding task 2 (time remaining 278)
+Time 1747: Renicing task 33242 (old priority 0, new priority -7, time remaining 243)
+Time 1750: Adding task 16919 (time remaining 215)
+Time 1750: Renicing task 36595 (old priority -9, new priority 3, time remaining 607)
+Time 1753: Adding task 30245 (time remaining 601)
+Time 1753: Renicing task 19960 (old priority 0, new priority -2, time remaining 863)
+Time 1753: Adding task 1418 (time remaining 186)
+Time 1753: Renicing task 10 (old priority 0, new priority -7, time remaining 970)
+Time 1757: Adding task 28072 (time remaining 124)
+Time 1757: Renicing task 12982 (old priority 0, new priority 5, time remaining 150)
+Time 1759: Adding task 35681 (time remaining 944)
+Time 1759: Renicing task 26715 (old priority 0, new priority -6, time remaining 362)
+Time 1760: Adding task 42762 (time remaining 528)
+Time 1760: Renicing task 26339 (old priority 0, new priority 7, time remaining 462)
+Time 1764: Adding task 22542 (time remaining 708)
+Time 1764: Renicing task 52738 (old priority -5, new priority 8, time remaining 500)
+Time 1767: Adding task 42049 (time remaining 636)
+Time 1767: Renicing task 6210 (old priority 0, new priority 6, time remaining 467)
+Time 1768: Adding task 59552 (time remaining 600)
+Time 1768: Renicing task 38 (old priority 0, new priority 4, time remaining 528)
+Time 1770: Adding task 22906 (time remaining 975)
+Time 1770: Renicing task 36428 (old priority -6, new priority 0, time remaining 113)
+Time 1770: Adding task 14257 (time remaining 972)
+Time 1770: Renicing task 49322 (old priority -3, new priority 4, time remaining 314)
+Time 1774: Adding task 64396 (time remaining 616)
+Time 1774: Renicing task 9245 (old priority 0, new priority 8, time remaining 300)
+Time 1774: Adding task 41826 (time remaining 215)
+Time 1774: Renicing task 63290 (old priority 0, new priority 0, time remaining 681)
+Time 1776: Adding task 61525 (time remaining 866)
+Time 1776: Renicing task 26335 (old priority -9, new priority 3, time remaining 751)
+Time 1777: Adding task 32925 (time remaining 215)
+Time 1777: Renicing task 65447 (old priority -3, new priority -1, time remaining 87)
+Time 1780: Adding task 64641 (time remaining 695)
+Time 1780: Renicing task 21372 (old priority 0, new priority 2, time remaining 322)
+Time 1781: Adding task 54583 (time remaining 950)
+Time 1781: Renicing task 24106 (old priority 0, new priority 2, time remaining 757)
+Time 1781: Adding task 60072 (time remaining 863)
+Time 1781: Renicing task 64339 (old priority 0, new priority -7, time remaining 614)
+Time 1784: Adding task 13126 (time remaining 931)
+Time 1784: Renicing task 34173 (old priority 5, new priority 0, time remaining 839)
+Time 1784: Adding task 9301 (time remaining 141)
+Time 1784: Renicing task 14409 (old priority 0, new priority 10, time remaining 750)
+Time 1788: Adding task 54878 (time remaining 394)
+Time 1788: Renicing task 13126 (old priority 0, new priority 0, time remaining 931)
+Time 1790: Adding task 19014 (time remaining 342)
+Time 1790: Renicing task 28464 (old priority 9, new priority 2, time remaining 598)
+Time 1791: Adding task 9653 (time remaining 378)
+Time 1791: Renicing task 59193 (old priority 0, new priority 3, time remaining 489)
+Time 1794: Adding task 34434 (time remaining 63)
+Time 1794: Renicing task 47668 (old priority 0, new priority 5, time remaining 596)
+Time 1794: Adding task 63125 (time remaining 736)
+Time 1794: Renicing task 34045 (old priority -9, new priority -2, time remaining 665)
+Time 1796: Adding task 40184 (time remaining 691)
+Time 1796: Renicing task 22846 (old priority 5, new priority -9, time remaining 784)
+Time 1797: Adding task 5969 (time remaining 925)
+Time 1797: Renicing task 54320 (old priority 4, new priority 8, time remaining 330)
+Time 1801: Adding task 11903 (time remaining 86)
+Time 1801: Renicing task 41254 (old priority 0, new priority -7, time remaining 674)
+Time 1802: Adding task 11877 (time remaining 721)
+Time 1802: Renicing task 53237 (old priority 0, new priority 6, time remaining 915)
+Time 1806: Adding task 607 (time remaining 864)
+Time 1806: Renicing task 48068 (old priority 0, new priority -4, time remaining 939)
+Time 1807: Adding task 6589 (time remaining 818)
+Time 1807: Renicing task 1136 (old priority 10, new priority -6, time remaining 330)
+Time 1810: Adding task 52321 (time remaining 985)
+Time 1810: Renicing task 26209 (old priority 0, new priority -4, time remaining 69)
+Time 1812: Adding task 8604 (time remaining 829)
+Time 1812: Renicing task 5098 (old priority 7, new priority -9, time remaining 529)
+Time 1813: Adding task 56613 (time remaining 365)
+Time 1813: Renicing task 42762 (old priority 0, new priority 0, time remaining 528)
+Time 1815: Adding task 20347 (time remaining 255)
+Time 1815: Renicing task 43364 (old priority 0, new priority -10, time remaining 678)
+Time 1819: Adding task 36877 (time remaining 221)
+Time 1819: Renicing task 33663 (old priority 0, new priority 1, time remaining 828)
+Time 1820: Adding task 32189 (time remaining 649)
+Time 1820: Renicing task 32925 (old priority 0, new priority -7, time remaining 215)
+Time 1822: Adding task 31231 (time remaining 362)
+Time 1822: Renicing task 56583 (old priority -5, new priority -9, time remaining 40)
+Time 1825: Adding task 38755 (time remaining 214)
+Time 1825: Renicing task 14011 (old priority 0, new priority 9, time remaining 562)
+Time 1827: Adding task 3 (time remaining 878)
+Time 1827: Renicing task 11201 (old priority -10, new priority -4, time remaining 27)
+Time 1830: Adding task 31144 (time remaining 275)
+Time 1830: Renicing task 49629 (old priority 0, new priority 8, time remaining 559)
+Time 1830: Adding task 56216 (time remaining 529)
+Time 1830: Renicing task 18528 (old priority 0, new priority 10, time remaining 387)
+Time 1830: Adding task 55842 (time remaining 538)
+Time 1830: Renicing task 37105 (old priority 0, new priority -10, time remaining 386)
+Time 1834: Adding task 14058 (time remaining 709)
+Time 1834: Renicing task 58704 (old priority 0, new priority -7, time remaining 537)
+Time 1836: Adding task 64960 (time remaining 2)
+Time 1836: Renicing task 20082 (old priority 0, new priority 7, time remaining 365)
+Time 1837: Adding task 1666 (time remaining 598)
+Time 1837: Renicing task 59579 (old priority 0, new priority -10, time remaining 322)
+Time 1838: Adding task 21850 (time remaining 782)
+Time 1838: Renicing task 23829 (old priority 0, new priority -2, time remaining 49)
+Time 1841: Adding task 42767 (time remaining 185)
+Time 1841: Renicing task 13126 (old priority 0, new priority -5, time remaining 931)
+Time 1843: Adding task 50753 (time remaining 80)
+Time 1843: Renicing task 28514 (old priority 0, new priority -5, time remaining 104)
+Time 1846: Job 10619 finished
+Time 1847: Adding task 40099 (time remaining 720)
+Time 1847: Renicing task 6324 (old priority -9, new priority 7, time remaining 46)
+Time 1850: Adding task 28167 (time remaining 474)
+Time 1850: Renicing task 64094 (old priority 0, new priority 9, time remaining 954)
+Time 1852: Adding task 62355 (time remaining 464)
+Time 1852: Renicing task 49106 (old priority 0, new priority 1, time remaining 409)
+Time 1855: Adding task 41890 (time remaining 401)
+Time 1855: Renicing task 26861 (old priority 0, new priority 3, time remaining 939)
+Time 1855: Adding task 21469 (time remaining 263)
+Time 1855: Renicing task 42417 (old priority -5, new priority -9, time remaining 658)
+Time 1859: Adding task 19011 (time remaining 103)
+Time 1859: Renicing task 34303 (old priority -5, new priority 2, time remaining 606)
+Time 1862: Adding task 47344 (time remaining 45)
+Time 1862: Renicing task 45830 (old priority 0, new priority 5, time remaining 193)
+Time 1865: Adding task 55083 (time remaining 627)
+Time 1865: Renicing task 36428 (old priority 0, new priority 9, time remaining 113)
+Time 1865: Adding task 55241 (time remaining 150)
+Time 1865: Renicing task 60940 (old priority 3, new priority 6, time remaining 393)
+Time 1868: Adding task 45220 (time remaining 479)
+Time 1868: Renicing task 44290 (old priority -6, new priority 5, time remaining 385)
+Time 1868: Adding task 7941 (time remaining 440)
+Time 1868: Renicing task 5369 (old priority 0, new priority -4, time remaining 145)
+Time 1868: Adding task 27670 (time remaining 774)
+Time 1868: Renicing task 61391 (old priority -10, new priority 1, time remaining 854)
+Time 1868: Adding task 62158 (time remaining 96)
+Time 1868: Renicing task 49106 (old priority 1, new priority -6, time remaining 409)
+Time 1872: Adding task 29103 (time remaining 664)
+Time 1872: Renicing task 43867 (old priority 0, new priority -4, time remaining 401)
+Time 1873: Adding task 58092 (time remaining 723)
+Time 1873: Renicing task 24564 (old priority 1, new priority -10, time remaining 505)
+Time 1873: Adding task 22502 (time remaining 171)
+Time 1873: Renicing task 44526 (old priority -6, new priority 0, time remaining 667)
+Time 1877: Adding task 28417 (time remaining 484)
+Time 1877: Renicing task 35463 (old priority 4, new priority -9, time remaining 514)
+Time 1878: Adding task 60969 (time remaining 672)
+Time 1878: Renicing task 20339 (old priority 0, new priority -2, time remaining 690)
+Time 1880: Adding task 54507 (time remaining 289)
+Time 1880: Renicing task 57748 (old priority 0, new priority -5, time remaining 221)
+Time 1883: Adding task 7896 (time remaining 599)
+Time 1883: Renicing task 25697 (old priority -10, new priority -1, time remaining 939)
+Time 1884: Adding task 64377 (time remaining 658)
+Time 1884: Renicing task 2045 (old priority 1, new priority 1, time remaining 327)
+Time 1887: Adding task 9037 (time remaining 231)
+Time 1887: Renicing task 3662 (old priority 0, new priority -7, time remaining 701)
+Time 1890: Adding task 61510 (time remaining 39)
+Time 1890: Renicing task 40386 (old priority 0, new priority -1, time remaining 499)
+Time 1894: Adding task 45957 (time remaining 326)
+Time 1894: Renicing task 60419 (old priority 1, new priority -4, time remaining 538)
+Time 1896: Adding task 34568 (time remaining 101)
+Time 1896: Renicing task 40993 (old priority 0, new priority -8, time remaining 321)
+Time 1898: Adding task 1048 (time remaining 778)
+Time 1898: Renicing task 63333 (old priority -4, new priority 6, time remaining 812)
+Time 1901: Adding task 23317 (time remaining 781)
+Time 1901: Renicing task 10876 (old priority -2, new priority -4, time remaining 27)
+Time 1903: Adding task 19232 (time remaining 738)
+Time 1903: Renicing task 29682 (old priority 7, new priority -8, time remaining 138)
+Time 1906: Adding task 60830 (time remaining 72)
+Time 1906: Renicing task 34141 (old priority 8, new priority -10, time remaining 588)
+Time 1906: Adding task 52543 (time remaining 851)
+Time 1906: Renicing task 4217 (old priority -1, new priority 8, time remaining 449)
+Time 1910: Adding task 35941 (time remaining 371)
+Time 1910: Renicing task 9215 (old priority 5, new priority 7, time remaining 502)
+Time 1914: Adding task 59890 (time remaining 483)
+Time 1914: Renicing task 55991 (old priority 3, new priority 4, time remaining 118)
+Time 1914: Adding task 35243 (time remaining 443)
+Time 1914: Renicing task 9245 (old priority 8, new priority -5, time remaining 300)
+Time 1914: Adding task 28551 (time remaining 164)
+Time 1914: Renicing task 33767 (old priority 6, new priority -5, time remaining 330)
+Time 1917: Adding task 36656 (time remaining 686)
+Time 1917: Renicing task 49724 (old priority 0, new priority 1, time remaining 586)
+Time 1920: Adding task 32240 (time remaining 53)
+Time 1920: Renicing task 19011 (old priority 0, new priority -9, time remaining 103)
+Time 1923: Adding task 14154 (time remaining 134)
+Time 1923: Renicing task 64396 (old priority 0, new priority 8, time remaining 616)
+Time 1923: Adding task 8837 (time remaining 363)
+Time 1923: Renicing task 63605 (old priority 0, new priority -5, time remaining 798)
+Time 1925: Adding task 55572 (time remaining 402)
+Time 1925: Renicing task 40568 (old priority 0, new priority -5, time remaining 710)
+Time 1928: Adding task 30611 (time remaining 631)
+Time 1928: Renicing task 54782 (old priority 2, new priority -8, time remaining 248)
+Time 1928: Adding task 39709 (time remaining 826)
+Time 1928: Renicing task 41655 (old priority 0, new priority 4, time remaining 589)
+Time 1928: Adding task 45062 (time remaining 12)
+Time 1928: Renicing task 64777 (old priority -8, new priority 10, time remaining 656)
+Time 1931: Adding task 29632 (time remaining 23)
+Time 1931: Renicing task 13341 (old priority 0, new priority 3, time remaining 760)
+Time 1932: Adding task 62287 (time remaining 416)
+Time 1932: Renicing task 1813 (old priority 0, new priority 10, time remaining 860)
+Time 1934: Adding task 2824 (time remaining 36)
+Time 1934: Renicing task 39690 (old priority -2, new priority -4, time remaining 231)
+Time 1934: Adding task 3742 (time remaining 85)
+Time 1934: Renicing task 34398 (old priority 0, new priority 6, time remaining 605)
+Time 1936: Adding task 18558 (time remaining 565)
+Time 1936: Renicing task 2832 (old priority 0, new priority 2, time remaining 462)
+Time 1938: Adding task 45139 (time remaining 130)
+Time 1938: Renicing task 53249 (old priority 0, new priority 4, time remaining 499)
+Time 1940: Adding task 19276 (time remaining 907)
+Time 1940: Renicing task 49190 (old priority 0, new priority 5, time remaining 723)
+Time 1941: Adding task 28714 (time remaining 162)
+Time 1941: Renicing task 50367 (old priority -5, new priority 2, time remaining 301)
+Time 1943: Adding task 13667 (time remaining 738)
+Time 1943: Renicing task 29551 (old priority 0, new priority -2, time remaining 232)
+Time 1943: Adding task 17252 (time remaining 777)
+Time 1943: Renicing task 28273 (old priority 0, new priority 4, time remaining 26)
+Time 1947: Adding task 28319 (time remaining 647)
+Time 1947: Renicing task 41955 (old priority 8, new priority 2, time remaining 865)
+Time 1950: Adding task 65341 (time remaining 703)
+Time 1950: Renicing task 23543 (old priority 0, new priority -1, time remaining 662)
+Time 1951: Adding task 13299 (time remaining 512)
+Time 1951: Renicing task 38443 (old priority 7, new priority -6, time remaining 62)
+Time 1953: Adding task 12045 (time remaining 722)
+Time 1953: Renicing task 37651 (old priority -1, new priority -1, time remaining 378)
+Time 1956: Adding task 35907 (time remaining 642)
+Time 1956: Renicing task 2696 (old priority 0, new priority -8, time remaining 22)
+Time 1960: Adding task 9404 (time remaining 84)
+Time 1960: Renicing task 48068 (old priority -4, new priority 7, time remaining 939)
+Time 1964: Adding task 16726 (time remaining 761)
+Time 1964: Renicing task 1876 (old priority 0, new priority 7, time remaining 852)
+Time 1966: Adding task 52335 (time remaining 438)
+Time 1966: Renicing task 36807 (old priority 0, new priority -9, time remaining 853)
+Time 1969: Adding task 43852 (time remaining 64)
+Time 1969: Renicing task 11940 (old priority 1, new priority 6, time remaining 749)
+Time 1971: Adding task 21807 (time remaining 647)
+Time 1971: Renicing task 27670 (old priority 0, new priority -2, time remaining 774)
+Time 1973: Adding task 59498 (time remaining 917)
+Time 1973: Renicing task 45752 (old priority 0, new priority -10, time remaining 535)
+Time 1976: Adding task 14945 (time remaining 918)
+Time 1976: Renicing task 3759 (old priority 3, new priority -6, time remaining 389)
+Time 1977: Adding task 13952 (time remaining 888)
+Time 1977: Renicing task 64909 (old priority 7, new priority -1, time remaining 420)
+Time 1978: Adding task 4999 (time remaining 224)
+Time 1978: Renicing task 50852 (old priority 0, new priority 6, time remaining 776)
+Time 1979: Adding task 17982 (time remaining 344)
+Time 1979: Renicing task 5590 (old priority -4, new priority 1, time remaining 977)
+Time 2594: Job 16255 finished
+Time 2920: Job 16314 finished
+Time 2980: Job 16644 finished
+Time 3844: Job 17426 finished
+Time 4318: Job 17540 finished
+Time 4820: Job 22289 finished
+Time 5351: Job 22493 finished
+Time 5856: Job 24564 finished
+Time 6176: Job 31692 finished
+Time 6619: Job 31946 finished
+Time 7207: Job 34141 finished
+Time 7853: Job 36293 finished
+Time 8239: Job 37105 finished
+Time 8865: Job 39947 finished
+Time 9543: Job 43364 finished
+Time 10352: Job 44191 finished
+Time 11164: Job 44644 finished
+Time 11446: Job 44899 finished
+Time 11981: Job 45752 finished
+Time 12569: Job 46975 finished
+Time 13542: Job 51267 finished
+Time 14165: Job 57401 finished
+Time 14487: Job 59579 finished
+Time 15376: Job 60712 finished
+Time 16075: Job 62752 finished
+Time 16903: Job 31 finished
+Time 17405: Job 51 finished
+Time 18314: Job 995 finished
+Time 18345: Job 1709 finished
+Time 18874: Job 5098 finished
+Time 19066: Job 13377 finished
+Time 19097: Job 15104 finished
+Time 20003: Job 17065 finished
+Time 20106: Job 19011 finished
+Time 20158: Job 22646 finished
+Time 20942: Job 22846 finished
+Time 21203: Job 25932 finished
+Time 21301: Job 28513 finished
+Time 21535: Job 29963 finished
+Time 22450: Job 33287 finished
+Time 22964: Job 35463 finished
+Time 23817: Job 36807 finished
+Time 24749: Job 42118 finished
+Time 25407: Job 42417 finished
+Time 25830: Job 42632 finished
+Time 25875: Job 46388 finished
+Time 25965: Job 55689 finished
+Time 26005: Job 56583 finished
+Time 26107: Job 56624 finished
+Time 26708: Job 59458 finished
+Time 27064: Job 60165 finished
+Time 27250: Job 1691 finished
+Time 27272: Job 2696 finished
+Time 27840: Job 6491 finished
+Time 28656: Job 9057 finished
+Time 28980: Job 9418 finished
+Time 29631: Job 12970 finished
+Time 29762: Job 21077 finished
+Time 30133: Job 22339 finished
+Time 31128: Job 22404 finished
+Time 31564: Job 27918 finished
+Time 31702: Job 29682 finished
+Time 32136: Job 34845 finished
+Time 32992: Job 35181 finished
+Time 33313: Job 40993 finished
+Time 33520: Job 47333 finished
+Time 33768: Job 54782 finished
+Time 34148: Job 59721 finished
+Time 35118: Job 10 finished
+Time 35948: Job 2043 finished
+Time 36649: Job 3662 finished
+Time 37625: Job 5414 finished
+Time 37924: Job 10185 finished
+Time 38479: Job 12917 finished
+Time 39281: Job 17483 finished
+Time 39311: Job 17838 finished
+Time 39326: Job 19558 finished
+Time 39486: Job 19664 finished
+Time 40234: Job 26766 finished
+Time 40638: Job 27384 finished
+Time 40805: Job 27529 finished
+Time 41020: Job 32925 finished
+Time 41263: Job 33242 finished
+Time 41409: Job 34024 finished
+Time 41669: Job 34659 finished
+Time 42334: Job 37542 finished
+Time 43008: Job 41254 finished
+Time 43574: Job 46191 finished
+Time 43687: Job 50999 finished
+Time 44639: Job 53486 finished
+Time 45176: Job 58704 finished
+Time 45183: Job 61902 finished
+Time 46045: Job 62325 finished
+Time 46743: Job 63823 finished
+Time 47357: Job 64339 finished
+Time 48341: Job 64476 finished
+Time 49282: Job 11 finished
+Time 50028: Job 18 finished
+Time 50358: Job 1136 finished
+Time 50747: Job 3759 finished
+Time 51023: Job 4103 finished
+Time 51355: Job 7470 finished
+Time 51401: Job 10554 finished
+Time 51738: Job 10884 finished
+Time 52045: Job 12477 finished
+Time 52409: Job 15093 finished
+Time 52848: Job 20013 finished
+Time 53658: Job 21688 finished
+Time 54083: Job 23534 finished
+Time 54445: Job 26715 finished
+Time 55369: Job 27013 finished
+Time 55431: Job 38443 finished
+Time 56196: Job 38589 finished
+Time 56585: Job 40435 finished
+Time 56597: Job 41542 finished
+Time 56604: Job 42975 finished
+Time 56935: Job 44128 finished
+Time 57344: Job 49106 finished
+Time 57718: Job 2232 finished
+Time 58018: Job 9245 finished
+Time 58739: Job 10488 finished
+Time 58782: Job 10929 finished
+Time 59713: Job 13126 finished
+Time 59999: Job 19208 finished
+Time 60737: Job 19638 finished
+Time 61601: Job 21403 finished
+Time 61673: Job 22396 finished
+Time 61777: Job 28514 finished
+Time 62651: Job 29055 finished
+Time 62981: Job 33767 finished
+Time 63056: Job 33812 finished
+Time 63367: Job 33856 finished
+Time 63381: Job 38154 finished
+Time 64091: Job 40568 finished
+Time 64203: Job 41608 finished
+Time 64901: Job 47980 finished
+Time 65122: Job 57748 finished
+Time 65865: Job 59674 finished
+Time 66663: Job 63605 finished
+Time 67108: Job 64201 finished
+Time 67853: Job 64286 finished
+Time 67958: Job 1978 finished
+Time 67985: Job 4146 finished
+Time 68130: Job 5369 finished
+Time 68179: Job 10674 finished
+Time 68206: Job 10876 finished
+Time 68233: Job 11201 finished
+Time 68667: Job 12196 finished
+Time 68890: Job 15879 finished
+Time 69636: Job 19691 finished
+Time 70267: Job 21550 finished
+Time 70799: Job 23136 finished
+Time 71494: Job 23369 finished
+Time 71909: Job 23571 finished
+Time 71978: Job 26209 finished
+Time 71986: Job 33403 finished
+Time 72251: Job 34939 finished
+Time 72776: Job 38248 finished
+Time 72873: Job 38579 finished
+Time 73786: Job 38929 finished
+Time 74758: Job 39125 finished
+Time 74989: Job 39690 finished
+Time 75390: Job 43867 finished
+Time 76026: Job 44328 finished
+Time 76564: Job 60419 finished
+Time 76985: Job 61218 finished
+Time 77700: Job 62723 finished
+Time 78303: Job 65022 finished
+Time 78797: Job 4526 finished
+Time 79059: Job 6041 finished
+Time 79367: Job 12574 finished
+Time 79683: Job 20962 finished
+Time 80072: Job 26013 finished
+Time 80178: Job 26479 finished
+Time 80234: Job 32853 finished
+Time 80317: Job 36051 finished
+Time 81135: Job 36176 finished
+Time 81804: Job 36227 finished
+Time 81947: Job 36397 finished
+Time 82238: Job 43263 finished
+Time 82967: Job 43777 finished
+Time 83745: Job 48830 finished
+Time 84147: Job 59901 finished
+Time 84303: Job 63224 finished
+Time 84740: Job 65476 finished
+Time 85699: Job 60 finished
+Time 86508: Job 1806 finished
+Time 87057: Job 10403 finished
+Time 87324: Job 12338 finished
+Time 87628: Job 16308 finished
+Time 88491: Job 19960 finished
+Time 89181: Job 20339 finished
+Time 90180: Job 21005 finished
+Time 90229: Job 23829 finished
+Time 91003: Job 27670 finished
+Time 91235: Job 29551 finished
+Time 91415: Job 29737 finished
+Time 91703: Job 30640 finished
+Time 92368: Job 34045 finished
+Time 93262: Job 35281 finished
+Time 94124: Job 42066 finished
+Time 94728: Job 48608 finished
+Time 94778: Job 53112 finished
+Time 95135: Job 54736 finished
+Time 95231: Job 60123 finished
+Time 95689: Job 61661 finished
+Time 96500: Job 62154 finished
+Time 96850: Job 64689 finished
+Time 96933: Job 3194 finished
+Time 97009: Job 7169 finished
+Time 97737: Job 10541 finished
+Time 97848: Job 13937 finished
+Time 98510: Job 23543 finished
+Time 98578: Job 24959 finished
+Time 99517: Job 25697 finished
+Time 99615: Job 30823 finished
+Time 100177: Job 30901 finished
+Time 100902: Job 33508 finished
+Time 101526: Job 33651 finished
+Time 101904: Job 37651 finished
+Time 102449: Job 40226 finished
+Time 102948: Job 40386 finished
+Time 103013: Job 47493 finished
+Time 103185: Job 57635 finished
+Time 103572: Job 58629 finished
+Time 104341: Job 62569 finished
+Time 104849: Job 63466 finished
+Time 104857: Job 63821 finished
+Time 105277: Job 64909 finished
+Time 105364: Job 65447 finished
+Time 105642: Job 2 finished
+Time 106520: Job 3 finished
+Time 106591: Job 6 finished
+Time 107027: Job 8 finished
+Time 107037: Job 41 finished
+Time 107889: Job 167 finished
+Time 108289: Job 179 finished
+Time 109052: Job 549 finished
+Time 109160: Job 574 finished
+Time 110024: Job 607 finished
+Time 110207: Job 640 finished
+Time 110985: Job 1048 finished
+Time 111794: Job 1067 finished
+Time 112185: Job 1332 finished
+Time 112909: Job 1399 finished
+Time 113095: Job 1418 finished
+Time 113693: Job 1666 finished
+Time 114204: Job 2418 finished
+Time 115174: Job 2794 finished
+Time 115210: Job 2824 finished
+Time 116054: Job 3242 finished
+Time 116824: Job 3327 finished
+Time 117500: Job 3418 finished
+Time 118377: Job 3653 finished
+Time 118462: Job 3742 finished
+Time 119367: Job 3856 finished
+Time 120270: Job 3874 finished
+Time 120997: Job 3895 finished
+Time 121908: Job 3942 finished
+Time 122161: Job 4231 finished
+Time 123056: Job 4406 finished
+Time 123380: Job 4477 finished
+Time 123902: Job 4480 finished
+Time 124645: Job 4527 finished
+Time 124859: Job 4620 finished
+Time 124869: Job 4671 finished
+Time 125775: Job 4910 finished
+Time 126680: Job 4917 finished
+Time 127125: Job 4958 finished
+Time 127349: Job 4999 finished
+Time 128341: Job 5040 finished
+Time 129216: Job 5387 finished
+Time 129502: Job 5521 finished
+Time 129689: Job 5944 finished
+Time 130400: Job 5952 finished
+Time 131325: Job 5969 finished
+Time 131533: Job 6020 finished
+Time 131876: Job 6227 finished
+Time 132145: Job 6388 finished
+Time 132963: Job 6589 finished
+Time 133808: Job 6682 finished
+Time 134802: Job 6902 finished
+Time 135721: Job 7115 finished
+Time 135828: Job 7452 finished
+Time 136190: Job 7697 finished
+Time 136598: Job 7768 finished
+Time 136862: Job 7862 finished
+Time 137110: Job 7887 finished
+Time 137709: Job 7896 finished
+Time 138149: Job 7941 finished
+Time 138460: Job 8301 finished
+Time 139418: Job 8423 finished
+Time 140011: Job 8529 finished
+Time 140840: Job 8604 finished
+Time 141057: Job 8704 finished
+Time 141420: Job 8837 finished
+Time 141629: Job 8842 finished
+Time 141860: Job 9037 finished
+Time 142307: Job 9041 finished
+Time 142568: Job 9127 finished
+Time 142709: Job 9301 finished
+Time 142793: Job 9404 finished
+Time 143171: Job 9653 finished
+Time 144054: Job 9772 finished
+Time 144847: Job 9868 finished
+Time 145565: Job 10101 finished
+Time 145862: Job 10248 finished
+Time 146484: Job 10387 finished
+Time 147064: Job 10418 finished
+Time 147416: Job 10595 finished
+Time 147627: Job 10610 finished
+Time 148445: Job 10675 finished
+Time 149237: Job 10924 finished
+Time 149752: Job 11192 finished
+Time 150623: Job 11199 finished
+Time 150681: Job 11479 finished
+Time 151645: Job 11747 finished
+Time 152366: Job 11877 finished
+Time 152452: Job 11903 finished
+Time 152571: Job 11998 finished
+Time 153293: Job 12045 finished
+Time 153347: Job 12490 finished
+Time 153954: Job 12745 finished
+Time 154875: Job 12999 finished
+Time 155593: Job 13025 finished
+Time 156105: Job 13299 finished
+Time 156168: Job 13320 finished
+Time 156616: Job 13427 finished
+Time 157047: Job 13450 finished
+Time 157665: Job 13458 finished
+Time 158403: Job 13667 finished
+Time 158990: Job 13784 finished
+Time 159684: Job 13825 finished
+Time 160572: Job 13952 finished
+Time 161281: Job 14058 finished
+Time 162079: Job 14116 finished
+Time 162991: Job 14143 finished
+Time 163125: Job 14154 finished
+Time 164097: Job 14257 finished
+Time 164818: Job 14269 finished
+Time 165201: Job 14427 finished
+Time 165904: Job 14580 finished
+Time 166348: Job 14684 finished
+Time 166587: Job 14874 finished
+Time 167505: Job 14945 finished
+Time 167792: Job 15071 finished
+Time 167831: Job 15360 finished
+Time 168347: Job 15467 finished
+Time 168828: Job 15567 finished
+Time 169371: Job 15695 finished
+Time 169800: Job 15902 finished
+Time 170384: Job 15914 finished
+Time 170864: Job 16172 finished
+Time 171858: Job 16623 finished
+Time 172676: Job 16635 finished
+Time 173437: Job 16726 finished
+Time 173652: Job 16919 finished
+Time 173893: Job 16966 finished
+Time 174670: Job 17252 finished
+Time 175195: Job 17526 finished
+Time 175696: Job 17550 finished
+Time 176624: Job 17629 finished
+Time 176968: Job 17982 finished
+Time 177959: Job 18239 finished
+Time 178019: Job 18326 finished
+Time 178584: Job 18558 finished
+Time 179289: Job 18594 finished
+Time 180042: Job 18997 finished
+Time 180384: Job 19014 finished
+Time 181122: Job 19232 finished
+Time 182029: Job 19276 finished
+Time 182151: Job 19377 finished
+Time 182445: Job 19386 finished
+Time 182808: Job 19397 finished
+Time 183620: Job 19782 finished
+Time 184171: Job 19909 finished
+Time 184492: Job 20052 finished
+Time 184855: Job 20169 finished
+Time 185110: Job 20347 finished
+Time 185120: Job 20418 finished
+Time 185777: Job 20492 finished
+Time 185874: Job 20752 finished
+Time 186137: Job 21469 finished
+Time 186524: Job 21621 finished
+Time 187171: Job 21807 finished
+Time 187953: Job 21850 finished
+Time 188152: Job 21992 finished
+Time 188440: Job 22419 finished
+Time 188611: Job 22502 finished
+Time 189319: Job 22542 finished
+Time 190275: Job 22637 finished
+Time 190345: Job 22800 finished
+Time 190494: Job 22904 finished
+Time 191469: Job 22906 finished
+Time 191691: Job 23175 finished
+Time 192582: Job 23312 finished
+Time 193363: Job 23317 finished
+Time 193853: Job 23525 finished
+Time 194260: Job 23581 finished
+Time 194632: Job 23588 finished
+Time 195018: Job 23724 finished
+Time 195143: Job 23759 finished
+Time 195839: Job 23849 finished
+Time 195906: Job 24101 finished
+Time 196201: Job 24304 finished
+Time 196820: Job 24632 finished
+Time 197592: Job 24705 finished
+Time 198111: Job 24916 finished
+Time 198997: Job 24940 finished
+Time 199115: Job 25005 finished
+Time 199830: Job 25046 finished
+Time 200742: Job 25222 finished
+Time 200844: Job 25262 finished
+Time 201721: Job 25452 finished
+Time 202229: Job 25522 finished
+Time 202308: Job 25744 finished
+Time 203237: Job 26080 finished
+Time 203600: Job 26446 finished
+Time 204310: Job 26586 finished
+Time 205062: Job 26605 finished
+Time 205430: Job 27472 finished
+Time 205962: Job 27876 finished
+Time 206246: Job 27945 finished
+Time 206370: Job 28072 finished
+Time 206844: Job 28167 finished
+Time 206851: Job 28199 finished
+Time 207596: Job 28251 finished
+Time 208243: Job 28319 finished
+Time 209127: Job 28394 finished
+Time 209611: Job 28417 finished
+Time 209675: Job 28475 finished
+Time 209839: Job 28551 finished
+Time 210384: Job 28713 finished
+Time 210546: Job 28714 finished
+Time 211047: Job 28735 finished
+Time 211711: Job 29103 finished
+Time 212338: Job 29132 finished
+Time 213103: Job 29445 finished
+Time 213126: Job 29632 finished
+Time 214093: Job 29817 finished
+Time 214614: Job 29846 finished
+Time 214634: Job 30036 finished
+Time 214933: Job 30215 finished
+Time 215534: Job 30245 finished
+Time 215776: Job 30459 finished
+Time 215904: Job 30491 finished
+Time 216535: Job 30611 finished
+Time 216960: Job 30696 finished
+Time 217953: Job 30821 finished
+Time 218830: Job 30843 finished
+Time 218927: Job 30969 finished
+Time 219171: Job 31076 finished
+Time 219446: Job 31144 finished
+Time 219808: Job 31231 finished
+Time 219849: Job 31585 finished
+Time 220204: Job 31763 finished
+Time 221141: Job 31831 finished
+Time 221560: Job 31846 finished
+Time 221789: Job 31923 finished
+Time 222699: Job 32042 finished
+Time 223348: Job 32189 finished
+Time 223401: Job 32240 finished
+Time 223704: Job 32493 finished
+Time 223976: Job 32658 finished
+Time 224351: Job 32741 finished
+Time 224489: Job 32766 finished
+Time 224713: Job 32867 finished
+Time 225691: Job 33231 finished
+Time 226632: Job 33455 finished
+Time 226750: Job 33539 finished
+Time 227393: Job 33720 finished
+Time 227568: Job 33828 finished
+Time 227864: Job 33923 finished
+Time 228418: Job 34040 finished
+Time 229257: Job 34173 finished
+Time 229320: Job 34434 finished
+Time 229421: Job 34568 finished
+Time 229997: Job 34682 finished
+Time 230079: Job 34796 finished
+Time 230451: Job 35012 finished
+Time 231019: Job 35053 finished
+Time 232007: Job 35197 finished
+Time 232450: Job 35243 finished
+Time 232491: Job 35332 finished
+Time 233282: Job 35359 finished
+Time 233306: Job 35538 finished
+Time 234250: Job 35681 finished
+Time 234451: Job 35741 finished
+Time 235093: Job 35907 finished
+Time 235464: Job 35941 finished
+Time 235872: Job 36018 finished
+Time 236165: Job 36286 finished
+Time 236781: Job 36610 finished
+Time 237467: Job 36656 finished
+Time 238017: Job 36756 finished
+Time 238607: Job 36825 finished
+Time 238828: Job 36877 finished
+Time 238882: Job 36889 finished
+Time 239245: Job 36894 finished
+Time 239540: Job 36923 finished
+Time 239682: Job 36988 finished
+Time 239706: Job 37107 finished
+Time 239917: Job 37113 finished
+Time 240897: Job 37489 finished
+Time 240983: Job 37620 finished
+Time 241457: Job 37661 finished
+Time 242180: Job 37769 finished
+Time 242233: Job 37792 finished
+Time 242791: Job 37917 finished
+Time 243012: Job 38023 finished
+Time 243981: Job 38160 finished
+Time 244634: Job 38381 finished
+Time 245444: Job 38483 finished
+Time 245594: Job 38494 finished
+Time 245916: Job 38557 finished
+Time 246776: Job 38558 finished
+Time 246990: Job 38755 finished
+Time 247819: Job 39282 finished
+Time 248603: Job 39375 finished
+Time 249414: Job 39466 finished
+Time 250001: Job 39508 finished
+Time 250991: Job 39517 finished
+Time 251817: Job 39709 finished
+Time 252537: Job 40099 finished
+Time 252585: Job 40107 finished
+Time 253276: Job 40184 finished
+Time 254269: Job 40230 finished
+Time 255060: Job 40258 finished
+Time 255866: Job 40492 finished
+Time 256063: Job 40679 finished
+Time 256134: Job 40837 finished
+Time 256529: Job 40881 finished
+Time 256857: Job 41001 finished
+Time 257191: Job 41065 finished
+Time 258123: Job 41080 finished
+Time 258261: Job 41177 finished
+Time 258763: Job 41370 finished
+Time 259617: Job 41388 finished
+Time 260456: Job 41440 finished
+Time 260603: Job 41464 finished
+Time 261345: Job 41721 finished
+Time 261560: Job 41826 finished
+Time 262288: Job 41853 finished
+Time 262648: Job 41886 finished
+Time 263049: Job 41890 finished
+Time 263068: Job 41962 finished
+Time 263704: Job 42049 finished
+Time 264273: Job 42221 finished
+Time 264947: Job 42707 finished
+Time 265475: Job 42762 finished
+Time 265660: Job 42767 finished
+Time 265719: Job 43101 finished
+Time 266107: Job 43321 finished
+Time 266688: Job 43386 finished
+Time 267101: Job 43503 finished
+Time 267619: Job 43685 finished
+Time 267683: Job 43852 finished
+Time 267721: Job 43957 finished
+Time 268013: Job 44289 finished
+Time 268987: Job 44411 finished
+Time 269841: Job 44433 finished
+Time 270508: Job 44526 finished
+Time 270760: Job 44550 finished
+Time 270987: Job 45041 finished
+Time 270999: Job 45062 finished
+Time 271001: Job 45120 finished
+Time 271131: Job 45139 finished
+Time 271610: Job 45220 finished
+Time 272045: Job 45305 finished
+Time 272382: Job 45369 finished
+Time 272849: Job 45565 finished
+Time 273055: Job 45627 finished
+Time 273977: Job 45744 finished
+Time 274795: Job 45793 finished
+Time 275172: Job 45943 finished
+Time 275498: Job 45957 finished
+Time 276202: Job 46394 finished
+Time 277019: Job 46942 finished
+Time 277811: Job 47069 finished
+Time 278801: Job 47074 finished
+Time 279547: Job 47186 finished
+Time 279592: Job 47344 finished
+Time 279846: Job 47382 finished
+Time 279945: Job 47557 finished
+Time 280659: Job 47571 finished
+Time 280671: Job 47611 finished
+Time 280846: Job 47832 finished
+Time 281102: Job 47834 finished
+Time 281133: Job 47866 finished
+Time 281736: Job 47966 finished
+Time 281824: Job 48244 finished
+Time 282419: Job 48286 finished
+Time 282915: Job 48476 finished
+Time 283266: Job 48537 finished
+Time 283312: Job 48550 finished
+Time 283795: Job 48554 finished
+Time 284112: Job 48559 finished
+Time 284924: Job 48634 finished
+Time 285439: Job 49200 finished
+Time 285681: Job 49210 finished
+Time 285815: Job 49456 finished
+Time 286581: Job 49667 finished
+Time 286720: Job 49819 finished
+Time 287636: Job 49920 finished
+Time 288406: Job 49922 finished
+Time 288547: Job 49995 finished
+Time 289355: Job 50082 finished
+Time 289399: Job 50230 finished
+Time 289963: Job 50232 finished
+Time 290131: Job 50340 finished
+Time 290688: Job 50719 finished
+Time 290768: Job 50753 finished
+Time 291077: Job 50931 finished
+Time 291205: Job 50975 finished
+Time 291390: Job 51070 finished
+Time 292385: Job 51117 finished
+Time 292817: Job 51393 finished
+Time 293576: Job 51750 finished
+Time 293592: Job 51869 finished
+Time 294098: Job 51986 finished
+Time 294188: Job 52159 finished
+Time 294748: Job 52264 finished
+Time 295733: Job 52321 finished
+Time 296171: Job 52335 finished
+Time 296384: Job 52338 finished
+Time 296428: Job 52354 finished
+Time 296580: Job 52378 finished
+Time 296917: Job 52398 finished
+Time 297768: Job 52543 finished
+Time 298362: Job 52555 finished
+Time 299049: Job 52603 finished
+Time 299750: Job 52688 finished
+Time 300380: Job 52711 finished
+Time 301342: Job 52729 finished
+Time 301771: Job 52742 finished
+Time 302579: Job 52797 finished
+Time 302933: Job 52843 finished
+Time 303629: Job 52877 finished
+Time 303794: Job 53026 finished
+Time 303850: Job 53208 finished
+Time 304114: Job 53383 finished
+Time 304198: Job 53386 finished
+Time 304841: Job 53402 finished
+Time 305138: Job 53745 finished
+Time 305941: Job 53751 finished
+Time 306296: Job 54003 finished
+Time 307142: Job 54097 finished
+Time 307294: Job 54116 finished
+Time 307635: Job 54138 finished
+Time 307651: Job 54322 finished
+Time 307940: Job 54507 finished
+Time 308890: Job 54583 finished
+Time 309008: Job 54664 finished
+Time 309192: Job 54733 finished
+Time 310146: Job 54863 finished
+Time 310540: Job 54878 finished
+Time 311171: Job 54926 finished
+Time 311798: Job 55083 finished
+Time 312306: Job 55155 finished
+Time 312456: Job 55241 finished
+Time 312858: Job 55572 finished
+Time 313170: Job 55649 finished
+Time 313708: Job 55842 finished
+Time 313746: Job 56160 finished
+Time 314275: Job 56216 finished
+Time 315116: Job 56366 finished
+Time 315481: Job 56613 finished
+Time 316322: Job 56658 finished
+Time 316779: Job 56678 finished
+Time 317008: Job 56710 finished
+Time 317555: Job 56921 finished
+Time 317977: Job 57358 finished
+Time 318963: Job 57504 finished
+Time 319457: Job 58017 finished
+Time 320180: Job 58092 finished
+Time 320885: Job 58111 finished
+Time 321817: Job 58164 finished
+Time 322073: Job 58264 finished
+Time 322417: Job 58277 finished
+Time 322430: Job 58632 finished
+Time 322981: Job 58657 finished
+Time 323849: Job 58816 finished
+Time 324499: Job 58998 finished
+Time 325311: Job 59070 finished
+Time 326266: Job 59429 finished
+Time 327183: Job 59498 finished
+Time 327783: Job 59552 finished
+Time 328266: Job 59890 finished
+Time 328859: Job 59905 finished
+Time 329722: Job 60072 finished
+Time 330079: Job 60218 finished
+Time 330274: Job 60533 finished
+Time 330810: Job 60744 finished
+Time 330882: Job 60830 finished
+Time 331554: Job 60969 finished
+Time 332535: Job 61022 finished
+Time 332791: Job 61050 finished
+Time 333718: Job 61378 finished
+Time 334157: Job 61404 finished
+Time 334196: Job 61510 finished
+Time 335062: Job 61525 finished
+Time 335739: Job 61612 finished
+Time 336615: Job 61845 finished
+Time 336768: Job 61958 finished
+Time 337460: Job 62102 finished
+Time 337556: Job 62158 finished
+Time 337820: Job 62196 finished
+Time 338788: Job 62268 finished
+Time 339204: Job 62287 finished
+Time 339668: Job 62355 finished
+Time 339826: Job 62672 finished
+Time 340562: Job 63125 finished
+Time 341243: Job 63290 finished
+Time 341260: Job 63496 finished
+Time 341558: Job 63895 finished
+Time 341840: Job 63965 finished
+Time 342655: Job 64090 finished
+Time 343070: Job 64324 finished
+Time 343728: Job 64377 finished
+Time 344180: Job 64449 finished
+Time 344957: Job 64541 finished
+Time 345652: Job 64641 finished
+Time 345753: Job 64688 finished
+Time 345755: Job 64960 finished
+Time 346129: Job 65100 finished
+Time 346939: Job 65102 finished
+Time 347442: Job 65168 finished
+Time 348308: Job 65260 finished
+Time 349011: Job 65341 finished
+Time 349206: Job 65529 finished
+Time 349514: Job 65534 finished
+Time 350111: Job 1513 finished
+Time 350438: Job 2045 finished
+Time 350730: Job 2710 finished
+Time 351060: Job 4780 finished
+Time 351790: Job 5002 finished
+Time 352767: Job 5590 finished
+Time 353400: Job 7956 finished
+Time 353469: Job 8231 finished
+Time 353976: Job 8610 finished
+Time 354604: Job 10116 finished
+Time 355248: Job 12086 finished
+Time 355630: Job 16985 finished
+Time 355846: Job 18097 finished
+Time 356609: Job 20135 finished
+Time 357383: Job 22278 finished
+Time 357873: Job 22862 finished
+Time 358648: Job 23658 finished
+Time 359476: Job 33663 finished
+Time 359639: Job 34476 finished
+Time 360111: Job 34519 finished
+Time 360274: Job 35892 finished
+Time 361267: Job 39542 finished
+Time 362225: Job 45431 finished
+Time 362677: Job 49583 finished
+Time 363263: Job 49724 finished
+Time 363534: Job 55073 finished
+Time 363948: Job 60832 finished
+Time 364802: Job 61391 finished
+Time 365264: Job 2832 finished
+Time 365830: Job 6799 finished
+Time 366661: Job 7428 finished
+Time 367163: Job 8587 finished
+Time 367621: Job 12701 finished
+Time 368180: Job 14333 finished
+Time 368502: Job 21372 finished
+Time 368687: Job 21604 finished
+Time 368775: Job 21747 finished
+Time 369055: Job 23630 finished
+Time 369812: Job 24106 finished
+Time 370230: Job 24238 finished
+Time 370569: Job 24474 finished
+Time 371074: Job 25990 finished
+Time 371672: Job 28464 finished
+Time 371909: Job 31538 finished
+Time 372182: Job 32457 finished
+Time 372998: Job 32564 finished
+Time 373036: Job 33062 finished
+Time 374011: Job 33990 finished
+Time 374735: Job 34018 finished
+Time 375341: Job 34303 finished
+Time 376206: Job 41955 finished
+Time 376670: Job 44237 finished
+Time 376763: Job 44868 finished
+Time 377064: Job 50367 finished
+Time 377995: Job 53287 finished
+Time 378501: Job 57192 finished
+Time 378799: Job 60953 finished
+Time 378926: Job 61427 finished
+Time 379373: Job 62548 finished
+Time 379692: Job 64773 finished
+Time 380093: Job 64844 finished
+Time 380321: Job 1553 finished
+Time 380406: Job 3260 finished
+Time 380666: Job 5999 finished
+Time 381426: Job 13341 finished
+Time 382348: Job 14353 finished
+Time 382480: Job 15300 finished
+Time 383173: Job 15767 finished
+Time 384071: Job 18328 finished
+Time 384752: Job 19674 finished
+Time 385584: Job 21433 finished
+Time 386004: Job 25618 finished
+Time 386755: Job 26335 finished
+Time 387694: Job 26861 finished
+Time 388046: Job 27276 finished
+Time 388774: Job 28169 finished
+Time 389579: Job 31352 finished
+Time 389855: Job 34088 finished
+Time 390462: Job 36595 finished
+Time 391120: Job 37750 finished
+Time 391547: Job 39934 finished
+Time 392354: Job 45636 finished
+Time 393068: Job 53400 finished
+Time 393960: Job 53621 finished
+Time 394317: Job 56761 finished
+Time 395170: Job 58253 finished
+Time 395659: Job 59193 finished
+Time 395786: Job 59649 finished
+Time 395907: Job 61054 finished
+Time 396176: Job 65036 finished
+Time 396704: Job 38 finished
+Time 396871: Job 61 finished
+Time 397568: Job 6434 finished
+Time 397991: Job 7126 finished
+Time 398891: Job 8316 finished
+Time 399311: Job 12510 finished
+Time 399502: Job 17061 finished
+Time 399526: Job 19608 finished
+Time 399806: Job 23597 finished
+Time 399832: Job 28273 finished
+Time 399914: Job 29283 finished
+Time 400380: Job 34633 finished
+Time 400969: Job 41655 finished
+Time 401549: Job 42594 finished
+Time 401968: Job 42753 finished
+Time 402884: Job 45291 finished
+Time 403709: Job 47699 finished
+Time 404305: Job 48796 finished
+Time 404619: Job 49322 finished
+Time 405118: Job 53249 finished
+Time 405236: Job 55991 finished
+Time 406002: Job 61151 finished
+Time 406351: Job 64886 finished
+Time 406651: Job 39 finished
+Time 407299: Job 2064 finished
+Time 407825: Job 8523 finished
+Time 407975: Job 12982 finished
+Time 408481: Job 21103 finished
+Time 408989: Job 21388 finished
+Time 409855: Job 22950 finished
+Time 410401: Job 23990 finished
+Time 410877: Job 25362 finished
+Time 411439: Job 27323 finished
+Time 411738: Job 31922 finished
+Time 412387: Job 32498 finished
+Time 412553: Job 33565 finished
+Time 413542: Job 34337 finished
+Time 414268: Job 36057 finished
+Time 414521: Job 36900 finished
+Time 415323: Job 37335 finished
+Time 415562: Job 38774 finished
+Time 416488: Job 39870 finished
+Time 416527: Job 42505 finished
+Time 417299: Job 43872 finished
+Time 417684: Job 44290 finished
+Time 417877: Job 45830 finished
+Time 418464: Job 46094 finished
+Time 419060: Job 47668 finished
+Time 419541: Job 48227 finished
+Time 420264: Job 49190 finished
+Time 421171: Job 59662 finished
+Time 421852: Job 62099 finished
+Time 422262: Job 65496 finished
+Time 423210: Job 56 finished
+Time 423424: Job 636 finished
+Time 424293: Job 1721 finished
+Time 424760: Job 6210 finished
+Time 424901: Job 9053 finished
+Time 425324: Job 9226 finished
+Time 426073: Job 11940 finished
+Time 426727: Job 12772 finished
+Time 427184: Job 13426 finished
+Time 427837: Job 14524 finished
+Time 428445: Job 15178 finished
+Time 428545: Job 16392 finished
+Time 428650: Job 23751 finished
+Time 429412: Job 29512 finished
+Time 429922: Job 29925 finished
+Time 430784: Job 30461 finished
+Time 431389: Job 34398 finished
+Time 431638: Job 35866 finished
+Time 431680: Job 38688 finished
+Time 431693: Job 44158 finished
+Time 432547: Job 45013 finished
+Time 433323: Job 50852 finished
+Time 434316: Job 51312 finished
+Time 435231: Job 53237 finished
+Time 435846: Job 53649 finished
+Time 436714: Job 59322 finished
+Time 437107: Job 60940 finished
+Time 437319: Job 61701 finished
+Time 438186: Job 62228 finished
+Time 438998: Job 63333 finished
+Time 439850: Job 1876 finished
+Time 440172: Job 5477 finished
+Time 440218: Job 6324 finished
+Time 441014: Job 7871 finished
+Time 441516: Job 9215 finished
+Time 442443: Job 9528 finished
+Time 443180: Job 15283 finished
+Time 443584: Job 17823 finished
+Time 443728: Job 18905 finished
+Time 444093: Job 20082 finished
+Time 444770: Job 23672 finished
+Time 445713: Job 24027 finished
+Time 446175: Job 26339 finished
+Time 446346: Job 27379 finished
+Time 446832: Job 33701 finished
+Time 447779: Job 38861 finished
+Time 448657: Job 45522 finished
+Time 449596: Job 48068 finished
+Time 450207: Job 57879 finished
+Time 450679: Job 2115 finished
+Time 451128: Job 4217 finished
+Time 451219: Job 6207 finished
+Time 451801: Job 12669 finished
+Time 452206: Job 12860 finished
+Time 452485: Job 14050 finished
+Time 452648: Job 14453 finished
+Time 452713: Job 14959 finished
+Time 453383: Job 15863 finished
+Time 453427: Job 19261 finished
+Time 454301: Job 19445 finished
+Time 454412: Job 28767 finished
+Time 455403: Job 31284 finished
+Time 455564: Job 33329 finished
+Time 456444: Job 33469 finished
+Time 457355: Job 37182 finished
+Time 457579: Job 41433 finished
+Time 457747: Job 41861 finished
+Time 458662: Job 44132 finished
+Time 459221: Job 49629 finished
+Time 459721: Job 52738 finished
+Time 460051: Job 54320 finished
+Time 460147: Job 60297 finished
+Time 460346: Job 63527 finished
+Time 460962: Job 64396 finished
+Time 461503: Job 2629 finished
+Time 461537: Job 3868 finished
+Time 462229: Job 4582 finished
+Time 462491: Job 5043 finished
+Time 463339: Job 7899 finished
+Time 463751: Job 13104 finished
+Time 464313: Job 14011 finished
+Time 464469: Job 14119 finished
+Time 465152: Job 17871 finished
+Time 465389: Job 18470 finished
+Time 465671: Job 23996 finished
+Time 466166: Job 24961 finished
+Time 466643: Job 30518 finished
+Time 467328: Job 35428 finished
+Time 467441: Job 36428 finished
+Time 467983: Job 39099 finished
+Time 468354: Job 44399 finished
+Time 468642: Job 47307 finished
+Time 469561: Job 52988 finished
+Time 470415: Job 58540 finished
+Time 470583: Job 59665 finished
+Time 471537: Job 64094 finished
+Time 472213: Job 64718 finished
+Time 473073: Job 1813 finished
+Time 474060: Job 2388 finished
+Time 474599: Job 9415 finished
+Time 474706: Job 10825 finished
+Time 475079: Job 11663 finished
+Time 475697: Job 13872 finished
+Time 476447: Job 14409 finished
+Time 476475: Job 16909 finished
+Time 476862: Job 18528 finished
+Time 477476: Job 18835 finished
+Time 477527: Job 25707 finished
+Time 477938: Job 31345 finished
+Time 477989: Job 32590 finished
+Time 478126: Job 32629 finished
+Time 479070: Job 34481 finished
+Time 480055: Job 42322 finished
+Time 480940: Job 44748 finished
+Time 481641: Job 46293 finished
+Time 482508: Job 49136 finished
+Time 483377: Job 54616 finished
+Time 483931: Job 57333 finished
+Time 484199: Job 58332 finished
+Time 485175: Job 58754 finished
+Time 485434: Job 63868 finished
+Time 486090: Job 64777 finished
+Time 486091: CPU Idle (ending simulation)

@@ -1,0 +1,18 @@
+2048
+0 add 1 10
+0 renice 1 -2
+0 add 2 25
+0 renice 2 -1
+2 kill 1
+2 add 3 12
+2 add 4 35
+2 add 6 46
+2 add 8 45
+2 add 9 78
+2 add 12 125
+3 add 11 12
+3 renice 12 -5
+6 kill 3
+6 add 5 12
+9 kill 8
+24 kill 12

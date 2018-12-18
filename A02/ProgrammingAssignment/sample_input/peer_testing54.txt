@@ -1,0 +1,35 @@
+8
+0 add 6 10
+0 add 7 10
+0 add 4 10
+0 add 5 10
+0 add 2 10
+0 add 3 10
+0 add 0 10
+0 add 1 10
+
+2 renice 0 10
+2 renice 0 0
+2 renice 0 -10
+2 renice 0 0
+
+4 renice 5 -10
+4 renice 5 0
+
+6 renice 7 10
+6 renice 7 -10
+6 renice 7 0
+
+7 kill 7
+7 kill 2
+7 kill 4
+7 kill 0
+
+17 add 0 5
+17 renice 0 5
+
+27 add 1 5
+27 renice 1 3
+
+47 add 6 10
+47 renice 6 -1

@@ -1,0 +1,12 @@
+30
+0 add 15 20
+0 add 10 25
+0 add 11 5
+0 add 12 15
+0 add 6 26
+0 renice 10 5
+0 kill 10
+0 kill 6
+39 add 9 1
+39 renice 9 -500
+541 add 29 10

@@ -1,0 +1,13 @@
+32768
+0 add 42 1
+0 renice 42 1000
+0 add 101 1
+0 renice 101 60
+0 add 1337 42
+0 add 3005 42
+1 renice 3005 2
+2 add 10 1
+2 add 1 1
+6 add 10 2
+6 kill 101
+40 kill 3005 2

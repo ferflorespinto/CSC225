@@ -1,0 +1,42 @@
+Time 0: Adding task 107 (time remaining 13)
+Time 0: Adding task 56 (time remaining 13)
+Time 0: Adding task 110 (time remaining 13)
+Time 0: Adding task 124 (time remaining 13)
+Time 0: Adding task 66 (time remaining 13)
+Time 0: Adding task 32 (time remaining 13)
+Time 0: Adding task 24 (time remaining 13)
+Time 0: Adding task 97 (time remaining 13)
+Time 0: Adding task 101 (time remaining 13)
+Time 12: Job 24 finished
+Time 13: Adding task 24 (time remaining 13)
+Time 13: Adding task 7 (time remaining 13)
+Time 13: Adding task 31 (time remaining 13)
+Time 13: Adding task 12 (time remaining 13)
+Time 13: Adding task 3 (time remaining 13)
+Time 13: Adding task 129 (time remaining 13)
+Time 13: Adding task 143 (time remaining 13)
+Time 13: Adding task 1 (time remaining 13)
+Time 13: Adding task 105 (time remaining 13)
+Time 13: Adding task 63 (time remaining 13)
+Time 13: Adding task 19 (time remaining 13)
+Time 13: Renicing task 101 (old priority 0, new priority 1, time remaining 13)
+Time 25: Job 1 finished
+Time 38: Job 3 finished
+Time 51: Job 7 finished
+Time 64: Job 12 finished
+Time 77: Job 19 finished
+Time 90: Job 24 finished
+Time 103: Job 31 finished
+Time 116: Job 32 finished
+Time 129: Job 56 finished
+Time 142: Job 63 finished
+Time 155: Job 66 finished
+Time 168: Job 97 finished
+Time 181: Job 105 finished
+Time 194: Job 107 finished
+Time 207: Job 110 finished
+Time 220: Job 124 finished
+Time 233: Job 129 finished
+Time 246: Killing task 101 (priority 1, time remaining 13)
+Time 246: Job 143 finished
+Time 247: CPU Idle (ending simulation)

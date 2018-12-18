@@ -1,0 +1,27 @@
+32768
+0 add 40 6
+0 add 10 22
+0 add 17 50
+0 add 18 4
+2 kill 40
+2 kill 18 
+3 add 4 6
+5 kill 4
+7 kill 10
+8 add 4 3
+10 renice 4 7
+10 renice 17 20
+10 add 6 4
+10 kill 4
+12 kill 6 
+13 add 225 6
+18 kill 225
+21 add 4 10
+21 add 10 22
+21 kill 17 
+22 add 6 7
+25 kill 4
+28 kill 6 
+28 add 221 6
+29 kill 221
+30 kill 10

@@ -1,0 +1,13 @@
+Time 0: Adding task 100 (time remaining 109)
+Time 0: Renicing task 100 (old priority 0, new priority -1, time remaining 109)
+Time 0: Adding task 99 (time remaining 100)
+Time 0: Renicing task 99 (old priority 0, new priority -1, time remaining 100)
+Time 0: Adding task 98 (time remaining 100)
+Time 0: Renicing task 98 (old priority 0, new priority -1, time remaining 100)
+Time 0: Adding task 97 (time remaining 100)
+Time 0: Renicing task 97 (old priority 0, new priority -1, time remaining 100)
+Time 99: Job 97 finished
+Time 199: Job 98 finished
+Time 299: Job 99 finished
+Time 408: Job 100 finished
+Time 409: CPU Idle (ending simulation)

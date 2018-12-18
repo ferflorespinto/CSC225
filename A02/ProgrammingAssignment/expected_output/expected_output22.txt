@@ -1,0 +1,52 @@
+Time 0: Adding task 6 (time remaining 3)
+Time 0: Adding task 1000 (time remaining 4)
+Time 0: Adding task 17 (time remaining 5)
+Time 0: Renicing task 6 (old priority 0, new priority -1, time remaining 3)
+Time 0: Renicing task 1000 (old priority 0, new priority 100, time remaining 4)
+Time 0: Renicing task 17 (old priority 0, new priority 1, time remaining 5)
+Time 2: Job 6 finished
+Time 4: Adding task 225 (time remaining 6)
+Time 7: Killing task 225 (priority 0, time remaining 3)
+Time 9: Renicing task 1000 (old priority 100, new priority -20, time remaining 4)
+Time 12: Job 1000 finished
+Time 14: Adding task 226 (time remaining 1)
+Time 14: Adding task 227 (time remaining 1)
+Time 14: Adding task 228 (time remaining 1)
+Time 14: Adding task 229 (time remaining 1)
+Time 14: Adding task 230 (time remaining 1)
+Time 14: Renicing task 226 (old priority 0, new priority 0, time remaining 1)
+Time 14: Renicing task 230 (old priority 0, new priority 1, time remaining 1)
+Time 14: Renicing task 227 (old priority 0, new priority 2, time remaining 1)
+Time 14: Renicing task 228 (old priority 0, new priority 3, time remaining 1)
+Time 14: Renicing task 229 (old priority 0, new priority -1, time remaining 1)
+Time 14: Renicing task 229 (old priority -1, new priority 2, time remaining 1)
+Time 14: Job 226 finished
+Time 15: Job 17 finished
+Time 16: Job 230 finished
+Time 17: Job 227 finished
+Time 18: Job 229 finished
+Time 19: Adding task 11 (time remaining 7)
+Time 19: Adding task 12 (time remaining 5)
+Time 21: Renicing task 11 (old priority 0, new priority 1, time remaining 5)
+Time 23: Renicing task 11 (old priority 1, new priority 0, time remaining 5)
+Time 27: Job 11 finished
+Time 30: Job 12 finished
+Time 31: Job 228 finished
+Time 32: Adding task 101 (time remaining 20)
+Time 32: Adding task 225 (time remaining 5)
+Time 32: Adding task 1000 (time remaining 5)
+Time 32: Adding task 226 (time remaining 1)
+Time 32: Renicing task 101 (old priority 0, new priority 101, time remaining 20)
+Time 36: Job 225 finished
+Time 37: Job 226 finished
+Time 42: Job 1000 finished
+Time 62: Renicing task 101 (old priority 101, new priority 1, time remaining 1)
+Time 62: Killing task 101 (priority 1, time remaining 1)
+Time 62: Adding task 1 (time remaining 1)
+Time 62: Renicing task 1 (old priority 0, new priority -1, time remaining 1)
+Time 62: Adding task 2 (time remaining 1)
+Time 62: Adding task 3 (time remaining 1)
+Time 62: Killing task 3 (priority 0, time remaining 1)
+Time 62: Killing task 1 (priority -1, time remaining 1)
+Time 62: Job 2 finished
+Time 63: CPU Idle (ending simulation)

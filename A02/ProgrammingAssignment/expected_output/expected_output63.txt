@@ -1,0 +1,7 @@
+Time 0: Adding task 0 (time remaining 5)
+Time 0: Adding task 1 (time remaining 5)
+Time 0: Adding task 2 (time remaining 5)
+Time 4: Killing task 0 (priority 0, time remaining 1)
+Time 8: Job 1 finished
+Time 13: Job 2 finished
+Time 14: CPU Idle (ending simulation)

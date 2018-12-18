@@ -1,0 +1,11 @@
+12345
+0 add 12344 321
+0 kill 12344
+0 add 12344 23
+22 kill 12344
+22 add 68 21
+22 renice 68 -4
+22 add 69 12
+22 renice 69 -4
+22 add 70 4
+22 renice 70 -4

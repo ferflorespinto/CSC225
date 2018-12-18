@@ -1,0 +1,21 @@
+Time 0: Adding task 65535 (time remaining 100)
+Time 0: Adding task 23 (time remaining 6)
+Time 0: Adding task 24 (time remaining 6)
+Time 0: Adding task 43 (time remaining 1)
+Time 0: Adding task 0 (time remaining 5)
+Time 0: Renicing task 65535 (old priority 0, new priority -10, time remaining 100)
+Time 0: Renicing task 23 (old priority 0, new priority 1, time remaining 6)
+Time 0: Renicing task 24 (old priority 0, new priority 0, time remaining 6)
+Time 0: Renicing task 43 (old priority 0, new priority 10, time remaining 1)
+Time 0: Renicing task 0 (old priority 0, new priority 5, time remaining 5)
+Time 50: Killing task 65535 (priority -10, time remaining 50)
+Time 52: Renicing task 43 (old priority 10, new priority -1, time remaining 1)
+Time 52: Job 43 finished
+Time 54: Renicing task 23 (old priority 1, new priority -4, time remaining 6)
+Time 54: Renicing task 24 (old priority 0, new priority -5, time remaining 3)
+Time 56: Adding task 65535 (time remaining 10)
+Time 56: Job 24 finished
+Time 62: Job 23 finished
+Time 72: Job 65535 finished
+Time 77: Job 0 finished
+Time 78: CPU Idle (ending simulation)

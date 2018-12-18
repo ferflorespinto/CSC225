@@ -1,0 +1,11 @@
+Time 0: Adding task 0 (time remaining 5)
+Time 0: Adding task 1 (time remaining 5)
+Time 0: Adding task 10 (time remaining 5)
+Time 0: Renicing task 10 (old priority 0, new priority 10, time remaining 5)
+Time 0: Renicing task 1 (old priority 0, new priority 10, time remaining 5)
+Time 1: Adding task 100 (time remaining 5)
+Time 3: Killing task 10 (priority 10, time remaining 5)
+Time 4: Job 0 finished
+Time 9: Job 100 finished
+Time 14: Job 1 finished
+Time 15: CPU Idle (ending simulation)

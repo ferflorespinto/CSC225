@@ -1,0 +1,9 @@
+25010
+0 add 0 5
+0 add 1 5
+0 add 2 5
+0 add 3 3
+0 add 5 4
+1 renice 1 -1
+2 renice 3 100
+2 renice 2 1

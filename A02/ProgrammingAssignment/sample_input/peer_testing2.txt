@@ -1,0 +1,13 @@
+1732
+0 add 2 4
+1 add 7 5
+2 renice 2 1
+6 add 10 7
+6 add 14 19
+6 renice 14 17
+7 kill 10
+7 add 5 3
+10 add 34 2
+10 renice 34 6
+11 add 77 4
+11 add 4 13 

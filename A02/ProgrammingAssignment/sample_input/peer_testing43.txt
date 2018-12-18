@@ -1,0 +1,16 @@
+1986
+0 add 1965 528
+0 add 1969 336
+0 add 1976 408
+0 add 1981 404
+0 add 1984 508
+0 add 1985 476
+0 renice 1965 1
+1 renice 1969 -1
+2 kill 1969
+2 renice 1976 0
+3 renice 1981 -1
+4 renice 1984 -2
+5 renice 1985 -3
+75 renice 1985 10
+100 renice 1965 22

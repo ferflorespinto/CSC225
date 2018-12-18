@@ -1,0 +1,15 @@
+8593
+0 add 24 8
+0 add 38 7
+0 add 98 9
+0 add 123 3
+0 add 334 4
+0 add 2234 9
+0 renice 38 100
+1 renice 123 -1
+1 renice 2234 -100
+8 kill 2234
+9 kill 38
+9 kill 98
+10 renice 334 -1234
+11 add 521 3

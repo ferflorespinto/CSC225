@@ -1,0 +1,10 @@
+32768
+0 add 100 3
+0 renice 100 1
+1 add 2017 4
+1 renice 2017 2
+2 add 10 3
+2 renice 10 -10
+3 add 49 7
+3 renice 49 200
+8 kill 49

@@ -1,0 +1,9 @@
+32768
+0 add 200 5
+0 renice 200 -10
+0 add 255 3
+0 renice 255 -2
+2 add 10 3
+2 renice 10 -10
+3 renice 255 -1
+6 add 10 5

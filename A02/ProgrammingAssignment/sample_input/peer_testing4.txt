@@ -1,0 +1,26 @@
+32768
+0 add 0 55
+0 add 1 25
+0 add 2 46
+0 add 3 36
+0 add 4 23
+0 add 5 12
+0 add 6 48
+2 renice 0 28
+2 renice 1 35
+2 renice 2 16
+2 renice 3 9
+2 renice 4 12
+2 renice 6 3
+4 renice 5 10
+4 add 7 2
+5 add 8 8
+6 renice 1 9
+6 renice 5 8
+10 kill 1
+11 renice 0 -100
+11 kill 6
+12 renice 2 3
+12 renice 0 34
+13 renice 8 -10
+14 kill 3

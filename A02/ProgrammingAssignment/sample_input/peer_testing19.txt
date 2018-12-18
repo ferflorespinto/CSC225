@@ -1,0 +1,25 @@
+32768
+0 add 6 3
+0 add 10 4
+1 renice 10 -2
+2 renice 6 -3
+3 add 300 300
+3 renice 300 -5
+30 add 20 4
+30 renice 20 -1
+35 renice 300 20
+40 kill 300
+41 add 64 9
+41 renice 64 5
+45 add 70 5
+45 add 71 5
+45 add 72 6
+45 add 73 6
+46 kill 72
+49 add 80 4
+50 renice 80 -1
+53 renice 71 -1
+55 add 23451 23
+60 add 32434 23
+61 kill 23451
+65 renice 32434 -3

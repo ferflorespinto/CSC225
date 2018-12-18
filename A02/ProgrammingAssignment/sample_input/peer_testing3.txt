@@ -1,0 +1,13 @@
+5001
+0 add 4 10
+0 add 32 7
+0 add 14 2
+0 add 92 30
+0 add 18 50
+0 add 3 6
+0 renice 18 -2
+0 renice 32 -1
+0 renice 4 31
+3 add 16 4
+8 kill 16
+10 renice 14 -3

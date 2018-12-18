@@ -1,0 +1,8 @@
+500
+0 add 5 5
+0 add 7 4
+0 add 10 3
+0 renice 7 -12
+0 renice 5 -1
+4 add 9 21
+4 renice 9 -5

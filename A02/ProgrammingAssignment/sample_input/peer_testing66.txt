@@ -1,0 +1,22 @@
+64444
+0 add 63333 22
+0 add 3 5
+0 add 29746 2
+0 add 7002 5
+0 renice 3 -1656
+0 add 368 1
+2 renice 63333 660
+6 add 7 63
+7 renice 7002 1072
+8 add 50167 6975
+10 add 8 624
+10 kill 7
+11 add 9 62
+15 add 26 7
+17 add 10 15
+19 renice 9 -68
+19 renice 10 -188
+256	add 36879 92
+256	renice  50167 -50
+289 renice 8 -10
+300 add 42 15

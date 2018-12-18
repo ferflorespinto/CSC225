@@ -1,0 +1,17 @@
+1818
+0 add 8 8
+0 add 18 6
+0 add 28 2
+0 add 38 5
+0 add 585 9
+0 add 888 6
+0 add 168 8
+1 renice 8 10
+1 renice 18 10
+1 renice 38 10
+2 renice 888 -8
+3 kill 8
+5 kill 888
+7 renice 168 -1
+7 renice 585 -1
+7 renice 18 -1

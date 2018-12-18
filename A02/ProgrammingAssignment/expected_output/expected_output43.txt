@@ -1,0 +1,21 @@
+Time 0: Adding task 1965 (time remaining 528)
+Time 0: Adding task 1969 (time remaining 336)
+Time 0: Adding task 1976 (time remaining 408)
+Time 0: Adding task 1981 (time remaining 404)
+Time 0: Adding task 1984 (time remaining 508)
+Time 0: Adding task 1985 (time remaining 476)
+Time 0: Renicing task 1965 (old priority 0, new priority 1, time remaining 528)
+Time 1: Renicing task 1969 (old priority 0, new priority -1, time remaining 335)
+Time 2: Killing task 1969 (priority -1, time remaining 334)
+Time 2: Renicing task 1976 (old priority 0, new priority 0, time remaining 408)
+Time 3: Renicing task 1981 (old priority 0, new priority -1, time remaining 404)
+Time 4: Renicing task 1984 (old priority 0, new priority -2, time remaining 508)
+Time 5: Renicing task 1985 (old priority 0, new priority -3, time remaining 476)
+Time 75: Renicing task 1985 (old priority -3, new priority 10, time remaining 406)
+Time 100: Renicing task 1965 (old priority 1, new priority 22, time remaining 528)
+Time 581: Job 1984 finished
+Time 984: Job 1981 finished
+Time 1391: Job 1976 finished
+Time 1797: Job 1985 finished
+Time 2325: Job 1965 finished
+Time 2326: CPU Idle (ending simulation)

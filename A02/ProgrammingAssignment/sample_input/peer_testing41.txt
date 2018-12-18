@@ -1,0 +1,7 @@
+3
+0 add 0 5
+0 add 1 5
+0 add 2 5
+0 renice 0 1
+0 renice 1 1
+0 renice 2 1

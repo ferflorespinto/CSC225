@@ -1,0 +1,17 @@
+40000
+0 add 1 3
+0 add 2 4
+0 add 3 5
+0 kill 3
+0 kill 1 
+0 add 4 10
+0 renice 4 50
+2 add 2020 20
+3 renice 2 1
+7 add 2112 10
+8 renice 2112 -10
+9 renice 2112 100
+10 add 30 4
+13 kill 2
+21 renice 2020 -11
+27 renice 2020 100

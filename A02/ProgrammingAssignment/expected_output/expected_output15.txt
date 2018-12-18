@@ -1,0 +1,14 @@
+Time 0: Adding task 622 (time remaining 1000)
+Time 0: Adding task 2222 (time remaining 7)
+Time 0: Adding task 0 (time remaining 100)
+Time 0: Adding task 55 (time remaining 10)
+Time 0: Adding task 88 (time remaining 10000)
+Time 0: Adding task 99 (time remaining 888)
+Time 99: Job 0 finished
+Time 109: Job 55 finished
+Time 1000: Renicing task 2222 (old priority 0, new priority -1000, time remaining 7)
+Time 1006: Job 2222 finished
+Time 10116: Job 88 finished
+Time 11004: Job 99 finished
+Time 12004: Job 622 finished
+Time 12005: CPU Idle (ending simulation)

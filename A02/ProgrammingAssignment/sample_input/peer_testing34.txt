@@ -1,0 +1,10 @@
+2500
+0 add 1000 30
+0 renice 1000 -2
+0 add 2017 4
+0 renice 2017 -1
+0 add 2 1
+0 renice 2 1 
+2 add 200 15
+7 renice 1000 0
+20 kill 1000

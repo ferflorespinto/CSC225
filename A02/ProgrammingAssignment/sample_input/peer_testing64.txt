@@ -1,0 +1,9 @@
+56605
+0 add 0 5
+0 add 3000 6
+0 add 2 5
+2 add 1560 12
+3 renice 3000 -5
+4 renice 1560 -5
+5 renice 0 10
+12 kill 1560

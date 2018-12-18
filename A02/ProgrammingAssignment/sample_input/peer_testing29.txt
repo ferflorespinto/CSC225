@@ -1,0 +1,15 @@
+4000
+0 add 1337 5
+0 add 343 9
+0 add 250 2
+0 add 4 15
+0 add 150 150
+0 renice 250 0
+0 renice 1337 1
+0 renice 343 2
+0 renice 4 3
+0 renice 150 4
+1 kill 250
+5 kill 1337
+13 kill 343
+27 kill 4

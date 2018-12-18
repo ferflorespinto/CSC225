@@ -1,0 +1,169 @@
+Time 0: Adding task 1 (time remaining 25)
+Time 0: Adding task 2 (time remaining 12)
+Time 0: Adding task 3 (time remaining 2)
+Time 0: Adding task 4 (time remaining 3)
+Time 0: Adding task 5 (time remaining 3)
+Time 0: Adding task 6 (time remaining 2)
+Time 0: Adding task 7 (time remaining 5)
+Time 0: Adding task 8 (time remaining 8)
+Time 0: Adding task 9 (time remaining 5)
+Time 0: Adding task 10 (time remaining 5)
+Time 1: Renicing task 1 (old priority 0, new priority -1225, time remaining 24)
+Time 1: Renicing task 3 (old priority 0, new priority -432, time remaining 2)
+Time 2: Renicing task 2 (old priority 0, new priority -555, time remaining 12)
+Time 4: Adding task 11 (time remaining 1)
+Time 4: Renicing task 8 (old priority 0, new priority 301, time remaining 8)
+Time 7: Adding task 12 (time remaining 5)
+Time 8: Renicing task 8 (old priority 301, new priority -810, time remaining 8)
+Time 8: Renicing task 5 (old priority 0, new priority -500, time remaining 3)
+Time 8: Renicing task 11 (old priority 0, new priority -488, time remaining 1)
+Time 11: Renicing task 8 (old priority -810, new priority 632, time remaining 8)
+Time 15: Killing task 12 (priority 0, time remaining 5)
+Time 15: Renicing task 7 (old priority 0, new priority -71, time remaining 5)
+Time 16: Killing task 7 (priority -71, time remaining 5)
+Time 17: Renicing task 5 (old priority -500, new priority 75, time remaining 3)
+Time 19: Adding task 13 (time remaining 1)
+Time 19: Renicing task 13 (old priority 0, new priority 1361, time remaining 1)
+Time 20: Renicing task 10 (old priority 0, new priority -491, time remaining 5)
+Time 20: Killing task 1 (priority -1225, time remaining 5)
+Time 20: Renicing task 13 (old priority 1361, new priority 44, time remaining 1)
+Time 25: Adding task 14 (time remaining 1)
+Time 25: Renicing task 14 (old priority 0, new priority -1903, time remaining 1)
+Time 25: Job 14 finished
+Time 30: Adding task 15 (time remaining 2)
+Time 30: Renicing task 15 (old priority 0, new priority -59, time remaining 2)
+Time 32: Adding task 16 (time remaining 3)
+Time 32: Job 2 finished
+Time 33: Adding task 17 (time remaining 6)
+Time 33: Adding task 18 (time remaining 3)
+Time 36: Renicing task 17 (old priority 0, new priority -921, time remaining 6)
+Time 36: Adding task 19 (time remaining 5)
+Time 39: Adding task 20 (time remaining 1)
+Time 39: Renicing task 20 (old priority 0, new priority 74, time remaining 1)
+Time 39: Killing task 10 (priority -491, time remaining 2)
+Time 41: Adding task 21 (time remaining 4)
+Time 41: Job 17 finished
+Time 42: Job 11 finished
+Time 44: Job 3 finished
+Time 46: Adding task 22 (time remaining 2)
+Time 46: Renicing task 22 (old priority 0, new priority 144, time remaining 2)
+Time 46: Job 15 finished
+Time 48: Adding task 23 (time remaining 5)
+Time 48: Renicing task 23 (old priority 0, new priority 1375, time remaining 5)
+Time 49: Job 4 finished
+Time 51: Job 6 finished
+Time 55: Adding task 24 (time remaining 5)
+Time 55: Adding task 25 (time remaining 1)
+Time 55: Renicing task 25 (old priority 0, new priority -1736, time remaining 1)
+Time 55: Adding task 26 (time remaining 3)
+Time 55: Job 25 finished
+Time 56: Adding task 27 (time remaining 3)
+Time 56: Renicing task 27 (old priority 0, new priority 709, time remaining 3)
+Time 57: Job 9 finished
+Time 59: Adding task 28 (time remaining 3)
+Time 60: Job 16 finished
+Time 61: Adding task 29 (time remaining 2)
+Time 61: Renicing task 29 (old priority 0, new priority -914, time remaining 2)
+Time 62: Job 29 finished
+Time 63: Adding task 30 (time remaining 4)
+Time 63: Renicing task 30 (old priority 0, new priority 541, time remaining 4)
+Time 65: Job 18 finished
+Time 67: Adding task 31 (time remaining 3)
+Time 67: Renicing task 31 (old priority 0, new priority 518, time remaining 3)
+Time 70: Job 19 finished
+Time 74: Renicing task 30 (old priority 541, new priority -1542, time remaining 4)
+Time 76: Adding task 32 (time remaining 1)
+Time 77: Job 30 finished
+Time 78: Adding task 33 (time remaining 3)
+Time 78: Renicing task 33 (old priority 0, new priority -317, time remaining 3)
+Time 80: Job 33 finished
+Time 81: Renicing task 23 (old priority 1375, new priority -1637, time remaining 5)
+Time 83: Adding task 34 (time remaining 4)
+Time 83: Renicing task 34 (old priority 0, new priority -1775, time remaining 4)
+Time 83: Adding task 35 (time remaining 3)
+Time 83: Renicing task 35 (old priority 0, new priority 1466, time remaining 3)
+Time 84: Adding task 36 (time remaining 3)
+Time 84: Renicing task 36 (old priority 0, new priority 1882, time remaining 3)
+Time 85: Adding task 37 (time remaining 4)
+Time 85: Renicing task 37 (old priority 0, new priority 944, time remaining 4)
+Time 86: Adding task 38 (time remaining 2)
+Time 86: Renicing task 38 (old priority 0, new priority 1532, time remaining 2)
+Time 86: Job 34 finished
+Time 87: Adding task 39 (time remaining 5)
+Time 87: Renicing task 39 (old priority 0, new priority -1592, time remaining 5)
+Time 89: Job 23 finished
+Time 94: Adding task 40 (time remaining 3)
+Time 94: Job 39 finished
+Time 95: Job 21 finished
+Time 100: Job 24 finished
+Time 101: Renicing task 35 (old priority 1466, new priority 1891, time remaining 3)
+Time 103: Job 26 finished
+Time 106: Job 28 finished
+Time 107: Adding task 41 (time remaining 4)
+Time 107: Renicing task 41 (old priority 0, new priority -1339, time remaining 4)
+Time 110: Job 41 finished
+Time 111: Adding task 42 (time remaining 1)
+Time 111: Renicing task 42 (old priority 0, new priority -1265, time remaining 1)
+Time 111: Job 42 finished
+Time 112: Adding task 43 (time remaining 1)
+Time 112: Renicing task 43 (old priority 0, new priority 824, time remaining 1)
+Time 112: Job 32 finished
+Time 113: Adding task 44 (time remaining 4)
+Time 113: Renicing task 44 (old priority 0, new priority -1977, time remaining 4)
+Time 114: Adding task 45 (time remaining 1)
+Time 114: Renicing task 45 (old priority 0, new priority 39, time remaining 1)
+Time 116: Job 44 finished
+Time 117: Adding task 46 (time remaining 2)
+Time 117: Adding task 47 (time remaining 4)
+Time 117: Renicing task 47 (old priority 0, new priority -1951, time remaining 4)
+Time 117: Adding task 48 (time remaining 3)
+Time 118: Adding task 49 (time remaining 3)
+Time 118: Renicing task 49 (old priority 0, new priority 1512, time remaining 3)
+Time 120: Job 47 finished
+Time 123: Job 40 finished
+Time 125: Job 46 finished
+Time 127: Adding task 50 (time remaining 5)
+Time 127: Renicing task 50 (old priority 0, new priority -1497, time remaining 5)
+Time 128: Adding task 51 (time remaining 2)
+Time 128: Renicing task 51 (old priority 0, new priority -108, time remaining 2)
+Time 128: Adding task 52 (time remaining 1)
+Time 131: Job 50 finished
+Time 133: Adding task 53 (time remaining 1)
+Time 133: Renicing task 53 (old priority 0, new priority 1148, time remaining 1)
+Time 133: Job 51 finished
+Time 134: Adding task 54 (time remaining 5)
+Time 135: Job 48 finished
+Time 136: Job 52 finished
+Time 139: Adding task 55 (time remaining 2)
+Time 141: Job 54 finished
+Time 143: Job 55 finished
+Time 144: Job 45 finished
+Time 145: Adding task 56 (time remaining 4)
+Time 148: Adding task 57 (time remaining 4)
+Time 148: Renicing task 57 (old priority 0, new priority -556, time remaining 4)
+Time 151: Job 57 finished
+Time 152: Job 56 finished
+Time 153: Renicing task 35 (old priority 1891, new priority -187, time remaining 3)
+Time 155: Job 35 finished
+Time 156: Adding task 58 (time remaining 5)
+Time 156: Renicing task 58 (old priority 0, new priority -676, time remaining 5)
+Time 160: Adding task 59 (time remaining 3)
+Time 160: Job 58 finished
+Time 163: Job 59 finished
+Time 164: Adding task 60 (time remaining 1)
+Time 164: Renicing task 60 (old priority 0, new priority 1770, time remaining 1)
+Time 164: Job 13 finished
+Time 165: Job 20 finished
+Time 168: Job 5 finished
+Time 170: Job 22 finished
+Time 173: Job 31 finished
+Time 181: Job 8 finished
+Time 184: Job 27 finished
+Time 185: Job 43 finished
+Time 189: Job 37 finished
+Time 190: Job 53 finished
+Time 193: Job 49 finished
+Time 195: Job 38 finished
+Time 196: Job 60 finished
+Time 199: Job 36 finished
+Time 200: CPU Idle (ending simulation)

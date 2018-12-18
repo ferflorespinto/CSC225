@@ -1,0 +1,16 @@
+65536
+0 add 65535 100
+0 add 23 6
+0 add 24 6
+0 add 43 1
+0 add 0 5
+0 renice 65535 -10
+0 renice 23 1
+0 renice 24 0
+0 renice 43 10
+0 renice 0 5
+50 kill 65535
+52 renice 43 -1
+54 renice 23 -4
+54 renice 24 -5
+56 add 65535 10

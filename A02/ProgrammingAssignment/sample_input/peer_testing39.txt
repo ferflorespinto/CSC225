@@ -1,0 +1,20 @@
+8192
+0 add 8000 12
+0 add 52 7
+0 add 48 9
+0 add 123 6
+0 add 14 4
+0 add 17 5
+0 add 76 8
+0 add 4242 400
+0 renice 48 -1
+0 renice 4242 100
+5 renice 17 -2
+9 renice 48 -10
+10 add 1678 8
+10 renice 1678 -100
+12 kill 123
+15 renice 4242 -100
+20 renice 4242 100
+20 add 7000 20
+20 renice 7000 -25

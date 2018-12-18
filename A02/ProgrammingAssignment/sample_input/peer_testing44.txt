@@ -1,0 +1,17 @@
+999
+0 add 9 2
+0 add 100 3
+1 kill 100 
+2 add 10 5
+4 renice 10 -1
+4 renice 10 -2
+5 renice 10 -100
+7 add 660 15
+7 renice 660 -2
+8 add 765 10
+8 renice 765 -3
+8 add 599 8
+9 renice 765 -1
+10 add 650 20
+10 renice 650 -1
+10 renice 599 -1
